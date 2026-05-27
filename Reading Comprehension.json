@@ -3,160 +3,560 @@
     "type": "passage",
     "content": "<h3>The Great Barrier Reef</h3>The Great Barrier Reef, stretching over 2,300 kilometers along the northeastern coast of Australia, is the world's largest coral reef system. It is home to thousands of unique marine species, from tiny clownfish to massive humpback whales. However, rising ocean temperatures caused by climate change have triggered massive coral bleaching events, where corals expel the colorful algae living inside them and turn bone-white. If the water remains too warm, the corals eventually die. While global efforts are underway to curb emissions, local conservationists are also working to plant heat-resistant coral species to help the reef survive.",
     "questions": [
-      {"q": "Where is the Great Barrier Reef located?", "opts": ["Northeastern Australia", "South Africa", "Western America", "Southeast Asia"], "ans": 0},
-      {"q": "What causes coral bleaching according to the passage?", "opts": ["Overfishing", "Rising ocean temperatures", "Pollution from tourism", "Low water levels"], "ans": 1},
-      {"q": "What happens to corals when they bleach?", "opts": ["They grow rapidly", "They lose their algae and turn white", "They turn deep red", "They eat more fish"], "ans": 1},
-      {"q": "What is a consequence if the ocean water stays too warm for too long?", "opts": ["The corals eventually die", "The reef expands", "New fish species migrate", "The algae grows faster"], "ans": 0},
-      {"q": "What is a local conservation effort mentioned in the text?", "opts": ["Banning all tourists", "Building artificial seawalls", "Planting heat-resistant coral", "Importing cold ocean water"], "ans": 2},
-      {"q": "How long is the Great Barrier Reef?", "opts": ["Around 500 kilometers", "Under 1,000 kilometers", "Over 2,300 kilometers", "Exactly 5,000 kilometers"], "ans": 2},
-      {"q": "The word 'expel' in the passage is closest in meaning to:", "opts": ["Invite", "Force out", "Absorb", "Destroy"], "ans": 1},
-      {"q": "The author's tone toward the future of the reef is best described as:", "opts": ["Entirely indifferent", "Cautious but hopeful", "Completely defeated", "Unrealistically joyful"], "ans": 1},
-      {"q": "What lives inside the corals that gives them color?", "opts": ["Tiny clownfish", "Humpback whales", "Algae", "Sea anemones"], "ans": 2},
-      {"q": "According to the passage, coral bleaching is triggered by:", "opts": ["Climate change", "Industrial waste", "Undersea volcanoes", "Severe storms"], "ans": 0}
+      {
+        "q": "Where is the Great Barrier Reef located?",
+        "opts": ["Northeastern Australia", "South Africa", "Western America", "Southeast Asia"],
+        "ans": 0
+      },
+      {
+        "q": "What causes coral bleaching according to the passage?",
+        "opts": ["Overfishing", "Rising ocean temperatures", "Pollution from tourism", "Low water levels"],
+        "ans": 1
+      },
+      {
+        "q": "What happens to corals when they bleach?",
+        "opts": ["They grow rapidly", "They lose their algae and turn white", "They turn deep red", "They eat more fish"],
+        "ans": 1
+      },
+      {
+        "q": "What is a consequence if the ocean water stays too warm for too long?",
+        "opts": ["The corals eventually die", "The reef expands", "New fish species migrate", "The algae grows faster"],
+        "ans": 0
+      },
+      {
+        "q": "What is a local conservation effort mentioned in the text?",
+        "opts": ["Banning all tourists", "Building artificial seawalls", "Planting heat-resistant coral", "Importing cold ocean water"],
+        "ans": 2
+      },
+      {
+        "q": "How long is the Great Barrier Reef?",
+        "opts": ["Around 500 kilometers", "Under 1,000 kilometers", "Over 2,300 kilometers", "Exactly 5,000 kilometers"],
+        "ans": 2
+      },
+      {
+        "q": "The word 'expel' in the passage is closest in meaning to:",
+        "opts": ["Invite", "Force out", "Absorb", "Destroy"],
+        "ans": 1
+      },
+      {
+        "q": "The author's tone toward the future of the reef is best described as:",
+        "opts": ["Entirely indifferent", "Cautious but hopeful", "Completely defeated", "Unrealistically joyful"],
+        "ans": 1
+      },
+      {
+        "q": "What lives inside the corals that gives them color?",
+        "opts": ["Tiny clownfish", "Humpback whales", "Algae", "Sea anemones"],
+        "ans": 2
+      },
+      {
+        "q": "According to the passage, coral bleaching is triggered by:",
+        "opts": ["Climate change", "Industrial waste", "Undersea volcanoes", "Severe storms"],
+        "ans": 0
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The Mystery of Sleep</h3>Sleep remains one of biology's greatest mysteries. Although we spend about a third of our lives asleep, scientists are still uncovering why we need it. It is clear that sleep is not a passive state. During sleep, our brains are highly active, performing critical maintenance work. One major function of sleep is memory consolidation, where the brain processes information gathered throughout the day, transferring it from temporary storage to long-term memory. Additionally, sleep allows the body to repair tissues and clear out metabolic waste. Lacking adequate sleep impairs cognitive functions, including attention, decision-making, and emotional regulation.",
     "questions": [
-      {"q": "How much of our lives do we spend sleeping?", "opts": ["About a third", "Over a half", "Exactly a quarter", "Nearly two-thirds"], "ans": 0},
-      {"q": "According to the text, sleep is a state that is:", "opts": ["Completely inactive", "Highly active for the brain", "Purely mechanical", "Useless for the body"], "ans": 1},
-      {"q": "What is the process of 'memory consolidation'?", "opts": ["Erasing bad memories", "Gathering temporary news", "Transferring information to long-term memory", "Forgetting unused facts"], "ans": 2},
-      {"q": "What physiological benefit does sleep provide to the body?", "opts": ["It builds muscle without exercise", "It repairs tissues and clears waste", "It stops the aging process", "It increases body temperature"], "ans": 1},
-      {"q": "Which cognitive function is impaired by a lack of sleep?", "opts": ["Decision-making", "Physical strength", "Eye-sight accuracy", "Hearing sensitivity"], "ans": 0},
-      {"q": "The word 'impairs' in the passage is closest in meaning to:", "opts": ["Improves", "Damages", "Restores", "Ignores"], "ans": 1},
-      {"q": "During sleep, the brain performs:", "opts": ["No biological function", "Critical maintenance work", "Voluntary motor control", "Digestive processing"], "ans": 1},
-      {"q": "Where is information stored before it goes to long-term memory?", "opts": ["Temporary storage", "In the spine", "In the blood", "In sensory organs"], "ans": 0},
-      {"q": "What is a physical sign of metabolic waste clearance during sleep?", "opts": ["It happens in the brain and body", "It stops heartbeats", "It causes vivid nightmares", "It requires complete darkness"], "ans": 0},
-      {"q": "The primary purpose of this passage is to:", "opts": ["Warn against late-night study", "Explain the active functions of sleep", "Describe dream interpretation", "Compare animal and human sleep"], "ans": 1}
+      {
+        "q": "How much of our lives do we spend sleeping?",
+        "opts": ["About a third", "Over a half", "Exactly a quarter", "Nearly two-thirds"],
+        "ans": 0
+      },
+      {
+        "q": "According to the text, sleep is a state that is:",
+        "opts": ["Completely inactive", "Highly active for the brain", "Purely mechanical", "Useless for the body"],
+        "ans": 1
+      },
+      {
+        "q": "What is the process of 'memory consolidation'?",
+        "opts": ["Erasing bad memories", "Gathering temporary news", "Transferring information to long-term memory", "Forgetting unused facts"],
+        "ans": 2
+      },
+      {
+        "q": "What physiological benefit does sleep provide to the body?",
+        "opts": ["It builds muscle without exercise", "It repairs tissues and clears waste", "It stops the aging process", "It increases body temperature"],
+        "ans": 1
+      },
+      {
+        "q": "Which cognitive function is impaired by a lack of sleep?",
+        "opts": ["Decision-making", "Physical strength", "Eye-sight accuracy", "Hearing sensitivity"],
+        "ans": 0
+      },
+      {
+        "q": "The word 'impairs' in the passage is closest in meaning to:",
+        "opts": ["Improves", "Damages", "Restores", "Ignores"],
+        "ans": 1
+      },
+      {
+        "q": "During sleep, the brain performs:",
+        "opts": ["No biological function", "Critical maintenance work", "Voluntary motor control", "Digestive processing"],
+        "ans": 1
+      },
+      {
+        "q": "Where is information stored before it goes to long-term memory?",
+        "opts": ["Temporary storage", "In the spine", "In the blood", "In sensory organs"],
+        "ans": 0
+      },
+      {
+        "q": "What is a physical sign of metabolic waste clearance during sleep?",
+        "opts": ["It happens in the brain and body", "It stops heartbeats", "It causes vivid nightmares", "It requires complete darkness"],
+        "ans": 0
+      },
+      {
+        "q": "The primary purpose of this passage is to:",
+        "opts": ["Warn against late-night study", "Explain the active functions of sleep", "Describe dream interpretation", "Compare animal and human sleep"],
+        "ans": 1
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The Silk Road</h3>The Silk Road was not a single paved road, but rather a vast network of ancient trade routes connecting China to the Mediterranean. For over a millennium, merchants carried silk, spices, glassware, and paper across treacherous deserts and high mountain passes. Yet, the Silk Road was far more than an economic highway; it was a channel for cultural exchange. Along with goods, religions, artistic styles, and technologies migrated across continents. Buddhism spread from India to East Asia, while papermaking techniques moved westward from China. The network declined in the 15th century as maritime trade routes became safer and faster.",
     "questions": [
-      {"q": "What was the Silk Road?", "opts": ["A single paved road", "A network of trade routes", "A canal for ships", "A wall built for defense"], "ans": 1},
-      {"q": "Which countries did the Silk Road connect?", "opts": ["China to the Mediterranean", "Egypt to South America", "India to North Europe", "China to Australia"], "ans": 0},
-      {"q": "What product did merchants carry along the routes?", "opts": ["Silk and spices", "Steam engines", "Plastic goods", "Steel weapons"], "ans": 0},
-      {"q": "Besides trade, what was a significant role of the Silk Road?", "opts": ["Fighting territorial wars", "Hosting athletic games", "Facilitating cultural exchange", "Testing new roads"], "ans": 2},
-      {"q": "How did Buddhism spread to East Asia?", "opts": ["Via ocean voyages", "Through Silk Road trade routes", "By royal decree", "It originated there"], "ans": 1},
-      {"q": "What technology moved westward from China?", "opts": ["Glassware making", "Papermaking", "Steam power", "Metal forging"], "ans": 1},
-      {"q": "When did the Silk Road network decline?", "opts": ["In the 15th century", "During the 10th century", "In the 19th century", "Around 2000 BC"], "ans": 0},
-      {"q": "Why did the Silk Road decline?", "opts": ["The routes were flooded", "Maritime trade became safer and faster", "Silk became worthless", "War destroyed all paths"], "ans": 1},
-      {"q": "The word 'treacherous' in the passage means:", "opts": ["Safe and easy", "Dangerous and unpredictable", "Short and direct", "Beautiful and scenic"], "ans": 1},
-      {"q": "What type of geography did merchants cross?", "opts": ["Mainly flat meadows", "Deserts and mountain passes", "Deep oceans", "Volcanic fields"], "ans": 1}
+      {
+        "q": "What was the Silk Road?",
+        "opts": ["A single paved road", "A network of trade routes", "A canal for ships", "A wall built for defense"],
+        "ans": 1
+      },
+      {
+        "q": "Which countries did the Silk Road connect?",
+        "opts": ["China to the Mediterranean", "Egypt to South America", "India to North Europe", "China to Australia"],
+        "ans": 0
+      },
+      {
+        "q": "What product did merchants carry along the routes?",
+        "opts": ["Silk and spices", "Steam engines", "Plastic goods", "Steel weapons"],
+        "ans": 0
+      },
+      {
+        "q": "Besides trade, what was a significant role of the Silk Road?",
+        "opts": ["Fighting territorial wars", "Hosting athletic games", "Facilitating cultural exchange", "Testing new roads"],
+        "ans": 2
+      },
+      {
+        "q": "How did Buddhism spread to East Asia?",
+        "opts": ["Via ocean voyages", "Through Silk Road trade routes", "By royal decree", "It originated there"],
+        "ans": 1
+      },
+      {
+        "q": "What technology moved westward from China?",
+        "opts": ["Glassware making", "Papermaking", "Steam power", "Metal forging"],
+        "ans": 1
+      },
+      {
+        "q": "When did the Silk Road network decline?",
+        "opts": ["In the 15th century", "During the 10th century", "In the 19th century", "Around 2000 BC"],
+        "ans": 0
+      },
+      {
+        "q": "Why did the Silk Road decline?",
+        "opts": ["The routes were flooded", "Maritime trade became safer and faster", "Silk became worthless", "War destroyed all paths"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'treacherous' in the passage means:",
+        "opts": ["Safe and easy", "Dangerous and unpredictable", "Short and direct", "Beautiful and scenic"],
+        "ans": 1
+      },
+      {
+        "q": "What type of geography did merchants cross?",
+        "opts": ["Mainly flat meadows", "Deserts and mountain passes", "Deep oceans", "Volcanic fields"],
+        "ans": 1
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>Artificial Intelligence in Medicine</h3>Artificial Intelligence (AI) is transforming healthcare at an unprecedented pace. Machine learning algorithms can now analyze medical images, such as X-rays and MRIs, with a level of accuracy that matches or sometimes surpasses human radiologists. This allows for earlier detection of life-threatening diseases like cancer. Furthermore, AI-driven robotic systems assist surgeons in performing delicate procedures with minimal invasiveness. Despite these advancements, the integration of AI raises ethical concerns. Issues regarding patient data privacy, the potential for algorithmic bias, and the responsibility for diagnostic errors remain highly debated topics in the medical community.",
     "questions": [
-      {"q": "How is AI currently transforming healthcare?", "opts": ["By replacing doctors entirely", "Through machine learning algorithms", "By manufacturing new drugs", "By keeping hospitals clean"], "ans": 1},
-      {"q": "What can machine learning algorithms analyze with high accuracy?", "opts": ["Patient diets", "Medical images like X-rays", "Hospital bills", "Staff schedules"], "ans": 1},
-      {"q": "What is a key benefit of using AI for image analysis?", "opts": ["Earlier disease detection", "Faster hospital checkout", "Lower electricity usage", "More detailed patient bills"], "ans": 0},
-      {"q": "How does AI assist surgeons?", "opts": ["By scheduling surgery times", "By taking notes during surgery", "Through AI-driven robotic systems", "By administering anesthesia"], "ans": 2},
-      {"q": "What is a major ethical concern regarding AI in medicine?", "opts": ["Patient data privacy", "The high cost of electricity", "The noise of robotic arms", "The design of hospital beds"], "ans": 0},
-      {"q": "The word 'surpasses' in the passage means:", "opts": ["Falls short of", "Exceeds or beats", "Matches exactly", "Replaces quickly"], "ans": 1},
-      {"q": "What type of disease is specifically mentioned as being detected earlier?", "opts": ["Common flu", "Heart attack", "Cancer", "Diabetes"], "ans": 2},
-      {"q": "What is 'algorithmic bias' in medical AI?", "opts": ["An error in the hospital schedule", "A software glitch in a robotic arm", "Unfair patterns in AI decision-making", "A sudden power outage"], "ans": 2},
-      {"q": "Who is responsible for diagnostic errors made by AI?", "opts": ["The hospital receptionist", "It is still a debated topic", "The patient", "The internet provider"], "ans": 1},
-      {"q": "The author's view on AI in medicine is that:", "opts": ["It is entirely negative", "It has great benefits but raises ethical concerns", "It is completely risk-free", "It should be banned immediately"], "ans": 1}
+      {
+        "q": "How is AI currently transforming healthcare?",
+        "opts": ["By replacing doctors entirely", "Through machine learning algorithms", "By manufacturing new drugs", "By keeping hospitals clean"],
+        "ans": 1
+      },
+      {
+        "q": "What can machine learning algorithms analyze with high accuracy?",
+        "opts": ["Patient diets", "Medical images like X-rays", "Hospital bills", "Staff schedules"],
+        "ans": 1
+      },
+      {
+        "q": "What is a key benefit of using AI for image analysis?",
+        "opts": ["Earlier disease detection", "Faster hospital checkout", "Lower electricity usage", "More detailed patient bills"],
+        "ans": 0
+      },
+      {
+        "q": "How does AI assist surgeons?",
+        "opts": ["By scheduling surgery times", "By taking notes during surgery", "Through AI-driven robotic systems", "By administering anesthesia"],
+        "ans": 2
+      },
+      {
+        "q": "What is a major ethical concern regarding AI in medicine?",
+        "opts": ["Patient data privacy", "The high cost of electricity", "The noise of robotic arms", "The design of hospital beds"],
+        "ans": 0
+      },
+      {
+        "q": "The word 'surpasses' in the passage means:",
+        "opts": ["Falls short of", "Exceeds or beats", "Matches exactly", "Replaces quickly"],
+        "ans": 1
+      },
+      {
+        "q": "What type of disease is specifically mentioned as being detected earlier?",
+        "opts": ["Common flu", "Heart attack", "Cancer", "Diabetes"],
+        "ans": 2
+      },
+      {
+        "q": "What is 'algorithmic bias' in medical AI?",
+        "opts": ["An error in the hospital schedule", "A software glitch in a robotic arm", "Unfair patterns in AI decision-making", "A sudden power outage"],
+        "ans": 2
+      },
+      {
+        "q": "Who is responsible for diagnostic errors made by AI?",
+        "opts": ["The hospital receptionist", "It is still a debated topic", "The patient", "The internet provider"],
+        "ans": 1
+      },
+      {
+        "q": "The author's view on AI in medicine is that:",
+        "opts": ["It is entirely negative", "It has great benefits but raises ethical concerns", "It is completely risk-free", "It should be banned immediately"],
+        "ans": 1
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The Honeybee Crisis</h3>Honeybees play a vital role in our global food supply, pollinating about one-third of the crops we consume. However, honeybee populations have been declining drastically due to Colony Collapse Disorder (CCD), a phenomenon where worker bees abruptly abandon their hives. Scientists believe CCD is caused by a combination of factors, including pesticide exposure, habitat loss, and parasitic mites. Without bees to pollinate plants, many fruits, vegetables, and nuts would disappear from our tables. Protecting bees requires reducing chemical pesticide use, planting wild gardens, and preserving natural habitats.",
     "questions": [
-      {"q": "What percentage of crops do honeybees pollinate?", "opts": ["Roughly one-third", "Exactly ten percent", "More than half", "All crops"], "ans": 0},
-      {"q": "What is 'Colony Collapse Disorder' (CCD)?", "opts": ["When worker bees abandon their hives", "When hives are destroyed by storms", "A type of bee disease", "When queen bees stop laying eggs"], "ans": 0},
-      {"q": "What is a factor contributing to CCD according to the passage?", "opts": ["Extreme cold weather", "Pesticide exposure", "Excessive rain", "Lack of pollen"], "ans": 1},
-      {"q": "What would happen if honeybee populations vanished?", "opts": ["Meat production would stop", "Many fruits, vegetables, and nuts would disappear", "Grasslands would dry up", "Global temperatures would rise"], "ans": 1},
-      {"q": "How can citizens help protect honeybees?", "opts": ["By capturing worker bees", "By building indoor hives", "By planting wild gardens", "By using stronger pesticides"], "ans": 2},
-      {"q": "The word 'drastically' in the passage is closest in meaning to:", "opts": ["Slightly", "Severely", "Gradually", "Happily"], "ans": 1},
-      {"q": "What parasites are mentioned as a cause of the bee crisis?", "opts": ["Fleas", "Parasitic mites", "Mosquitoes", "Spiders"], "ans": 1},
-      {"q": "Worker bees are responsible for:", "opts": ["Abandoning the hives in CCD", "Defending hives from humans", "Producing the wax", "Laying thousands of eggs"], "ans": 0},
-      {"q": "The passage suggests that protecting bees:", "opts": ["Requires complex laboratory science", "Requires reducing chemical pesticide use", "Is a minor agricultural issue", "Can be done by importing foreign bees"], "ans": 1},
-      {"q": "The tone of the passage is:", "opts": ["Humorous", "Alarmed and advocate", "Indifferent", "Aggressive"], "ans": 1}
+      {
+        "q": "What percentage of crops do honeybees pollinate?",
+        "opts": ["Roughly one-third", "Exactly ten percent", "More than half", "All crops"],
+        "ans": 0
+      },
+      {
+        "q": "What is 'Colony Collapse Disorder' (CCD)?",
+        "opts": ["When worker bees abandon their hives", "When hives are destroyed by storms", "A type of bee disease", "When queen bees stop laying eggs"],
+        "ans": 0
+      },
+      {
+        "q": "What is a factor contributing to CCD according to the passage?",
+        "opts": ["Extreme cold weather", "Pesticide exposure", "Excessive rain", "Lack of pollen"],
+        "ans": 1
+      },
+      {
+        "q": "What would happen if honeybee populations vanished?",
+        "opts": ["Meat production would stop", "Many fruits, vegetables, and nuts would disappear", "Grasslands would dry up", "Global temperatures would rise"],
+        "ans": 1
+      },
+      {
+        "q": "How can citizens help protect honeybees?",
+        "opts": ["By capturing worker bees", "By building indoor hives", "By planting wild gardens", "By using stronger pesticides"],
+        "ans": 2
+      },
+      {
+        "q": "The word 'drastically' in the passage is closest in meaning to:",
+        "opts": ["Slightly", "Severely", "Gradually", "Happily"],
+        "ans": 1
+      },
+      {
+        "q": "What parasites are mentioned as a cause of the bee crisis?",
+        "opts": ["Fleas", "Parasitic mites", "Mosquitoes", "Spiders"],
+        "ans": 1
+      },
+      {
+        "q": "Worker bees are responsible for:",
+        "opts": ["Abandoning the hives in CCD", "Defending hives from humans", "Producing the wax", "Laying thousands of eggs"],
+        "ans": 0
+      },
+      {
+        "q": "The passage suggests that protecting bees:",
+        "opts": ["Requires complex laboratory science", "Requires reducing chemical pesticide use", "Is a minor agricultural issue", "Can be done by importing foreign bees"],
+        "ans": 1
+      },
+      {
+        "q": "The tone of the passage is:",
+        "opts": ["Humorous", "Alarmed and advocate", "Indifferent", "Aggressive"],
+        "ans": 1
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The Discovery of Penicillin</h3>In 1928, Scottish bacteriologist Alexander Fleming made an accidental discovery that would change medicine forever. Upon returning from a vacation, he noticed that a green mold, Penicillium notatum, had contaminated one of his petri dishes. Surprisingly, the bacteria immediately surrounding the mold had been destroyed. Fleming realized the mold was producing a substance capable of killing harmful bacteria. This led to the development of penicillin, the world's first effective antibiotic. Penicillin saved millions of lives during World War II and ushered in the modern era of medicine, making once-fatal infections easily curable.",
     "questions": [
-      {"q": "Who discovered penicillin?", "opts": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Edward Jenner"], "ans": 1},
-      {"q": "In what year was penicillin discovered?", "opts": ["1895", "1928", "1945", "1914"], "ans": 1},
-      {"q": "How was penicillin discovered?", "opts": ["Through deliberate chemical synthesis", "Accidentally, via a contaminated petri dish", "By analyzing soil samples", "During a deep ocean expedition"], "ans": 1},
-      {"q": "What type of organism produced the bacteria-killing substance?", "opts": ["A virus", "A bacterium", "A green mold", "A plant root"], "ans": 2},
-      {"q": "What was the name of the mold that contaminated Fleming's dish?", "opts": ["Penicillium notatum", "Aspergillus niger", "Saccharomyces", "E. coli"], "ans": 0},
-      {"q": "How did penicillin impact World War II?", "opts": ["It was used as a weapon", "It saved millions of lives", "It prevented food spoilage", "It treated animal diseases"], "ans": 1},
-      {"q": "The word 'contaminated' in the passage is closest in meaning to:", "opts": ["Cleaned", "Polluted or infected", "Created", "Protected"], "ans": 1},
-      {"q": "What era of medicine did penicillin usher in?", "opts": ["The herbal era", "The era of antibiotics", "The robotic surgery era", "The ancient era"], "ans": 1},
-      {"q": "What did Fleming observe in the petri dish?", "opts": ["The bacteria surrounding the mold were destroyed", "The mold grew inside the bacteria", "The bacteria ate the mold", "The dish turned black"], "ans": 0},
-      {"q": "Before penicillin, many common bacterial infections were:", "opts": ["Easily curable", "Non-existent", "Once-fatal", "Treated with vaccines"], "ans": 2}
+      {
+        "q": "Who discovered penicillin?",
+        "opts": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Edward Jenner"],
+        "ans": 1
+      },
+      {
+        "q": "In what year was penicillin discovered?",
+        "opts": ["1895", "1928", "1945", "1914"],
+        "ans": 1
+      },
+      {
+        "q": "How was penicillin discovered?",
+        "opts": ["Through deliberate chemical synthesis", "Accidentally, via a contaminated petri dish", "By analyzing soil samples", "During a deep ocean expedition"],
+        "ans": 1
+      },
+      {
+        "q": "What type of organism produced the bacteria-killing substance?",
+        "opts": ["A virus", "A bacterium", "A green mold", "A plant root"],
+        "ans": 2
+      },
+      {
+        "q": "What was the name of the mold that contaminated Fleming's dish?",
+        "opts": ["Penicillium notatum", "Aspergillus niger", "Saccharomyces", "E. coli"],
+        "ans": 0
+      },
+      {
+        "q": "How did penicillin impact World War II?",
+        "opts": ["It was used as a weapon", "It saved millions of lives", "It prevented food spoilage", "It treated animal diseases"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'contaminated' in the passage is closest in meaning to:",
+        "opts": ["Cleaned", "Polluted or infected", "Created", "Protected"],
+        "ans": 1
+      },
+      {
+        "q": "What era of medicine did penicillin usher in?",
+        "opts": ["The herbal era", "The era of antibiotics", "The robotic surgery era", "The ancient era"],
+        "ans": 1
+      },
+      {
+        "q": "What did Fleming observe in the petri dish?",
+        "opts": ["The bacteria surrounding the mold were destroyed", "The mold grew inside the bacteria", "The bacteria ate the mold", "The dish turned black"],
+        "ans": 0
+      },
+      {
+        "q": "Before penicillin, many common bacterial infections were:",
+        "opts": ["Easily curable", "Non-existent", "Once-fatal", "Treated with vaccines"],
+        "ans": 2
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The Sahara Desert</h3>The Sahara Desert, covering most of North Africa, is famous for its extreme heat and massive sand dunes. Yet, it was not always a wasteland. Scientists have discovered that roughly 10,000 years ago, the Sahara was a lush, green landscape filled with lakes, rivers, and grasslands. Fossil evidence shows that hippos, crocodiles, and elephants once roamed the area, and ancient humans left rock paintings depicting bountiful hunting grounds. This 'Green Sahara' period ended around 5,000 years ago when shifts in the Earth's orbit altered monsoon patterns, gradually transforming the region into the arid desert we see today.",
     "questions": [
-      {"q": "What region of Africa does the Sahara Desert cover?", "opts": ["South Africa", "North Africa", "East Africa", "West Africa"], "ans": 1},
-      {"q": "What was the Sahara like roughly 10,000 years ago?", "opts": ["Even hotter than today", "A frozen tundra", "A lush, green landscape", "An ocean floor"], "ans": 2},
-      {"q": "What animals left fossils in the Sahara?", "opts": ["Hippos and elephants", "Dinosaurs and mammoths", "Polar bears", "Whales and sharks"], "ans": 0},
-      {"q": "What did ancient humans leave behind in the Sahara?", "opts": ["Brick pyramids", "Rock paintings", "Written books", "Iron weapons"], "ans": 1},
-      {"q": "When did the 'Green Sahara' period end?", "opts": ["Around 5,000 years ago", "Exactly 1,000 years ago", "In the 15th century", "2,000 BC"], "ans": 0},
-      {"q": "What caused the transition from green landscape to desert?", "opts": ["Excessive farming", "A giant meteor strike", "Shifts in Earth's orbit and monsoon patterns", "Volcanic eruptions"], "ans": 2},
-      {"q": "The word 'arid' in the passage means:", "opts": ["Wet and humid", "Cold and icy", "Dry and barren", "Mountainous"], "ans": 2},
-      {"q": "The ancient rock paintings depicted Sahara as:", "opts": ["A barren sandy plain", "Bountiful hunting grounds", "An underground cave system", "A space landscape"], "ans": 1},
-      {"q": "Monsoons are related to:", "opts": ["Wind and rain patterns", "Volcanic activity", "Solar flares", "Earthquakes"], "ans": 0},
-      {"q": "The passage shows that the Sahara's climate has been:", "opts": ["Static throughout history", "Constantly freezing", "Subject to dramatic natural shifts", "Altered solely by human activities"], "ans": 2}
+      {
+        "q": "What region of Africa does the Sahara Desert cover?",
+        "opts": ["South Africa", "North Africa", "East Africa", "West Africa"],
+        "ans": 1
+      },
+      {
+        "q": "What was the Sahara like roughly 10,000 years ago?",
+        "opts": ["Even hotter than today", "A frozen tundra", "A lush, green landscape", "An ocean floor"],
+        "ans": 2
+      },
+      {
+        "q": "What animals left fossils in the Sahara?",
+        "opts": ["Hippos and elephants", "Dinosaurs and mammoths", "Polar bears", "Whales and sharks"],
+        "ans": 0
+      },
+      {
+        "q": "What did ancient humans leave behind in the Sahara?",
+        "opts": ["Brick pyramids", "Rock paintings", "Written books", "Iron weapons"],
+        "ans": 1
+      },
+      {
+        "q": "When did the 'Green Sahara' period end?",
+        "opts": ["Around 5,000 years ago", "Exactly 1,000 years ago", "In the 15th century", "2,000 BC"],
+        "ans": 0
+      },
+      {
+        "q": "What caused the transition from green landscape to desert?",
+        "opts": ["Excessive farming", "A giant meteor strike", "Shifts in Earth's orbit and monsoon patterns", "Volcanic eruptions"],
+        "ans": 2
+      },
+      {
+        "q": "The word 'arid' in the passage means:",
+        "opts": ["Wet and humid", "Cold and icy", "Dry and barren", "Mountainous"],
+        "ans": 2
+      },
+      {
+        "q": "The ancient rock paintings depicted Sahara as:",
+        "opts": ["A barren sandy plain", "Bountiful hunting grounds", "An underground cave system", "A space landscape"],
+        "ans": 1
+      },
+      {
+        "q": "Monsoons are related to:",
+        "opts": ["Wind and rain patterns", "Volcanic activity", "Solar flares", "Earthquakes"],
+        "ans": 0
+      },
+      {
+        "q": "The passage shows that the Sahara's climate has been:",
+        "opts": ["Static throughout history", "Constantly freezing", "Subject to dramatic natural shifts", "Altered solely by human activities"],
+        "ans": 2
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The Rosetta Stone</h3>For centuries, ancient Egyptian hieroglyphics were a complete mystery to scholars. The key to unlocking them was found in 1799 when French soldiers discovered the Rosetta Stone in Egypt. This black basalt slab featured a decree written in three different scripts: hieroglyphics, Demotic (an everyday Egyptian script), and ancient Greek. Because scholars could read ancient Greek, they could compare the texts and translate the hieroglyphics. Brilliant French linguist Jean-François Champollion finally cracked the code in 1822, opening up a vast wealth of knowledge about ancient Egyptian history, culture, and religion.",
     "questions": [
-      {"q": "What was the main barrier to understanding ancient Egyptian history?", "opts": ["Hieroglyphics were a complete mystery", "The pyramids were locked", "No books existed", "The Egyptian language was forgotten"], "ans": 0},
-      {"q": "In what year was the Rosetta Stone found?", "opts": ["1822", "1799", "1911", "1500"], "ans": 1},
-      {"q": "Who found the Rosetta Stone?", "opts": ["Egyptian farmers", "French soldiers", "British linguists", "Local tour guides"], "ans": 1},
-      {"q": "How many scripts were featured on the Rosetta Stone?", "opts": ["Two", "Three", "Four", "Five"], "ans": 1},
-      {"q": "Why was ancient Greek important on the stone?", "opts": ["It was the hardest to read", "Scholars could already read it", "It was written by the pharaoh", "It was the shortest text"], "ans": 1},
-      {"q": "Who cracked the hieroglyphics code?", "opts": ["Napoleon Bonaparte", "Jean-François Champollion", "Alexander the Great", "Howard Carter"], "ans": 1},
-      {"q": "In what year was the code finally cracked?", "opts": ["1799", "1822", "1901", "1850"], "ans": 1},
-      {"q": "The Rosetta Stone is made of:", "opts": ["White marble", "Black basalt", "Sandstone", "Clay"], "ans": 1},
-      {"q": "The word 'decree' in the passage refers to:", "opts": ["An official order or law", "A personal diary", "A business receipt", "A map direction"], "ans": 0},
-      {"q": "Unlocking the hieroglyphics allowed scholars to:", "opts": ["Find lost treasure gold", "Learn about Egyptian history, culture, and religion", "Build new pyramids", "Predict weather patterns"], "ans": 1}
+      {
+        "q": "What was the main barrier to understanding ancient Egyptian history?",
+        "opts": ["Hieroglyphics were a complete mystery", "The pyramids were locked", "No books existed", "The Egyptian language was forgotten"],
+        "ans": 0
+      },
+      {
+        "q": "In what year was the Rosetta Stone found?",
+        "opts": ["1822", "1799", "1911", "1500"],
+        "ans": 1
+      },
+      {
+        "q": "Who found the Rosetta Stone?",
+        "opts": ["Egyptian farmers", "French soldiers", "British linguists", "Local tour guides"],
+        "ans": 1
+      },
+      {
+        "q": "How many scripts were featured on the Rosetta Stone?",
+        "opts": ["Two", "Three", "Four", "Five"],
+        "ans": 1
+      },
+      {
+        "q": "Why was ancient Greek important on the stone?",
+        "opts": ["It was the hardest to read", "Scholars could already read it", "It was written by the pharaoh", "It was the shortest text"],
+        "ans": 1
+      },
+      {
+        "q": "Who cracked the hieroglyphics code?",
+        "opts": ["Napoleon Bonaparte", "Jean-François Champollion", "Alexander the Great", "Howard Carter"],
+        "ans": 1
+      },
+      {
+        "q": "In what year was the code finally cracked?",
+        "opts": ["1799", "1822", "1901", "1850"],
+        "ans": 1
+      },
+      {
+        "q": "The Rosetta Stone is made of:",
+        "opts": ["White marble", "Black basalt", "Sandstone", "Clay"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'decree' in the passage refers to:",
+        "opts": ["An official order or law", "A personal diary", "A business receipt", "A map direction"],
+        "ans": 0
+      },
+      {
+        "q": "Unlocking the hieroglyphics allowed scholars to:",
+        "opts": ["Find lost treasure gold", "Learn about Egyptian history, culture, and religion", "Build new pyramids", "Predict weather patterns"],
+        "ans": 1
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The International Space Station</h3>The International Space Station (ISS) represents a triumph of global cooperation. Flying 400 kilometers above Earth, it is a microgravity laboratory co-managed by space agencies from the US, Russia, Europe, Japan, and Canada. Since November 2000, it has been continuously occupied by international crews. Onboard, astronauts conduct groundbreaking research in biology, physics, and astronomy, observing how long-term spaceflight affects the human body. The knowledge gained from the ISS is vital as humanity prepares for future missions to the Moon and Mars, demonstrating how different nations can work together in peace.",
     "questions": [
-      {"q": "What does the ISS represent?", "opts": ["A military satellite", "A triumph of global cooperation", "A private space hotel", "A communication tower"], "ans": 1},
-      {"q": "How high above Earth does the ISS fly?", "opts": ["100 kilometers", "400 kilometers", "1,000 kilometers", "10,000 kilometers"], "ans": 1},
-      {"q": "Which agency does NOT co-manage the ISS?", "opts": ["US space agency", "Russia space agency", "Brazil space agency", "Japan space agency"], "ans": 2},
-      {"q": "Since when has the ISS been continuously occupied?", "opts": ["November 2000", "January 1990", "December 2010", "July 1969"], "ans": 0},
-      {"q": "What kind of laboratory is the ISS?", "opts": ["Deep-sea laboratory", "Microgravity laboratory", "High-pressure laboratory", "Volcanic laboratory"], "ans": 1},
-      {"q": "What is a key focus of research onboard the ISS?", "opts": ["Creating new weapons", "How long-term spaceflight affects the human body", "How to mine asteroids", "Finding alien life forms"], "ans": 1},
-      {"q": "The knowledge from the ISS is vital for future missions to:", "opts": ["Other solar systems", "The Moon and Mars", "Undersea caves", "Deep space void"], "ans": 1},
-      {"q": "The word 'groundbreaking' in the passage means:", "opts": ["Digging soil", "Innovative and pioneering", "Destructive", "Slow-moving"], "ans": 1},
-      {"q": "Who occupies the ISS?", "opts": ["Robots only", "International crews", "US soldiers only", "Wealthy tourists only"], "ans": 1},
-      {"q": "The overall theme of the ISS passage is:", "opts": ["Space war preparations", "Global peaceful scientific collaboration", "The high cost of space missions", "The danger of cosmic radiation"], "ans": 1}
+      {
+        "q": "What does the ISS represent?",
+        "opts": ["A military satellite", "A triumph of global cooperation", "A private space hotel", "A communication tower"],
+        "ans": 1
+      },
+      {
+        "q": "How high above Earth does the ISS fly?",
+        "opts": ["100 kilometers", "400 kilometers", "1,000 kilometers", "10,000 kilometers"],
+        "ans": 1
+      },
+      {
+        "q": "Which agency does NOT co-manage the ISS?",
+        "opts": ["US space agency", "Russia space agency", "Brazil space agency", "Japan space agency"],
+        "ans": 2
+      },
+      {
+        "q": "Since when has the ISS been continuously occupied?",
+        "opts": ["November 2000", "January 1990", "December 2010", "July 1969"],
+        "ans": 0
+      },
+      {
+        "q": "What kind of laboratory is the ISS?",
+        "opts": ["Deep-sea laboratory", "Microgravity laboratory", "High-pressure laboratory", "Volcanic laboratory"],
+        "ans": 1
+      },
+      {
+        "q": "What is a key focus of research onboard the ISS?",
+        "opts": ["Creating new weapons", "How long-term spaceflight affects the human body", "How to mine asteroids", "Finding alien life forms"],
+        "ans": 1
+      },
+      {
+        "q": "The knowledge from the ISS is vital for future missions to:",
+        "opts": ["Other solar systems", "The Moon and Mars", "Undersea caves", "Deep space void"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'groundbreaking' in the passage means:",
+        "opts": ["Digging soil", "Innovative and pioneering", "Destructive", "Slow-moving"],
+        "ans": 1
+      },
+      {
+        "q": "Who occupies the ISS?",
+        "opts": ["Robots only", "International crews", "US soldiers only", "Wealthy tourists only"],
+        "ans": 1
+      },
+      {
+        "q": "The overall theme of the ISS passage is:",
+        "opts": ["Space war preparations", "Global peaceful scientific collaboration", "The high cost of space missions", "The danger of cosmic radiation"],
+        "ans": 1
+      }
     ]
   },
   {
     "type": "passage",
     "content": "<h3>The Amazon Rainforest</h3>The Amazon Rainforest, often called 'the lungs of the planet,' produces roughly 20 percent of the world's oxygen. Stretching across nine nations in South America, it holds an incredibly rich biodiversity, housing one-tenth of all known species on Earth. However, the Amazon is facing critical threats from deforestation. Massive tracts of forest are cleared daily for cattle ranching, soybean farming, and logging. This destruction not only threatens rare species with extinction but also accelerates global climate change by releasing stored carbon dioxide into the atmosphere. Preserving the Amazon is essential for global climate stability.",
     "questions": [
-      {"q": "What nickname is given to the Amazon Rainforest?", "opts": ["The heart of the Earth", "The lungs of the planet", "The green desert", "The silent forest"], "ans": 1},
-      {"q": "How much of the world's oxygen does the Amazon produce?", "opts": ["Roughly 20 percent", "Over 50 percent", "Exactly 10 percent", "Nearly 90 percent"], "ans": 0},
-      {"q": "Across how many nations does the Amazon stretch?", "opts": ["Three nations", "Five nations", "Nine nations", "Twelve nations"], "ans": 2},
-      {"q": "The Amazon houses what fraction of all known species on Earth?", "opts": ["One-half", "One-tenth", "One-twentieth", "One-third"], "ans": 1},
-      {"q": "What is a major cause of deforestation mentioned in the text?", "opts": ["Urban housing expansion", "Cattle ranching and farming", "Wildfires from dry weather", "Severe insect infestations"], "ans": 1},
-      {"q": "How does deforestation in the Amazon affect climate change?", "opts": ["By lowering global temperatures", "By releasing stored carbon dioxide", "By increasing rainfall globally", "By shielding the sun's rays"], "ans": 1},
-      {"q": "The word 'tracts' in the passage refers to:", "opts": ["Paths or trails", "Large areas of land", "Small seed packs", "Agricultural tools"], "ans": 1},
-      {"q": "Preserving the Amazon is essential for:", "opts": ["Expanding farm boundaries", "Global climate stability", "Increasing lumber exports", "Generating tourist income"], "ans": 1},
-      {"q": "South America holds the Amazon Rainforest, which is threatened by:", "opts": ["Deforestation", "Extreme freezing", "Acid rain", "Desertification only"], "ans": 0},
-      {"q": "The primary purpose of this passage is to:", "opts": ["Describe South American history", "Explain the importance of the Amazon and its threats", "Promote agricultural development", "List all animal species in South America"], "ans": 1}
+      {
+        "q": "What nickname is given to the Amazon Rainforest?",
+        "opts": ["The heart of the Earth", "The lungs of the planet", "The green desert", "The silent forest"],
+        "ans": 1
+      },
+      {
+        "q": "How much of the world's oxygen does the Amazon produce?",
+        "opts": ["Roughly 20 percent", "Over 50 percent", "Exactly 10 percent", "Nearly 90 percent"],
+        "ans": 0
+      },
+      {
+        "q": "Across how many nations does the Amazon stretch?",
+        "opts": ["Three nations", "Five nations", "Nine nations", "Twelve nations"],
+        "ans": 2
+      },
+      {
+        "q": "The Amazon houses what fraction of all known species on Earth?",
+        "opts": ["One-half", "One-tenth", "One-twentieth", "One-third"],
+        "ans": 1
+      },
+      {
+        "q": "What is a major cause of deforestation mentioned in the text?",
+        "opts": ["Urban housing expansion", "Cattle ranching and farming", "Wildfires from dry weather", "Severe insect infestations"],
+        "ans": 1
+      },
+      {
+        "q": "How does deforestation in the Amazon affect climate change?",
+        "opts": ["By lowering global temperatures", "By releasing stored carbon dioxide", "By increasing rainfall globally", "By shielding the sun's rays"],
+        "ans": 1
+      },
+      {
+        "q": "The word 'tracts' in the passage refers to:",
+        "opts": ["Paths or trails", "Large areas of land", "Small seed packs", "Agricultural tools"],
+        "ans": 1
+      },
+      {
+        "q": "Preserving the Amazon is essential for:",
+        "opts": ["Expanding farm boundaries", "Global climate stability", "Increasing lumber exports", "Generating tourist income"],
+        "ans": 1
+      },
+      {
+        "q": "South America holds the Amazon Rainforest, which is threatened by:",
+        "opts": ["Deforestation", "Extreme freezing", "Acid rain", "Desertification only"],
+        "ans": 0
+      },
+      {
+        "q": "The primary purpose of this passage is to:",
+        "opts": ["Describe South American history", "Explain the importance of the Amazon and its threats", "Promote agricultural development", "List all animal species in South America"],
+        "ans": 1
+      }
     ]
   }
 ]
