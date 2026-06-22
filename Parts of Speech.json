@@ -1,0 +1,1202 @@
+[
+  {
+    "type": "std",
+    "q": "In the sentence, 'She did it <u>herself</u>,' the underlined word is a/an:",
+    "opts": [
+      "personal pronoun",
+      "reflexive/intensive pronoun",
+      "demonstrative pronoun",
+      "relative pronoun"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'herself' refers back to the subject, 'She', without needing a preposition, making it a reflexive or intensive pronoun. It emphasizes that she did it on her own."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The weather <u>remains</u> cold,' the underlined word is a/an:",
+    "opts": [
+      "action verb",
+      "auxiliary verb",
+      "linking verb",
+      "transitive verb"
+    ],
+    "ans": 2,
+    "exp": "Exactly! 'Remains' here connects the subject 'weather' to its state 'cold' without showing action. This function is typical of a linking verb."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He spoke <u>extremely</u> well,' the underlined word is a/an:",
+    "opts": [
+      "adverb of degree",
+      "adverb of manner",
+      "adverb of time",
+      "adjective"
+    ],
+    "ans": 0,
+    "exp": "Correct! 'Extremely' tells us to what extent he spoke well. It modifies the adverb 'well', hence an adverb of degree."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The <u>crowd</u> cheered loudly,' the underlined word is a/an:",
+    "opts": [
+      "abstract noun",
+      "collective noun",
+      "proper noun",
+      "common noun"
+    ],
+    "ans": 1,
+    "exp": "Very good! A 'crowd' is a group of people, so 'crowd' is a collective noun, referring to a single unit formed by many individuals."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'This is a <u>wooden</u> table,' the underlined word is a/an:",
+    "opts": [
+      "adjective of quality",
+      "adverb of manner",
+      "noun",
+      "verb"
+    ],
+    "ans": 0,
+    "exp": "Well done! 'Wooden' describes the noun 'table', telling us what kind of table it is. This makes it an adjective of quality."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He walked <u>past</u> the house,' the underlined word is a/an:",
+    "opts": [
+      "adverb",
+      "conjunction",
+      "preposition",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "Yes, 'past' shows the relationship between 'walked' and 'house', indicating location. This is the role of a preposition."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'We went to the park <u>because</u> it was sunny,' the underlined word is a/an:",
+    "opts": [
+      "coordinating conjunction",
+      "subordinating conjunction",
+      "preposition",
+      "adverb"
+    ],
+    "ans": 1,
+    "exp": "Precisely. 'Because' introduces a reason or cause for the main clause ('We went to the park'), which is the job of a subordinating conjunction."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Alas</u>! We lost the match,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "noun"
+    ],
+    "ans": 2,
+    "exp": "That's right! 'Alas' expresses a sudden feeling of sorrow or regret, which is exactly what an interjection does."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'That book is <u>mine</u>,' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "personal pronoun",
+      "demonstrative pronoun",
+      "relative pronoun"
+    ],
+    "ans": 0,
+    "exp": "You see, 'mine' shows ownership of the book. It replaces 'my book' and functions as a possessive pronoun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The water <u>dripped</u> continuously,' the underlined word is a/an:",
+    "opts": [
+      "transitive verb",
+      "intransitive verb",
+      "auxiliary verb",
+      "linking verb"
+    ],
+    "ans": 1,
+    "exp": "Correct! 'Dripped' describes the action of the water, but it doesn't take a direct object. That means it's an intransitive verb."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She is <u>very</u> happy,' the underlined word is a/an:",
+    "opts": [
+      "adverb of degree",
+      "adjective",
+      "adverb of manner",
+      "conjunction"
+    ],
+    "ans": 0,
+    "exp": "Indeed! 'Very' intensifies the adjective 'happy', telling us *how* happy she is. This is characteristic of an adverb of degree."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'Honesty is the best policy,' the word <u>Honesty</u> is a/an:",
+    "opts": [
+      "collective noun",
+      "common noun",
+      "abstract noun",
+      "proper noun"
+    ],
+    "ans": 2,
+    "exp": "Correct! 'Honesty' is a quality or state that cannot be touched or seen, making it an abstract noun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Whose</u> car is this?' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "interrogative adjective",
+      "demonstrative adjective",
+      "relative pronoun"
+    ],
+    "ans": 1,
+    "exp": "Clever! 'Whose' is used here to ask a question about possession. So, it's an interrogative adjective modifying 'car'."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He <u>has</u> completed his assignment,' the underlined word is a/an:",
+    "opts": [
+      "linking verb",
+      "main verb",
+      "auxiliary verb",
+      "modal verb"
+    ],
+    "ans": 2,
+    "exp": "Yes, 'has' here is helping the main verb 'completed' to form the present perfect tense. Therefore, it's an auxiliary verb."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She walked <u>slowly</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of manner",
+      "adjective",
+      "adverb of degree",
+      "noun"
+    ],
+    "ans": 0,
+    "exp": "Exactly! 'Slowly' describes *how* she walked, and that describes the manner of the action. So, it's an adverb of manner."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The book is <u>on</u> the desk,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "adverb",
+      "adjective"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'on' shows the relationship between the book and the desk, which is the job of a preposition. It tells us where the book is located."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I like <u>both</u> apples <u>and</u> oranges,' the underlined words are:",
+    "opts": [
+      "correlative conjunctions",
+      "coordinating conjunctions",
+      "subordinating conjunctions",
+      "prepositions"
+    ],
+    "ans": 0,
+    "exp": "These words, 'both' and 'and,' work together to link two equal parts of the sentence, a signal you see of correlative conjunctions."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Ouch</u>! That hot plate burned my finger,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "'Ouch!' is an exclamation used to express sudden pain. That's exactly what an interjection does, you see."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I want <u>that</u> book,' the underlined word is a/an:",
+    "opts": [
+      "demonstrative pronoun",
+      "demonstrative adjective",
+      "relative pronoun",
+      "personal pronoun"
+    ],
+    "ans": 1,
+    "exp": "Simply put, 'that' points to a specific book and modifies the noun 'book', making it a demonstrative adjective here."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He <u>wrote</u> a letter,' the underlined word is a/an:",
+    "opts": [
+      "intransitive verb",
+      "linking verb",
+      "transitive verb",
+      "auxiliary verb"
+    ],
+    "ans": 2,
+    "exp": "'Wrote' is a verb that needs an object ('a letter') to complete its meaning. This shows it is a transitive verb, my dear."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'They went <u>there</u> yesterday,' the underlined word is a/an:",
+    "opts": [
+      "adverb of place",
+      "adverb of time",
+      "adjective",
+      "preposition"
+    ],
+    "ans": 0,
+    "exp": "'There' tells us where they went, indicating place. Words that modify verbs by telling us where, when, or how are adverbs, and this one specifies place."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The <u>committee</u> has made its decision,' the underlined word is a/an:",
+    "opts": [
+      "abstract noun",
+      "collective noun",
+      "proper noun",
+      "common noun"
+    ],
+    "ans": 1,
+    "exp": "'Committee' refers to a group of people acting as a single unit. Such a noun is called a collective noun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'This is a <u>medical</u> journal,' the underlined word is a/an:",
+    "opts": [
+      "adjective of quality",
+      "noun",
+      "adverb of manner",
+      "verb"
+    ],
+    "ans": 0,
+    "exp": "'Medical' describes the type of journal. It's modifying the noun 'journal', so it's an adjective, specifically telling us the quality or type."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The train went <u>through</u> the tunnel,' the underlined word is a/an:",
+    "opts": [
+      "adverb",
+      "conjunction",
+      "preposition",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "'Through' shows the relationship between the train's movement and the tunnel. This role is played by a preposition, my dear."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I will call you <u>when</u> I arrive,' the underlined word is a/an:",
+    "opts": [
+      "coordinating conjunction",
+      "subordinating conjunction",
+      "preposition",
+      "adverb"
+    ],
+    "ans": 1,
+    "exp": "'When' introduces a clause that tells us the time of the action. It connects dependent and independent clauses, making it a subordinating conjunction."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Wow</u>! That performance was spectacular,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "noun"
+    ],
+    "ans": 2,
+    "exp": "'Wow!' expresses strong emotion or surprise, just like any interjection should. It stands on its own."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'This house is <u>theirs</u>,' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "possessive adjective",
+      "demonstrative pronoun",
+      "relative pronoun"
+    ],
+    "ans": 0,
+    "exp": "'Theirs' shows ownership and stands alone without a noun following it. This makes it a possessive pronoun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The phone <u>rang</u> loudly,' the underlined word is a/an:",
+    "opts": [
+      "transitive verb",
+      "intransitive verb",
+      "auxiliary verb",
+      "linking verb"
+    ],
+    "ans": 1,
+    "exp": "'Rang' is a verb that expresses an action but doesn't need an object to make sense. It's an intransitive verb."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He is <u>quite</u> smart,' the underlined word is a/an:",
+    "opts": [
+      "adverb of degree",
+      "adjective",
+      "adverb of manner",
+      "conjunction"
+    ],
+    "ans": 0,
+    "exp": "'Quite' here modifies the adjective 'smart', telling us the extent or degree of his smartness. That's an adverb of degree."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'Patience is a virtue,' the word <u>Patience</u> is a/an:",
+    "opts": [
+      "collective noun",
+      "common noun",
+      "abstract noun",
+      "proper noun"
+    ],
+    "ans": 2,
+    "exp": "Patience is a quality you feel or think about, not something you can physically touch. That's why it's an abstract noun, my dear."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Which</u> shirt do you prefer?' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "interrogative adjective",
+      "demonstrative adjective",
+      "relative pronoun"
+    ],
+    "ans": 1,
+    "exp": "'Which' asks a question about a noun, 'shirt' here, so it's an interrogative adjective, my dear. It modifies the noun directly."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She <u>could</u> play the piano at age five,' the underlined word is a/an:",
+    "opts": [
+      "linking verb",
+      "auxiliary verb",
+      "modal verb",
+      "main verb"
+    ],
+    "ans": 2,
+    "exp": "Ah, 'could' shows ability in the past, which is the function of a modal verb. It helps the main verb 'play' to express this idea, you see."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He spoke <u>quietly</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of manner",
+      "adjective",
+      "adverb of degree",
+      "noun"
+    ],
+    "ans": 0,
+    "exp": "This word tells us *how* he spoke, describing the manner of the action. That's why it's an adverb of manner."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The key is <u>under</u> the doormat,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "adverb",
+      "adjective"
+    ],
+    "ans": 1,
+    "exp": "'Under' shows the relationship between 'key' and 'doormat', telling us where the key is. That's the job of a preposition."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'Neither the teacher <u>nor</u> the student was present,' the underlined word is a/an:",
+    "opts": [
+      "correlative conjunction",
+      "coordinating conjunction",
+      "subordinating conjunction",
+      "preposition"
+    ],
+    "ans": 0,
+    "exp": "You see, 'neither' and 'nor' work together to connect two negative clauses or phrases. That makes them correlative conjunctions."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Bravo</u>! You did an excellent job,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "When you exclaim 'Bravo!' like that, you're expressing strong emotion, which is exactly what an interjection does."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I bought <u>those</u> shoes,' the underlined word is a/an:",
+    "opts": [
+      "demonstrative pronoun",
+      "demonstrative adjective",
+      "relative pronoun",
+      "personal pronoun"
+    ],
+    "ans": 1,
+    "exp": "'Those' points to specific shoes and comes before the noun 'shoes', so it's acting as a demonstrative adjective here."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The chef <u>cooked</u> a delicious meal,' the underlined word is a/an:",
+    "opts": [
+      "intransitive verb",
+      "linking verb",
+      "transitive verb",
+      "auxiliary verb"
+    ],
+    "ans": 2,
+    "exp": "'Cooked' describes an action that was done to something, a meal. Therefore, it's a transitive verb because it has a direct object."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'They will arrive <u>tomorrow</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of time",
+      "adverb of place",
+      "adjective",
+      "preposition"
+    ],
+    "ans": 0,
+    "exp": "'Tomorrow' tells us *when* they will arrive. Words that tell us when something happens are adverbs of time."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'A <u>pack</u> of wolves surrounded the camp,' the underlined word is a/an:",
+    "opts": [
+      "abstract noun",
+      "collective noun",
+      "proper noun",
+      "common noun"
+    ],
+    "ans": 1,
+    "exp": "'Pack' refers to a group of wolves, a single unit. That's the definition of a collective noun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The table was covered in a <u>plastic</u> sheet,' the underlined word is a/an:",
+    "opts": [
+      "adjective of quality",
+      "noun",
+      "adverb of manner",
+      "verb"
+    ],
+    "ans": 0,
+    "exp": "'Plastic' describes the type of sheet, modifying the noun 'sheet'. So, it functions as an adjective of quality."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The cat crawled <u>beneath</u> the sofa,' the underlined word is a/an:",
+    "opts": [
+      "adverb",
+      "conjunction",
+      "preposition",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "'Beneath' shows the relationship between the cat's movement and the sofa, indicating location. This is a prepositional function."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I stayed indoors <u>since</u> it was freezing outside,' the underlined word is a/an:",
+    "opts": [
+      "coordinating conjunction",
+      "subordinating conjunction",
+      "preposition",
+      "adverb"
+    ],
+    "ans": 1,
+    "exp": "'Since' here connects the reason for staying indoors (freezing) to the main action. It introduces a subordinate clause, making it a subordinating conjunction."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Hurrah</u>! We won the championship,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "noun"
+    ],
+    "ans": 2,
+    "exp": "'Hurrah!' is an exclamation used to express joy or triumph. This is the classic role of an interjection."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The victory is <u>ours</u>,' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "possessive adjective",
+      "demonstrative pronoun",
+      "relative pronoun"
+    ],
+    "ans": 0,
+    "exp": "'Ours' shows ownership and stands alone, replacing 'our'. It's a possessive pronoun because it doesn't modify a noun directly."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The infant <u>cried</u> throughout the night,' the underlined word is a/an:",
+    "opts": [
+      "transitive verb",
+      "intransitive verb",
+      "auxiliary verb",
+      "linking verb"
+    ],
+    "ans": 1,
+    "exp": "My dear, this verb does not take an object. It simply describes an action that is complete on its own, unlike transitive verbs which need something to act upon."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She is <u>unbelievably</u> talented,' the underlined word is a/an:",
+    "opts": [
+      "adverb of degree",
+      "adjective",
+      "adverb of manner",
+      "conjunction"
+    ],
+    "ans": 0,
+    "exp": "This 'unbelievably' tells us to what extent she is talented, so it's an adverb of degree. It quantifies the adjective 'talented'."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'Laughter is contagious,' the word <u>Laughter</u> is a/an:",
+    "opts": [
+      "collective noun",
+      "common noun",
+      "abstract noun",
+      "proper noun"
+    ],
+    "ans": 2,
+    "exp": "Laughter is something you feel or understand, not something you can touch, making it an abstract noun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>What</u> book are you reading?' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "interrogative adjective",
+      "demonstrative adjective",
+      "relative pronoun"
+    ],
+    "ans": 1,
+    "exp": "This word 'What' is asking a question and it also describes the noun 'book', so it functions as an interrogative adjective."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'You <u>should</u> read this book,' the underlined word is a/an:",
+    "opts": [
+      "linking verb",
+      "auxiliary verb",
+      "modal verb",
+      "main verb"
+    ],
+    "ans": 2,
+    "exp": "When you see 'should', 'could', 'may', 'might', 'will', these are modal verbs. They express possibility, obligation, or ability."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He painted the room <u>beautifully</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of manner",
+      "adjective",
+      "adverb of degree",
+      "noun"
+    ],
+    "ans": 0,
+    "exp": "This adverb describes HOW the room was painted. It modifies the verb 'painted' by telling us the manner of painting."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She is waiting <u>inside</u> the office,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "adverb",
+      "adjective"
+    ],
+    "ans": 1,
+    "exp": "This word 'inside' shows the relationship between 'waiting' and 'office'. It tells us where the waiting is happening, making it a preposition."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She was not only smart <u>but also</u> hardworking,' the underlined words are:",
+    "opts": [
+      "correlative conjunctions",
+      "coordinating conjunctions",
+      "subordinating conjunctions",
+      "prepositions"
+    ],
+    "ans": 0,
+    "exp": "My dear, 'not only...but also' work together to connect two equal parts of a sentence. That's why they are called correlative conjunctions."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Hey</u>! Wait for me,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "A cry of surprise or to get attention like 'Hey!' is an interjection. It stands alone and expresses strong emotion."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'Give me <u>these</u> documents,' the underlined word is a/an:",
+    "opts": [
+      "demonstrative pronoun",
+      "demonstrative adjective",
+      "relative pronoun",
+      "personal pronoun"
+    ],
+    "ans": 1,
+    "exp": "This word 'these' points to specific documents and modifies the noun 'documents'. Hence, it's a demonstrative adjective."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The boy <u>kicked</u> the ball,' the underlined word is a/an:",
+    "opts": [
+      "intransitive verb",
+      "linking verb",
+      "transitive verb",
+      "auxiliary verb"
+    ],
+    "ans": 2,
+    "exp": "The verb 'kicked' takes a direct object, 'the ball'. It shows an action that is transferred from the doer to an object."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'We must leave <u>now</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of time",
+      "adverb of place",
+      "adjective",
+      "preposition"
+    ],
+    "ans": 0,
+    "exp": "Simply put, 'now' tells us WHEN the action must happen. Words that tell us when, where, or how often something happens are adverbs."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The <u>flock</u> of sheep grazed in the meadow,' the underlined word is a/an:",
+    "opts": [
+      "abstract noun",
+      "collective noun",
+      "proper noun",
+      "common noun"
+    ],
+    "ans": 1,
+    "exp": "A 'flock' refers to a group of animals, like sheep. This is a classic example of a collective noun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He wears a <u>leather</u> jacket,' the underlined word is a/an:",
+    "opts": [
+      "adjective of quality",
+      "noun",
+      "adverb of manner",
+      "verb"
+    ],
+    "ans": 0,
+    "exp": "This word 'leather' describes the type of jacket it is. It tells us what the jacket is made of, so it's an adjective of quality."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The airplane flew <u>above</u> the clouds,' the underlined word is a/an:",
+    "opts": [
+      "adverb",
+      "conjunction",
+      "preposition",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "The word 'above' shows the relationship between the airplane's flight and the clouds. It indicates location, which is the job of a preposition."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I will buy the dress <u>if</u> it fits well,' the underlined word is a/an:",
+    "opts": [
+      "coordinating conjunction",
+      "subordinating conjunction",
+      "preposition",
+      "adverb"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'if' introduces a condition for the main clause. That's why it's a subordinating conjunction connecting two ideas."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Ahem</u>, I believe you are in my seat,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "noun"
+    ],
+    "ans": 2,
+    "exp": "You see, 'Ahem' is an exclamation used to get attention or express mild disapproval. It stands on its own, making it an interjection."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The fault is <u>yours</u>,' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "possessive adjective",
+      "demonstrative pronoun",
+      "relative pronoun"
+    ],
+    "ans": 0,
+    "exp": "The word 'yours' replaces a noun and shows possession without needing another noun after it. Simply put, it's a possessive pronoun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The dog <u>barked</u> at the mail carrier,' the underlined word is a/an:",
+    "opts": [
+      "transitive verb",
+      "intransitive verb",
+      "auxiliary verb",
+      "linking verb"
+    ],
+    "ans": 1,
+    "exp": "The verb 'barked' here doesn't take a direct object; the action doesn't transfer to anything. It simply describes the dog's action, making it intransitive."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The movie was <u>extremely</u> long,' the underlined word is a/an:",
+    "opts": [
+      "adverb of degree",
+      "adjective",
+      "adverb of manner",
+      "conjunction"
+    ],
+    "ans": 0,
+    "exp": "This word 'extremely' tells us to what degree the movie was long. It modifies the adjective 'long', so it's an adverb of degree."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'Faith can move mountains,' the word <u>Faith</u> is a/an:",
+    "opts": [
+      "collective noun",
+      "common noun",
+      "abstract noun",
+      "proper noun"
+    ],
+    "ans": 2,
+    "exp": "Faith is a feeling or an idea, not something you can touch. That's why 'Faith' is an abstract noun, my dear."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Which</u> way did they go?' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "interrogative adjective",
+      "demonstrative adjective",
+      "relative pronoun"
+    ],
+    "ans": 1,
+    "exp": "When 'Which' asks a question and modifies a noun like 'way', it functions as an interrogative adjective."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He <u>must</u> complete the project by Tuesday,' the underlined word is a/an:",
+    "opts": [
+      "linking verb",
+      "auxiliary verb",
+      "modal verb",
+      "main verb"
+    ],
+    "ans": 2,
+    "exp": "'Must' is used here to show obligation or necessity, which is the role of a modal verb in a sentence."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She answered the questions <u>correctly</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of manner",
+      "adjective",
+      "adverb of degree",
+      "noun"
+    ],
+    "ans": 0,
+    "exp": "This word 'correctly' describes *how* she answered, modifying the verb 'answered'. It tells us the manner of the action, making it an adverb of manner."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The keys are <u>on</u> the counter,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "adverb",
+      "adjective"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'on' shows the relationship between 'keys' and 'counter' in terms of location. This makes it a preposition."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The weather was not only cold <u>but also</u> windy,' the underlined words are:",
+    "opts": [
+      "correlative conjunctions",
+      "coordinating conjunctions",
+      "subordinating conjunctions",
+      "prepositions"
+    ],
+    "ans": 0,
+    "exp": "You see, 'not only...but also' work together to connect two equal parts of the sentence. That's the signature of correlative conjunctions."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Gosh</u>! That was a close call,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "That sound, 'Gosh!', expresses surprise or sudden emotion. It stands alone and is set off by punctuation, marking it as an interjection."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I like <u>this</u> car,' the underlined word is a/an:",
+    "opts": [
+      "demonstrative pronoun",
+      "demonstrative adjective",
+      "relative pronoun",
+      "personal pronoun"
+    ],
+    "ans": 1,
+    "exp": "Because 'this' comes before the noun 'car' and points it out, it's acting as a demonstrative adjective."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She <u>wrote</u> an essay,' the underlined word is a/an:",
+    "opts": [
+      "intransitive verb",
+      "linking verb",
+      "transitive verb",
+      "auxiliary verb"
+    ],
+    "ans": 2,
+    "exp": "The verb 'wrote' here has a direct object, 'an essay', receiving the action. The action is transferred, so it's a transitive verb."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'We will meet <u>afterwards</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of time",
+      "adverb of place",
+      "adjective",
+      "preposition"
+    ],
+    "ans": 0,
+    "exp": "'Afterwards' tells us *when* the meeting will happen. It modifies the verb 'meet' by indicating time, hence it's an adverb of time."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'A <u>school</u> of fish swam by,' the underlined word is a/an:",
+    "opts": [
+      "abstract noun",
+      "collective noun",
+      "proper noun",
+      "common noun"
+    ],
+    "ans": 1,
+    "exp": "A 'school' of fish refers to a group, and collective nouns are used for groups of people, animals, or things, my dear. That's why 'collective noun' is the right choice here."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'This is a <u>golden</u> opportunity,' the underlined word is a/an:",
+    "opts": [
+      "adjective of quality",
+      "noun",
+      "adverb of manner",
+      "verb"
+    ],
+    "ans": 0,
+    "exp": "Simply put, 'golden' describes the quality or type of opportunity, which is exactly what an adjective of quality does. It adds more information about the noun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The keys fell <u>behind</u> the dresser,' the underlined word is a/an:",
+    "opts": [
+      "adverb",
+      "conjunction",
+      "preposition",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "In this sentence, 'behind' shows the relationship between the keys and the dresser, indicating location. Words showing relationships like this are prepositions."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'We will go to the beach <u>unless</u> it rains,' the underlined word is a/an:",
+    "opts": [
+      "coordinating conjunction",
+      "subordinating conjunction",
+      "preposition",
+      "adverb"
+    ],
+    "ans": 1,
+    "exp": "See, 'unless' introduces a condition that must be met for the main clause to happen. That's the role of a subordinating conjunction. It makes the clause dependent."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Wow</u>, that looks amazing,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "noun"
+    ],
+    "ans": 2,
+    "exp": "'Wow' expresses a sudden feeling or emotion, and words that do this are called interjections. They stand alone and add emotional flair to a sentence."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The success is <u>theirs</u>,' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "possessive adjective",
+      "demonstrative pronoun",
+      "relative pronoun"
+    ],
+    "ans": 0,
+    "exp": "Possessive pronouns like 'theirs' show ownership and stand on their own, unlike possessive adjectives which come before nouns. This one replaces 'their ---'."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The water <u>boiled</u> quickly,' the underlined word is a/an:",
+    "opts": [
+      "transitive verb",
+      "intransitive verb",
+      "auxiliary verb",
+      "linking verb"
+    ],
+    "ans": 1,
+    "exp": "'Boiled' here describes an action the water performed by itself, without any object receiving the action. That makes it an intransitive verb, you see."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He is <u>incredibly</u> smart,' the underlined word is a/an:",
+    "opts": [
+      "adverb of degree",
+      "adjective",
+      "adverb of manner",
+      "conjunction"
+    ],
+    "ans": 0,
+    "exp": "'Incredibly' tells us to what extent he is smart, modifying the adjective 'smart'. Adverbs of degree answer questions like 'how much?' or 'to what extent?'."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'Wisdom is gained with age,' the word <u>Wisdom</u> is a/an:",
+    "opts": [
+      "collective noun",
+      "common noun",
+      "abstract noun",
+      "proper noun"
+    ],
+    "ans": 2,
+    "exp": "'Wisdom' is a concept or quality, not something you can touch or see directly. Abstract nouns represent ideas, feelings, or qualities like this."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Whose</u> book is this?' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "interrogative adjective",
+      "demonstrative adjective",
+      "relative pronoun"
+    ],
+    "ans": 1,
+    "exp": "'Whose' is used here to ask a question about possession. Interrogative adjectives ask questions and modify nouns directly."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'She <u>has</u> eaten breakfast,' the underlined word is a/an:",
+    "opts": [
+      "linking verb",
+      "main verb",
+      "auxiliary verb",
+      "modal verb"
+    ],
+    "ans": 2,
+    "exp": "'Has' in this sentence helps the main verb 'eaten' to form the present perfect tense. Auxiliary verbs, like 'have', 'do', and 'be', assist the main verb."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He spoke <u>loudly</u>,' the underlined word is a/an:",
+    "opts": [
+      "adverb of manner",
+      "adjective",
+      "adverb of degree",
+      "noun"
+    ],
+    "ans": 0,
+    "exp": "'Loudly' describes the manner in which he spoke, telling us 'how' he spoke. Adverbs of manner often end in '-ly' and modify verbs."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The cat is <u>on</u> the sofa,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "adverb",
+      "adjective"
+    ],
+    "ans": 1,
+    "exp": "'On' shows the position of the cat relative to the sofa. Words that link nouns or pronouns to other parts of the sentence, often showing place or time, are prepositions."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I like <u>neither</u> carrots <u>nor</u> peas,' the underlined words are:",
+    "opts": [
+      "correlative conjunctions",
+      "coordinating conjunctions",
+      "subordinating conjunctions",
+      "prepositions"
+    ],
+    "ans": 0,
+    "exp": "You see, 'neither' and 'nor' work together here to connect two negative options. Correlative conjunctions always come in pairs to link words, phrases, or clauses."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Ouch</u>! That hurt,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "'Ouch' expresses a sudden feeling of pain, and words that do this are interjections. They are often set apart by punctuation."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I want <u>that</u> shirt,' the underlined word is a/an:",
+    "opts": [
+      "demonstrative pronoun",
+      "demonstrative adjective",
+      "relative pronoun",
+      "personal pronoun"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'that' here points to a specific shirt, which is what demonstrative adjectives do. It modifies the noun 'shirt', you see."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He <u>read</u> a novel,' the underlined word is a/an:",
+    "opts": [
+      "intransitive verb",
+      "linking verb",
+      "transitive verb",
+      "auxiliary verb"
+    ],
+    "ans": 2,
+    "exp": "Exactly! 'Read' takes an object, 'a novel'. Verbs that take direct objects are called transitive verbs."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'They went <u>there</u> yesterday,' the underlined word is a/an:",
+    "opts": [
+      "adverb of place",
+      "adverb of time",
+      "adjective",
+      "preposition"
+    ],
+    "ans": 0,
+    "exp": "Yes, 'there' tells us the location of the action. Words that modify verbs and tell us where, when, or how are adverbs, and this one specifies place."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The <u>class</u> paid close attention,' the underlined word is a/an:",
+    "opts": [
+      "abstract noun",
+      "collective noun",
+      "proper noun",
+      "common noun"
+    ],
+    "ans": 1,
+    "exp": "The word 'class' refers to a group of people, my dear. That's the definition of a collective noun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'This is a <u>metallic</u> surface,' the underlined word is a/an:",
+    "opts": [
+      "adjective of quality",
+      "noun",
+      "adverb of manner",
+      "verb"
+    ],
+    "ans": 0,
+    "exp": "You've got it! 'Metallic' describes the surface, telling us what kind of surface it is. That makes it an adjective of quality."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'He walked <u>across</u> the field,' the underlined word is a/an:",
+    "opts": [
+      "adverb",
+      "conjunction",
+      "preposition",
+      "adjective"
+    ],
+    "ans": 2,
+    "exp": "Correct! 'Across' shows the relationship between 'walked' and 'the field'. It connects them and indicates direction, which is the job of a preposition."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'I will leave <u>before</u> it gets dark,' the underlined word is a/an:",
+    "opts": [
+      "coordinating conjunction",
+      "subordinating conjunction",
+      "preposition",
+      "adverb"
+    ],
+    "ans": 1,
+    "exp": "Precisely! 'Before' here introduces a clause ('it gets dark') that tells us when the main action happened. This makes it a subordinating conjunction."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, '<u>Alas</u>, they missed the flight,' the underlined word is a/an:",
+    "opts": [
+      "conjunction",
+      "preposition",
+      "interjection",
+      "noun"
+    ],
+    "ans": 2,
+    "exp": "Well done! 'Alas' expresses a strong emotion, sudden sadness in this case. That's the sign of an interjection."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'This house is <u>yours</u>,' the underlined word is a/an:",
+    "opts": [
+      "possessive pronoun",
+      "possessive adjective",
+      "demonstrative pronoun",
+      "relative pronoun"
+    ],
+    "ans": 0,
+    "exp": "Indeed! 'Yours' replaces 'your house' and shows ownership without needing another noun. It stands alone as a possessive pronoun."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence, 'The bell <u>rang</u> loudly,' the underlined word is a/an:",
+    "opts": [
+      "transitive verb",
+      "intransitive verb",
+      "auxiliary verb",
+      "linking verb"
+    ],
+    "ans": 1,
+    "exp": "That's right! 'Rang' doesn't take a direct object; the bell simply performed the action. Verbs without direct objects are intransitive."
+  }
+]

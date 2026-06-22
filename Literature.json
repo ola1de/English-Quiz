@@ -1,0 +1,1202 @@
+[
+  {
+    "type": "std",
+    "q": "A figure of speech in which a part is made to represent the whole is called:",
+    "opts": [
+      "Metaphor",
+      "Metonymy",
+      "Synecdoche",
+      "Personification"
+    ],
+    "ans": 2,
+    "exp": "Synecdoche is correct, my dear. It's when you use a part to represent the whole, like saying 'all hands on deck' when you mean all people."
+  },
+  {
+    "type": "std",
+    "q": "In which Shakespearean tragedy does the character Ophelia appear?",
+    "opts": [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "King Lear"
+    ],
+    "ans": 0,
+    "exp": "Yes, Ophelia is a very important character in Shakespeare's famous tragedy, 'Hamlet'. She plays a key role in the unfolding events."
+  },
+  {
+    "type": "std",
+    "q": "A 14-line poem written in iambic pentameter is called a/an:",
+    "opts": [
+      "Ode",
+      "Sonnet",
+      "Ballad",
+      "Elegy"
+    ],
+    "ans": 1,
+    "exp": "A sonnet is indeed a 14-line poem, usually written in iambic pentameter. It's a classic form loved by poets throughout history."
+  },
+  {
+    "type": "std",
+    "q": "The phrase 'deafening silence' is an example of which figure of speech?",
+    "opts": [
+      "Oxymoron",
+      "Hyperbole",
+      "Simile",
+      "Euphemism"
+    ],
+    "ans": 0,
+    "exp": "You got it! 'Deafening silence' is an oxymoron because it combines two opposite ideas to create a striking effect."
+  },
+  {
+    "type": "std",
+    "q": "The use of words that imitate the sounds they represent (e.g., 'buzz', 'hiss') is called:",
+    "opts": [
+      "Alliteration",
+      "Assonance",
+      "Onomatopoeia",
+      "Consonance"
+    ],
+    "ans": 2,
+    "exp": "That's right, onomatopoeia is the use of words that sound like the noises they describe. Think of 'buzz' or 'meow'."
+  },
+  {
+    "type": "std",
+    "q": "A literary device where the chosen words express a meaning opposite to their literal intent is:",
+    "opts": [
+      "Metaphor",
+      "Irony",
+      "Sarcasm",
+      "Paradox"
+    ],
+    "ans": 1,
+    "exp": "Irony is the correct answer. It's when what is said or happens is the opposite of what is actually meant or expected, creating a kind of contrast."
+  },
+  {
+    "type": "std",
+    "q": "A poem written to mourn the death of an individual is a/an:",
+    "opts": [
+      "Ode",
+      "Elegy",
+      "Sonnet",
+      "Ballad"
+    ],
+    "ans": 1,
+    "exp": "An elegy is a poem of serious reflection, typically a lament for the dead. It's a way to honor and mourn someone who has passed."
+  },
+  {
+    "type": "std",
+    "q": "The main character or hero of a story is known as the:",
+    "opts": [
+      "Protagonist",
+      "Antagonist",
+      "Foil",
+      "Narrator"
+    ],
+    "ans": 0,
+    "exp": "The protagonist is the main character, the central figure in the story. All the main action usually revolves around them."
+  },
+  {
+    "type": "std",
+    "q": "The repetition of consonant sounds at the beginning of neighboring words is:",
+    "opts": [
+      "Assonance",
+      "Onomatopoeia",
+      "Alliteration",
+      "Consonance"
+    ],
+    "ans": 2,
+    "exp": "'Sweet birds sing' is a good example of alliteration. It's simply the repetition of the same initial consonant sound."
+  },
+  {
+    "type": "std",
+    "q": "Who wrote the famous classic tragedy play 'Macbeth'?",
+    "opts": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "John Milton",
+      "Ben Jonson"
+    ],
+    "ans": 1,
+    "exp": "William Shakespeare is the correct author. He penned this gripping tragedy about ambition and power."
+  },
+  {
+    "type": "std",
+    "q": "The final resolution or untangling of a plot in a drama or novel is called the:",
+    "opts": [
+      "Denouement",
+      "Climax",
+      "Exposition",
+      "Rising Action"
+    ],
+    "ans": 0,
+    "exp": "The denouement is the final part of a play or story where the plot is resolved and loose ends are tied up. It brings the story to a close."
+  },
+  {
+    "type": "std",
+    "q": "A statement that appears self-contradictory but reveals a deeper truth is a/an:",
+    "opts": [
+      "Irony",
+      "Oxymoron",
+      "Paradox",
+      "Hyperbole"
+    ],
+    "ans": 2,
+    "exp": "A paradox is correct. It's a statement that seems impossible or contradictory, but upon closer thought, it reveals a deeper truth."
+  },
+  {
+    "type": "std",
+    "q": "Who is the protagonist in Chinua Achebe's classic novel 'Things Fall Apart'?",
+    "opts": [
+      "Okonkwo",
+      "Unoka",
+      "Obierika",
+      "Nwoye"
+    ],
+    "ans": 0,
+    "exp": "Okonkwo is indeed the central character in Chinua Achebe's powerful novel 'Things Fall Apart'. His story drives the narrative."
+  },
+  {
+    "type": "std",
+    "q": "The perspective from which a story is told is called the:",
+    "opts": [
+      "Setting",
+      "Point of view",
+      "Theme",
+      "Tone"
+    ],
+    "ans": 1,
+    "exp": "Point of view is the technique used to tell the story. It determines who is telling the story and how much they know."
+  },
+  {
+    "type": "std",
+    "q": "The rhythmic pattern of a poem consisting of five feet per line is called:",
+    "opts": [
+      "Trimeter",
+      "Tetrameter",
+      "Pentameter",
+      "Hexameter"
+    ],
+    "ans": 2,
+    "exp": "Pentameter refers to a line of verse having five metrical feet. It's a very common and important rhythm in poetry, especially sonnets."
+  },
+  {
+    "type": "std",
+    "q": "An extended speech given by a single character alone on stage is a/an:",
+    "opts": [
+      "Soliloquy",
+      "Dialogue",
+      "Epilogue",
+      "Prologue"
+    ],
+    "ans": 0,
+    "exp": "A soliloquy, my dear, is when a character speaks their thoughts aloud when they are alone on stage. It's like they're talking directly to themselves or the audience."
+  },
+  {
+    "type": "std",
+    "q": "A narrative poem that originally accompanied a dance and tells a story is a/an:",
+    "opts": [
+      "Ode",
+      "Ballad",
+      "Sonnet",
+      "Lyric"
+    ],
+    "ans": 1,
+    "exp": "Ah, a ballad tells a story, you see, and it's usually in a simple, song-like form that was often sung. That's why it fits perfectly."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for a brief reference to a person, place, or historical event within a text?",
+    "opts": [
+      "Metaphor",
+      "Simile",
+      "Allusion",
+      "Symbolism"
+    ],
+    "ans": 2,
+    "exp": "An allusion is like a little nod to something outside the story - a famous person, a historical event, or even another piece of literature. It adds depth without needing a long explanation."
+  },
+  {
+    "type": "std",
+    "q": "The character who actively opposes or struggles against the protagonist is the:",
+    "opts": [
+      "Antagonist",
+      "Protagonist",
+      "Foil",
+      "Flat character"
+    ],
+    "ans": 0,
+    "exp": "The antagonist is the character who creates conflict for the main character, the protagonist. They are the opposition, plain and simple."
+  },
+  {
+    "type": "std",
+    "q": "A form of poetry with no regular meter or rhyme scheme is called:",
+    "opts": [
+      "Blank verse",
+      "Free verse",
+      "Lyric poetry",
+      "Narrative poetry"
+    ],
+    "ans": 1,
+    "exp": "Free verse means the poet isn't bound by strict rules of rhyme or rhythm. They have the freedom to express themselves naturally."
+  },
+  {
+    "type": "std",
+    "q": "The use of clues or hints by an author to suggest future events in the plot is:",
+    "opts": [
+      "Flashback",
+      "Imagery",
+      "Foreshadowing",
+      "Irony"
+    ],
+    "ans": 2,
+    "exp": "Foreshadowing is when the author gives subtle hints about what's going to happen later. It builds suspense and makes the story more engaging."
+  },
+  {
+    "type": "std",
+    "q": "The physical and social environment in which the events of a story take place is the:",
+    "opts": [
+      "Setting",
+      "Plot",
+      "Theme",
+      "Atmosphere"
+    ],
+    "ans": 0,
+    "exp": "The setting includes both where and when the story happens, and even the social context. It's the whole backdrop for the action."
+  },
+  {
+    "type": "std",
+    "q": "A dramatic work that is light and humorous, usually ending happily, is a/an:",
+    "opts": [
+      "Tragedy",
+      "Comedy",
+      "Melodrama",
+      "Farce"
+    ],
+    "ans": 1,
+    "exp": "A comedy is meant to be light and amusing, often with a happy ending. It's the opposite of a tragedy, designed to make you laugh."
+  },
+  {
+    "type": "std",
+    "q": "The turning point or highest point of tension in a narrative plot is the:",
+    "opts": [
+      "Exposition",
+      "Falling action",
+      "Climax",
+      "Resolution"
+    ],
+    "ans": 2,
+    "exp": "The climax is the most exciting or tense part of the story, the peak of the action! It's where everything comes to a head."
+  },
+  {
+    "type": "std",
+    "q": "A figure of speech in which human qualities are given to animals or objects is:",
+    "opts": [
+      "Personification",
+      "Metaphor",
+      "Simile",
+      "Alliteration"
+    ],
+    "ans": 0,
+    "exp": "Personification is giving human traits, like actions or feelings, to things that aren't human. Think of 'the wind whispered'."
+  },
+  {
+    "type": "std",
+    "q": "The underlying message or central idea explored by a literary work is the:",
+    "opts": [
+      "Plot",
+      "Theme",
+      "Setting",
+      "Climax"
+    ],
+    "ans": 1,
+    "exp": "The theme is the main message or idea the author wants to convey. It's the deeper meaning beneath the surface of the story."
+  },
+  {
+    "type": "std",
+    "q": "A comparison between two unlike things using the words 'like' or 'as' is a/an:",
+    "opts": [
+      "Metaphor",
+      "Personification",
+      "Simile",
+      "Onomatopoeia"
+    ],
+    "ans": 2,
+    "exp": "A simile is a comparison using 'like' or 'as' to show how two different things are similar. It makes descriptions more vivid."
+  },
+  {
+    "type": "std",
+    "q": "An exaggeration used for emphasis or rhetorical effect is a/an:",
+    "opts": [
+      "Hyperbole",
+      "Understatement",
+      "Irony",
+      "Euphemism"
+    ],
+    "ans": 0,
+    "exp": "Hyperbole is simply an exaggeration used for effect, not meant to be taken literally. It's for emphasis, making something seem bigger or more important."
+  },
+  {
+    "type": "std",
+    "q": "A mild or indirect expression substituted for one considered harsh or blunt is a/an:",
+    "opts": [
+      "Hyperbole",
+      "Euphemism",
+      "Oxymoron",
+      "Simile"
+    ],
+    "ans": 1,
+    "exp": "A euphemism is a polite way of saying something that might be a bit uncomfortable. We use it to soften the blow, so to speak."
+  },
+  {
+    "type": "std",
+    "q": "The repetition of vowel sounds within nearby words is called:",
+    "opts": [
+      "Alliteration",
+      "Consonance",
+      "Assonance",
+      "Onomatopoeia"
+    ],
+    "ans": 2,
+    "exp": "Assonance is the repetition of vowel sounds in words that are close together, like in 'hear the mellow wedding bells'. It creates a musical effect."
+  },
+  {
+    "type": "std",
+    "q": "A novel written in the form of a series of letters is a/an:",
+    "opts": [
+      "Epistolary novel",
+      "Picaresque novel",
+      "Historical novel",
+      "Gothic novel"
+    ],
+    "ans": 0,
+    "exp": "My dear, an epistolary novel is written in letters, a format that makes it distinct. That's simply what it is."
+  },
+  {
+    "type": "std",
+    "q": "Who wrote the classic dystopian novel '1984'?",
+    "opts": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "ans": 1,
+    "exp": "George Orwell is the brilliant mind behind '1984'. He wrote it to warn us about totalitarianism, you see."
+  },
+  {
+    "type": "std",
+    "q": "A narrative style that presents the thoughts of a character as they occur is:",
+    "opts": [
+      "Third-person omniscient",
+      "Dramatic monologue",
+      "Stream of consciousness",
+      "First-person objective"
+    ],
+    "ans": 2,
+    "exp": "Stream of consciousness is how writers capture the flow of thoughts in the mind, just as they happen."
+  },
+  {
+    "type": "std",
+    "q": "The introductory part of a play, book, or novel is the:",
+    "opts": [
+      "Prologue",
+      "Epilogue",
+      "Monologue",
+      "Dialogue"
+    ],
+    "ans": 0,
+    "exp": "Ah, the prologue! It's that special introduction that sets the stage for the story to come."
+  },
+  {
+    "type": "std",
+    "q": "A direct comparison between two unlike things without using 'like' or 'as' is a/an:",
+    "opts": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Hyperbole"
+    ],
+    "ans": 1,
+    "exp": "A metaphor is like a direct comparison, where you say one thing *is* another to highlight a similarity, without using 'like' or 'as'."
+  },
+  {
+    "type": "std",
+    "q": "A brief story containing a moral lesson, often using animals as characters, is a/an:",
+    "opts": [
+      "Epic",
+      "Myth",
+      "Fable",
+      "Legend"
+    ],
+    "ans": 2,
+    "exp": "A fable is a short story, usually with animals, that teaches a lesson. That moral is the key feature."
+  },
+  {
+    "type": "std",
+    "q": "The use of descriptive language to create vivid mental pictures for the reader is:",
+    "opts": [
+      "Imagery",
+      "Symbolism",
+      "Metaphor",
+      "Foreshadowing"
+    ],
+    "ans": 0,
+    "exp": "Imagery is when the author uses words to paint a picture in your mind. It appeals to your senses, making the writing come alive."
+  },
+  {
+    "type": "std",
+    "q": "An object, person, or situation that represents something deeper than its literal meaning is a/an:",
+    "opts": [
+      "Allusion",
+      "Symbol",
+      "Irony",
+      "Oxymoron"
+    ],
+    "ans": 1,
+    "exp": "When something stands for more than its literal meaning, it's a symbol. It adds deeper layers to the story."
+  },
+  {
+    "type": "std",
+    "q": "The author's attitude toward the subject or audience in a literary work is the:",
+    "opts": [
+      "Mood",
+      "Style",
+      "Tone",
+      "Voice"
+    ],
+    "ans": 2,
+    "exp": "The author's attitude towards the subject, that's the tone. It's how they feel and want you to feel about it."
+  },
+  {
+    "type": "std",
+    "q": "An overused phrase or opinion that lacks original thought is a/an:",
+    "opts": [
+      "Cliché",
+      "Idiom",
+      "Paradox",
+      "Metaphor"
+    ],
+    "ans": 0,
+    "exp": "A cliché is an idea or phrase that has been used so much it's lost its impact. We should try to avoid them for fresh writing."
+  },
+  {
+    "type": "std",
+    "q": "A character who changes or grows significantly throughout a story is a/an:",
+    "opts": [
+      "Flat character",
+      "Dynamic character",
+      "Static character",
+      "Foil character"
+    ],
+    "ans": 1,
+    "exp": "A dynamic character is one who goes through significant personal growth or change in the story. They evolve, my dear."
+  },
+  {
+    "type": "std",
+    "q": "A character who remains unchanged throughout the course of a narrative is a/an:",
+    "opts": [
+      "Dynamic character",
+      "Round character",
+      "Static character",
+      "Protagonist"
+    ],
+    "ans": 2,
+    "exp": "A static character stays pretty much the same throughout the entire story, without much development. They are consistent."
+  },
+  {
+    "type": "std",
+    "q": "The emotional atmosphere created by a literary work for the reader is the:",
+    "opts": [
+      "Mood",
+      "Tone",
+      "Style",
+      "Theme"
+    ],
+    "ans": 0,
+    "exp": "The mood is the feeling the story creates in the reader. It's the atmosphere that envelops you as you read."
+  },
+  {
+    "type": "std",
+    "q": "The repetition of consonant sounds within or at the end of words is:",
+    "opts": [
+      "Alliteration",
+      "Consonance",
+      "Assonance",
+      "Onomatopoeia"
+    ],
+    "ans": 1,
+    "exp": "Consonance is the repetition of consonant sounds within words or at the end. It gives a nice rhythm to the language."
+  },
+  {
+    "type": "std",
+    "q": "Who wrote the famous classic tragedy play 'Romeo and Juliet'?",
+    "opts": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "William Shakespeare",
+      "Thomas Kyd"
+    ],
+    "ans": 2,
+    "exp": "William Shakespeare is the celebrated playwright who gifted us with the timeless tragedy of 'Romeo and Juliet'. A true master!"
+  },
+  {
+    "type": "std",
+    "q": "A play in which the protagonist meets a disastrous end due to a personal flaw is a:",
+    "opts": [
+      "Tragedy",
+      "Comedy",
+      "Farce",
+      "Melodrama"
+    ],
+    "ans": 0,
+    "exp": "A tragedy, my dear, is specifically about a protagonist facing a ruinous end, often because of a personal character flaw. That's the definition!"
+  },
+  {
+    "type": "std",
+    "q": "A poem of high praising emotion, often dedicated to a person, object, or concept is a/an:",
+    "opts": [
+      "Ballad",
+      "Ode",
+      "Elegy",
+      "Sonnet"
+    ],
+    "ans": 1,
+    "exp": "An ode is a beautiful piece written to praise and celebrate someone or something special. It's all about expressing deep admiration, you see."
+  },
+  {
+    "type": "std",
+    "q": "A short, sharp saying that expresses a general truth or piece of advice is a/an:",
+    "opts": [
+      "Epic",
+      "Allusion",
+      "Aphorism",
+      "Epilogue"
+    ],
+    "ans": 2,
+    "exp": "Simply put, an aphorism is a wise, short saying that captures a truth or gives advice. Think of it as a little nugget of wisdom."
+  },
+  {
+    "type": "std",
+    "q": "The substitute of a word with another closely associated word (e.g., 'the Crown' for 'the King') is:",
+    "opts": [
+      "Metonymy",
+      "Synecdoche",
+      "Metaphor",
+      "Alliteration"
+    ],
+    "ans": 0,
+    "exp": "Metonymy is when we use a related word to stand for something else, like 'the White House' to mean the President. It's a clever substitution."
+  },
+  {
+    "type": "std",
+    "q": "A humorous play containing improbable situations and physical comedy is a:",
+    "opts": [
+      "Tragedy",
+      "Farce",
+      "Melodrama",
+      "Satire"
+    ],
+    "ans": 1,
+    "exp": "A farce is full of silly situations and slapstick comedy, designed purely to make you laugh out loud! It's lighthearted fun."
+  },
+  {
+    "type": "std",
+    "q": "A long narrative poem telling the deeds of a legendary hero is a/an:",
+    "opts": [
+      "Ballad",
+      "Sonnet",
+      "Epic",
+      "Elegy"
+    ],
+    "ans": 2,
+    "exp": "An epic is a grand adventure told in a long poem, usually about a heroic figure's amazing deeds. It's a big story!"
+  },
+  {
+    "type": "std",
+    "q": "An instruction in the text of a play indicating movement, position, or tone is a:",
+    "opts": [
+      "Stage direction",
+      "Prologue",
+      "Epilogue",
+      "Soliloquy"
+    ],
+    "ans": 0,
+    "exp": "Stage directions are those helpful notes in a play that tell the actors what to do or how to say their lines. They guide the performance."
+  },
+  {
+    "type": "std",
+    "q": "A character who serves to highlight another character's traits by contrast is a:",
+    "opts": [
+      "Protagonist",
+      "Foil",
+      "Flat character",
+      "Antagonist"
+    ],
+    "ans": 1,
+    "exp": "A foil character is chosen by the writer to contrast with another, making the main character's qualities stand out more clearly. They help define each other."
+  },
+  {
+    "type": "std",
+    "q": "The use of humor, irony, or ridicule to criticize or expose human stupidity or vice is:",
+    "opts": [
+      "Farce",
+      "Tragedy",
+      "Satire",
+      "Melodrama"
+    ],
+    "ans": 2,
+    "exp": "Satire uses wit and mockery to point out flaws in people or society, aiming for improvement through criticism. It's sharp humour."
+  },
+  {
+    "type": "std",
+    "q": "The section of the plot that introduces the setting, characters, and background is the:",
+    "opts": [
+      "Exposition",
+      "Climax",
+      "Denouement",
+      "Falling action"
+    ],
+    "ans": 0,
+    "exp": "The exposition is the very beginning of the plot, where we get to know the setting and the characters. It sets the stage for everything."
+  },
+  {
+    "type": "std",
+    "q": "The tragic flaw or error in judgment that leads to the downfall of a tragic hero is:",
+    "opts": [
+      "Hubris",
+      "Hamartia",
+      "Catharsis",
+      "Nemesis"
+    ],
+    "ans": 1,
+    "exp": "Hamartia is the mistake or error in judgment that seals the tragic hero's fate. It's the crucial misstep."
+  },
+  {
+    "type": "std",
+    "q": "An excessive pride or self-confidence that leads to a protagonist's ruin is:",
+    "opts": [
+      "Nemesis",
+      "Catharsis",
+      "Hubris",
+      "Hamartia"
+    ],
+    "ans": 2,
+    "exp": "Hubris is that dangerous excess of pride or arrogance that blinds the hero and leads them to their downfall. It's a classic tragic flaw."
+  },
+  {
+    "type": "std",
+    "q": "The release of emotional tension by the audience at the end of a tragedy is called:",
+    "opts": [
+      "Catharsis",
+      "Exposition",
+      "Climax",
+      "Denouement"
+    ],
+    "ans": 0,
+    "exp": "Catharsis is the emotional release an audience feels after watching a tragedy, often a mix of pity and fear. It purges those feelings."
+  },
+  {
+    "type": "std",
+    "q": "A section of a poem, akin to a paragraph in prose writing, is a:",
+    "opts": [
+      "Stanza",
+      "Verse",
+      "Couplet",
+      "Refrain"
+    ],
+    "ans": 1,
+    "exp": "A stanza is like a paragraph in a poem, a group of lines forming a unit. It helps organize the poem's thoughts."
+  },
+  {
+    "type": "std",
+    "q": "A pair of rhyming lines of poetry that are of equal length is a:",
+    "opts": [
+      "Stanza",
+      "Quatrain",
+      "Couplet",
+      "Ode"
+    ],
+    "ans": 2,
+    "exp": "A couplet is just two lines of poetry that rhyme and usually have the same meter. Easy peasy!"
+  },
+  {
+    "type": "std",
+    "q": "A poetic stanza consisting of exactly four lines is a:",
+    "opts": [
+      "Quatrain",
+      "Couplet",
+      "Sestet",
+      "Octave"
+    ],
+    "ans": 0,
+    "exp": "A quatrain is precisely four lines of poetry, my dear. So, when you see four lines together, that's your quatrain."
+  },
+  {
+    "type": "std",
+    "q": "A division of an act in a play, usually representing a single time and place, is a:",
+    "opts": [
+      "Scene",
+      "Prologue",
+      "Dialogue",
+      "Monologue"
+    ],
+    "ans": 1,
+    "exp": "The prologue introduces the play, setting the stage and giving background information before the main story begins. It's like the introduction before you start reading a book."
+  },
+  {
+    "type": "std",
+    "q": "The speech pattern of ordinary conversational speaking, lacking formal meter, is:",
+    "opts": [
+      "Poetry",
+      "Blank verse",
+      "Prose",
+      "Free verse"
+    ],
+    "ans": 2,
+    "exp": "Prose is simply written or spoken language in its ordinary form, without the rhythmic structure of poetry. Think of everyday talking and writing."
+  },
+  {
+    "type": "std",
+    "q": "An address or concluding section spoken at the end of a play is a/an:",
+    "opts": [
+      "Epilogue",
+      "Prologue",
+      "Dialogue",
+      "Soliloquy"
+    ],
+    "ans": 0,
+    "exp": "An epilogue comes at the very end of a play, offering concluding remarks or a summary. It's what happens after the main story finishes."
+  },
+  {
+    "type": "std",
+    "q": "Who is the tragic hero in Shakespeare's 'Othello'?",
+    "opts": [
+      "Iago",
+      "Othello",
+      "Cassio",
+      "Brabantio"
+    ],
+    "ans": 1,
+    "exp": "Othello is the central figure whose downfall drives the tragedy. His own actions and vulnerabilities make him the tragic hero."
+  },
+  {
+    "type": "std",
+    "q": "In drama, an 'aside' is spoken by a character directly to:",
+    "opts": [
+      "The main antagonist",
+      "Another character on stage",
+      "The audience",
+      "The director"
+    ],
+    "ans": 2,
+    "exp": "When a character speaks directly to the audience in an 'aside', they are revealing their inner thoughts or plans, but the other characters on stage pretend not to hear."
+  },
+  {
+    "type": "std",
+    "q": "A story that can be interpreted to reveal a hidden moral or political meaning is a/an:",
+    "opts": [
+      "Allegory",
+      "Myth",
+      "Fable",
+      "Legend"
+    ],
+    "ans": 0,
+    "exp": "An allegory uses characters and events to represent abstract ideas or principles, often with a moral or political message, you see."
+  },
+  {
+    "type": "std",
+    "q": "Who is the legendary blind poet attributed with writing 'The Iliad' and 'The Odyssey'?",
+    "opts": [
+      "Virgil",
+      "Homer",
+      "Sophocles",
+      "Euripides"
+    ],
+    "ans": 1,
+    "exp": "Homer is the legendary poet credited with these epic tales of ancient Greece. His works are foundational to Western literature."
+  },
+  {
+    "type": "std",
+    "q": "What type of sonnet consists of an octave (eight lines) and a sestet (six lines)?",
+    "opts": [
+      "Shakespearean sonnet",
+      "Spenserian sonnet",
+      "Petrarchan sonnet",
+      "English sonnet"
+    ],
+    "ans": 2,
+    "exp": "The Petrarchan sonnet, also called the Italian sonnet, is defined by its structure of an octave followed by a sestet."
+  },
+  {
+    "type": "std",
+    "q": "What type of sonnet consists of three quatrains and a concluding couplet?",
+    "opts": [
+      "Shakespearean sonnet",
+      "Petrarchan sonnet",
+      "Italian sonnet",
+      "Classical sonnet"
+    ],
+    "ans": 0,
+    "exp": "The Shakespearean sonnet, or English sonnet, is structured with three quatrains and a final couplet that often provides a resolution or twist."
+  },
+  {
+    "type": "std",
+    "q": "An account of a person's life written by that person is a/an:",
+    "opts": [
+      "Biography",
+      "Autobiography",
+      "Memoir",
+      "Chronicle"
+    ],
+    "ans": 1,
+    "exp": "An autobiography is a person's life story written by themselves. It's their own account of their experiences."
+  },
+  {
+    "type": "std",
+    "q": "The term for dictionary-defined, literal meaning of a word is:",
+    "opts": [
+      "Connotation",
+      "Etymology",
+      "Denotation",
+      "Semantics"
+    ],
+    "ans": 2,
+    "exp": "Denotation is the literal, dictionary meaning of a word, stripped of any emotion or association. It's the basic definition."
+  },
+  {
+    "type": "std",
+    "q": "The emotional or cultural associations surrounding a word is its:",
+    "opts": [
+      "Connotation",
+      "Denotation",
+      "Grammar",
+      "Syntax"
+    ],
+    "ans": 0,
+    "exp": "Connotation refers to the feelings or ideas that a word suggests beyond its literal meaning. It's the emotional baggage the word carries."
+  },
+  {
+    "type": "std",
+    "q": "A recurring element, image, or concept that helps develop the theme of a text is a/an:",
+    "opts": [
+      "Climax",
+      "Motif",
+      "Symbol",
+      "Allusion"
+    ],
+    "ans": 1,
+    "exp": "A motif is a repeated idea or element that helps to reinforce the central theme of the story. It keeps popping up to remind you of something important."
+  },
+  {
+    "type": "std",
+    "q": "A brief, witty poem or saying, often satirical in nature, is a/an:",
+    "opts": [
+      "Epic",
+      "Ode",
+      "Epigram",
+      "Elegy"
+    ],
+    "ans": 2,
+    "exp": "An epigram is a short, witty, and often satirical statement or poem. It's like a clever saying with a punch."
+  },
+  {
+    "type": "std",
+    "q": "The voice of the narrator in a poem is referred to as the:",
+    "opts": [
+      "Speaker",
+      "Author",
+      "Protagonist",
+      "Character"
+    ],
+    "ans": 0,
+    "exp": "You see, my dear, the speaker is the voice that is telling the poem, not necessarily the poet themselves. It's like the character speaking in a story."
+  },
+  {
+    "type": "std",
+    "q": "In poetry, a unit of rhythm containing stressed and unstressed syllables is a:",
+    "opts": [
+      "Stanza",
+      "Foot",
+      "Verse",
+      "Meter"
+    ],
+    "ans": 1,
+    "exp": "That's right! A foot is the basic unit of rhythm in poetry. It's what helps give a poem its beat and musicality."
+  },
+  {
+    "type": "std",
+    "q": "A lyric poem of fourteen lines, typically about love, is a:",
+    "opts": [
+      "Ballad",
+      "Ode",
+      "Sonnet",
+      "Elegy"
+    ],
+    "ans": 2,
+    "exp": "A sonnet is indeed a beautiful fourteen-line poem, often used for expressing deep feelings, especially love. It has a special structure."
+  },
+  {
+    "type": "std",
+    "q": "A story written to be performed by actors on stage is:",
+    "opts": [
+      "Drama",
+      "Poetry",
+      "Novel",
+      "Epic"
+    ],
+    "ans": 0,
+    "exp": "Exactly! Drama is the form of literature written to be performed. Think of plays you watch on stage or screen."
+  },
+  {
+    "type": "std",
+    "q": "Who wrote the classic novel 'Pride and Prejudice'?",
+    "opts": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Mary Shelley",
+      "George Eliot"
+    ],
+    "ans": 1,
+    "exp": "Yes, Jane Austen is the brilliant author behind 'Pride and Prejudice'. Her novels skillfully explore social manners and relationships."
+  },
+  {
+    "type": "std",
+    "q": "A subgenre of fiction that features supernatural or horrific elements in gloomy settings is:",
+    "opts": [
+      "Historical fiction",
+      "Sci-Fi",
+      "Gothic fiction",
+      "Dystopian fiction"
+    ],
+    "ans": 2,
+    "exp": "Gothic fiction creates a specific mood with its dark, mysterious settings and often supernatural or creepy elements. Perfect for a chilling read!"
+  },
+  {
+    "type": "std",
+    "q": "The main point of conflict or struggle in a story is the:",
+    "opts": [
+      "Conflict",
+      "Theme",
+      "Setting",
+      "Climax"
+    ],
+    "ans": 0,
+    "exp": "The conflict is the central struggle or problem that drives the story forward. It's what the characters must face or overcome."
+  },
+  {
+    "type": "std",
+    "q": "An uninterrupted monologue delivered by a character to other characters on stage is a:",
+    "opts": [
+      "Soliloquy",
+      "Dramatic monologue",
+      "Aside",
+      "Prologue"
+    ],
+    "ans": 1,
+    "exp": "A dramatic monologue is when one character speaks at length to other characters present. It reveals their thoughts and feelings directly to the audience."
+  },
+  {
+    "type": "std",
+    "q": "A play that blends aspects of both tragedy and comedy is a:",
+    "opts": [
+      "Farce",
+      "Satire",
+      "Tragicomedy",
+      "Melodrama"
+    ],
+    "ans": 2,
+    "exp": "Tragicomedy cleverly mixes sad and funny elements. It allows for a full range of human emotions in one story."
+  },
+  {
+    "type": "std",
+    "q": "A story or play with exaggerated characters and exciting events designed to appeal to emotions is a:",
+    "opts": [
+      "Melodrama",
+      "Farce",
+      "Satire",
+      "Tragedy"
+    ],
+    "ans": 0,
+    "exp": "Melodrama uses heightened emotions and dramatic situations to engage the audience. It's all about strong feelings and clear good versus evil."
+  },
+  {
+    "type": "std",
+    "q": "A direct or indirect reference to another familiar literary work or historical event is a/an:",
+    "opts": [
+      "Metaphor",
+      "Allusion",
+      "Simile",
+      "Oxymoron"
+    ],
+    "ans": 1,
+    "exp": "An allusion is a clever nod to something else, like another story, a myth, or history. It adds layers of meaning for those who catch it."
+  },
+  {
+    "type": "std",
+    "q": "A figure of speech where contradictory terms appear side-by-side (e.g., 'wise fool') is a/an:",
+    "opts": [
+      "Paradox",
+      "Pun",
+      "Oxymoron",
+      "Metaphor"
+    ],
+    "ans": 2,
+    "exp": "An oxymoron is a figure of speech where two opposite ideas are joined to create an effect. It's like a 'jumbo shrimp' – two contradictory terms together."
+  },
+  {
+    "type": "std",
+    "q": "A play on words, exploiting multiple meanings of a word or similar-sounding words, is a:",
+    "opts": [
+      "Pun",
+      "Sarcasm",
+      "Irony",
+      "Metaphor"
+    ],
+    "ans": 0,
+    "exp": "A pun is a fun play on words! It uses a word with multiple meanings or similar-sounding words for humorous effect."
+  },
+  {
+    "type": "std",
+    "q": "Who wrote the world-famous classic tragedy play 'Hamlet'?",
+    "opts": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Ben Jonson",
+      "John Webster"
+    ],
+    "ans": 1,
+    "exp": "William Shakespeare is the legendary playwright who gave us 'Hamlet'. His works are some of the most famous in English literature."
+  },
+  {
+    "type": "std",
+    "q": "Who wrote the famous African epic novel 'Arrow of God'?",
+    "opts": [
+      "Ngũgĩ wa Thiong'o",
+      "Wole Soyinka",
+      "Chinua Achebe",
+      "Flora Nwapa"
+    ],
+    "ans": 2,
+    "exp": "Chinua Achebe, a literary giant, penned the acclaimed novel 'Arrow of God'. It's a powerful story deeply rooted in Nigerian culture."
+  },
+  {
+    "type": "std",
+    "q": "The dictionary or literal meaning of a word is called its:",
+    "opts": [
+      "Denotation",
+      "Connotation",
+      "Synonym",
+      "Antonym"
+    ],
+    "ans": 0,
+    "exp": "My dear, denotation is simply the strict, literal meaning of a word, the one you'd find first in a dictionary. It's not about implied feelings like connotation."
+  },
+  {
+    "type": "std",
+    "q": "The repetition of the same sound at the start of adjacent or closely connected words is:",
+    "opts": [
+      "Assonance",
+      "Alliteration",
+      "Consonance",
+      "Onomatopoeia"
+    ],
+    "ans": 1,
+    "exp": "Well done! Alliteration is when words starting with the same sound are placed close together, like 'Peter Piper picked a peck'. It creates a pleasing sound."
+  },
+  {
+    "type": "std",
+    "q": "The pattern of rhymes at the end of each line of a poem is called the:",
+    "opts": [
+      "Meter",
+      "Rhythm",
+      "Rhyme scheme",
+      "Stanza"
+    ],
+    "ans": 2,
+    "exp": "Exactly! A rhyme scheme maps out the rhyming pattern at the end of verses, often shown with letters like ABAB or AABB. It gives a poem structure."
+  },
+  {
+    "type": "std",
+    "q": "A short story with a moral lesson, usually featuring human characters, is a/an:",
+    "opts": [
+      "Parable",
+      "Epic",
+      "Legend",
+      "Fable"
+    ],
+    "ans": 0,
+    "exp": "Hmm, a parable is a story with a moral, usually about human situations, to teach a lesson. A fable often features animals, you see."
+  },
+  {
+    "type": "std",
+    "q": "A literary device used to pause the narrative to present events that happened in the past is:",
+    "opts": [
+      "Foreshadowing",
+      "Flashback",
+      "Imagery",
+      "Suspense"
+    ],
+    "ans": 1,
+    "exp": "That's right, a flashback takes us back to an earlier time in the story to explain something. It interrupts the present action to give background."
+  },
+  {
+    "type": "std",
+    "q": "A character who contrast with another character (usually the protagonist) to highlight their qualities is a:",
+    "opts": [
+      "Protagonist",
+      "Antagonist",
+      "Foil",
+      "Static character"
+    ],
+    "ans": 2,
+    "exp": "A foil character is used to highlight the traits of another character through contrast. Think of them as a sort of mirror, my friend."
+  },
+  {
+    "type": "std",
+    "q": "A narrative style written from the perspective of an all-knowing narrator is:",
+    "opts": [
+      "Third-person omniscient",
+      "First-person objective",
+      "Second-person limited",
+      "Third-person limited"
+    ],
+    "ans": 0,
+    "exp": "Correct! In third-person omniscient, the narrator knows everything about all characters and events, like a god watching the story unfold."
+  },
+  {
+    "type": "std",
+    "q": "The lesson or principle taught by a fable or story is its:",
+    "opts": [
+      "Plot",
+      "Moral",
+      "Climax",
+      "Setting"
+    ],
+    "ans": 1,
+    "exp": "Yes, the moral is the underlying message or lesson that the story, especially a fable, intends to teach us. It's the main point."
+  },
+  {
+    "type": "std",
+    "q": "A poem of fourteen lines, typically written in iambic pentameter, is a:",
+    "opts": [
+      "Lyric",
+      "Epic",
+      "Sonnet",
+      "Ballad"
+    ],
+    "ans": 2,
+    "exp": "A sonnet is a very specific type of poem, always fourteen lines long and often with a particular rhythm and rhyme pattern. It's quite distinct!"
+  },
+  {
+    "type": "std",
+    "q": "The use of hints or clues by the author to suggest what will happen later in the plot is:",
+    "opts": [
+      "Imagery",
+      "Foreshadowing",
+      "Flashback",
+      "Alliteration"
+    ],
+    "ans": 1,
+    "exp": "That's correct. Foreshadowing cleverly hints at future events, building anticipation and giving us clues about what's to come later in the story."
+  }
+]

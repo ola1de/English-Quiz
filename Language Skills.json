@@ -1,0 +1,1204 @@
+[
+  {
+    "type": "passage",
+    "content": "<h3>The Art of Public Speaking</h3>Public speaking is often cited as one of mankind's greatest fears, yet it remains an invaluable skill in professional and personal life. The key to effective communication lies not just in the words chosen, but in how they are delivered. Body language, eye contact, and vocal variety play crucial roles in maintaining audience engagement. A common mistake among novice speakers is rushing through their slides, which suggests nervousness and makes the information difficult to digest. Experts suggest that pausing strategically can emphasize key points and give the speaker a moment to gather their thoughts.",
+    "questions": [
+      {
+        "q": "According to the passage, what is a key element of effective communication besides words?",
+        "opts": [
+          "The presentation slides",
+          "The method of delivery",
+          "The volume of the microphone",
+          "The script length"
+        ],
+        "ans": 1,
+        "exp": "You see, my dear, it's not just the words we say, but *how* we say them – our tone, pace, and body language – that truly impact understanding."
+      },
+      {
+        "q": "Novice speakers often make the mistake of:",
+        "opts": [
+          "Speaking loudly",
+          "Pausing frequently",
+          "Rushing through slides",
+          "Skipping important parts"
+        ],
+        "ans": 2,
+        "exp": "It's a common issue for new speakers to rush through their content, trying to fit too much in, rather than pacing themselves properly."
+      },
+      {
+        "q": "According to the passage, strategic pausing helps to:",
+        "opts": [
+          "Confuse the audience",
+          "End the speech early",
+          "Emphasize key points and allow the speaker to gather thoughts",
+          "Forget the speech details"
+        ],
+        "ans": 2,
+        "exp": "Strategic pauses are like little breaths for your speech; they give the audience time to digest important ideas and also help you gather your thoughts."
+      },
+      {
+        "q": "The word 'novice' in the passage means:",
+        "opts": [
+          "Expert",
+          "Skilled",
+          "Beginner",
+          "Intermediate"
+        ],
+        "ans": 2,
+        "exp": "Simply put, 'novice' means someone who is just starting out or learning something new, like a beginner."
+      },
+      {
+        "q": "A suitable title for this passage would be:",
+        "opts": [
+          "Writing a Speech",
+          "Slide Transitions",
+          "Public Fear",
+          "Keys to Effective Public Speaking"
+        ],
+        "ans": 3,
+        "exp": "This title captures the essence of the passage, which focuses on the essential elements needed for successful public speaking."
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "content": "<h3>The Evolution of English</h3>The English language is a dynamic entity, constantly changing and absorbing words from other cultures. Originating as a Germanic dialect, it has been influenced by Norse, French, Latin, and Greek, among others. In the modern era, the internet has accelerated this evolution, giving birth to neologisms like 'selfie' and 'viral'. While some purists bemoan these changes, linguists argue that such flexibility is precisely why English has become a global lingua franca. A static language is a dying language; adaptability ensures survival.",
+    "questions": [
+      {
+        "q": "English originally started as a:",
+        "opts": [
+          "Romance language",
+          "Germanic dialect",
+          "Latin dialect",
+          "Celtic language"
+        ],
+        "ans": 1,
+        "exp": "English is part of the Germanic language family, originating from the dialects spoken by the Angles, Saxons, and Jutes."
+      },
+      {
+        "q": "What has accelerated the evolution of English in the modern era?",
+        "opts": [
+          "Migration patterns",
+          "The internet",
+          "Grammar institutions",
+          "Dictionary updates"
+        ],
+        "ans": 1,
+        "exp": "The internet has truly opened up the floodgates for new words and expressions, accelerating how English changes so rapidly."
+      },
+      {
+        "q": "Linguists believe that the flexibility of the English language:",
+        "opts": [
+          "Is the reason for its global dominance",
+          "Makes it impossible to learn",
+          "Is why it will eventually disappear",
+          "Should be strictly corrected"
+        ],
+        "ans": 0,
+        "exp": "The author believes that English's ability to adapt and absorb new terms is a major reason for its widespread use around the world."
+      },
+      {
+        "q": "The word 'neologisms' in the passage refers to:",
+        "opts": [
+          "Ancient dialects",
+          "New words or expressions",
+          "Foreign idioms",
+          "Spelling errors"
+        ],
+        "ans": 1,
+        "exp": "'Neologisms' are the new words and phrases that pop up as our language evolves; it's a sign of a living language."
+      },
+      {
+        "q": "How does the author feel about language change?",
+        "opts": [
+          "He thinks it should be prevented",
+          "He is indifferent",
+          "He views it as a natural sign of vitality",
+          "He prefers ancient grammar rules"
+        ],
+        "ans": 2,
+        "exp": "The author sees language change not as decay, but as a vibrant sign that English is alive and well, constantly adapting."
+      }
+    ]
+  },
+  {
+    "type": "std",
+    "q": "The dispute was finally settled <u>______</u> the three brothers.",
+    "opts": [
+      "among",
+      "between",
+      "with",
+      "by"
+    ],
+    "ans": 0,
+    "exp": "When the dispute involves more than two people, like three brothers, we use 'among' to show it affects all of them."
+  },
+  {
+    "type": "std",
+    "q": "By next December, she <u>______</u> in this company for five years.",
+    "opts": [
+      "will work",
+      "will have worked",
+      "has worked",
+      "would have worked"
+    ],
+    "ans": 1,
+    "exp": "This is the future perfect tense. It's used to describe an action that will be completed by a specific point in the future."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct spelling of the word meaning a temporary stay:",
+    "opts": [
+      "Sojorn",
+      "Sojourne",
+      "Sojourn",
+      "Sojorner"
+    ],
+    "ans": 2,
+    "exp": "The correct spelling for a temporary stay is 'sojourn'. Remember, it's a noun that means visiting and staying in a place for a while."
+  },
+  {
+    "type": "std",
+    "q": "The scissors <u>______</u> on the table where you left them.",
+    "opts": [
+      "is",
+      "was",
+      "has been",
+      "are"
+    ],
+    "ans": 3,
+    "exp": "Scissors are a plural noun, referring to two blades joined together, so they always take a plural verb like 'are'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>AVARICE</u>",
+    "opts": [
+      "Greed",
+      "Generosity",
+      "Foolishness",
+      "Bravery"
+    ],
+    "ans": 0,
+    "exp": "Avarice is another word for extreme greed, especially for wealth; it means wanting more and more."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>ZENITH</u>",
+    "opts": [
+      "Apex",
+      "Nadir",
+      "Peak",
+      "Horizon"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'nadir' is the exact opposite of 'zenith', which means the highest point. Nadir refers to the lowest point, so it's the antonym we need."
+  },
+  {
+    "type": "std",
+    "q": "You must comply <u>______</u> the rules of the institution.",
+    "opts": [
+      "to",
+      "by",
+      "with",
+      "for"
+    ],
+    "ans": 2,
+    "exp": "When you must follow or obey something, you 'comply with' it. It's the correct prepositional phrase to use here, you see."
+  },
+  {
+    "type": "std",
+    "q": "Identify the figure of speech: 'The fire station burned down.'",
+    "opts": [
+      "Metaphor",
+      "Oxymoron",
+      "Hyperbole",
+      "Irony"
+    ],
+    "ans": 3,
+    "exp": "This is a classic example of irony, my friend. The irony lies in the fact that a fire station, where fires are supposed to be put out, is destroyed by fire."
+  },
+  {
+    "type": "std",
+    "q": "Choose the word that rhymes with: <u>BOUGH</u>",
+    "opts": [
+      "How",
+      "Rough",
+      "Cough",
+      "Dough"
+    ],
+    "ans": 0,
+    "exp": "For 'bough', the sound is like 'ow'. So, 'how' rhymes with it because they share that same sound, unlike the others."
+  },
+  {
+    "type": "std",
+    "q": "If he <u>______</u> early, he would not have missed the bus.",
+    "opts": [
+      "woke up",
+      "had woken up",
+      "wakes up",
+      "has woken up"
+    ],
+    "ans": 1,
+    "exp": "This is a past conditional sentence. To talk about something that *didn't* happen in the past and its consequence, we use the past perfect 'had woken up' in the 'if' clause."
+  },
+  {
+    "type": "std",
+    "q": "He hardly ever complains, <u>______</u>?",
+    "opts": [
+      "doesn't he",
+      "isn't he",
+      "does he",
+      "is he"
+    ],
+    "ans": 2,
+    "exp": "When the main clause has a negative adverb like 'hardly ever', the tag question uses the positive form of the auxiliary verb and pronoun. So, 'does he' fits perfectly."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to kick the bucket' means to:",
+    "opts": [
+      "Start a fight",
+      "Clean a room",
+      "Express anger",
+      "Pass away"
+    ],
+    "ans": 3,
+    "exp": "Oh, this idiom is quite common! 'To kick the bucket' is a straightforward way of saying someone has passed away or died."
+  },
+  {
+    "type": "std",
+    "q": "The bridge <u>______</u> repaired when we crossed it.",
+    "opts": [
+      "was being",
+      "is being",
+      "been",
+      "was been"
+    ],
+    "ans": 0,
+    "exp": "We use the past continuous passive here because the action ('repairing') was ongoing at the time we crossed the bridge. 'Was being repaired' shows this continuous action in the past."
+  },
+  {
+    "type": "std",
+    "q": "I suggest that he <u>______</u> a doctor immediately.",
+    "opts": [
+      "sees",
+      "see",
+      "should see",
+      "saw"
+    ],
+    "ans": 1,
+    "exp": "After verbs like 'suggest', when expressing a recommendation for a future action, we use the subjunctive mood. 'See' is the correct subjunctive form here, even without 'should'."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to spill the beans' means to:",
+    "opts": [
+      "Waste food",
+      "Make a mistake",
+      "Reveal a secret",
+      "Work hard"
+    ],
+    "ans": 2,
+    "exp": "This idiom, 'to spill the beans', means to accidentally or deliberately reveal a secret that was supposed to be kept hidden. Simply put, it's about revealing secrets."
+  },
+  {
+    "type": "std",
+    "q": "Despite their protests, the government refused to <u>______</u> to their demands.",
+    "opts": [
+      "give up",
+      "give out",
+      "give off",
+      "give in"
+    ],
+    "ans": 3,
+    "exp": "To 'give in' means to finally agree to something you initially disagreed with, especially after pressure. The government refusing to 'give in' means they didn't agree to the demands."
+  },
+  {
+    "type": "std",
+    "q": "Between you and <u>______</u>, I don't think he will pass the test.",
+    "opts": [
+      "me",
+      "I",
+      "myself",
+      "we"
+    ],
+    "ans": 0,
+    "exp": "When you are referring to yourself in a prepositional phrase like this, and you are the object of the preposition ('between you and...'), you must use the objective pronoun 'me'."
+  },
+  {
+    "type": "std",
+    "q": "She bought a <u>______</u> dress.",
+    "opts": [
+      "blue beautiful Italian",
+      "beautiful blue Italian",
+      "Italian beautiful blue",
+      "beautiful Italian blue"
+    ],
+    "ans": 1,
+    "exp": "We follow a specific order for adjectives: opinion, size, age, shape, color, origin, material, purpose. So, 'beautiful' (opinion), 'blue' (color), 'Italian' (origin) is the correct sequence."
+  },
+  {
+    "type": "std",
+    "q": "Let's begin the program, <u>______</u>?",
+    "opts": [
+      "will we",
+      "don't we",
+      "shall we",
+      "can we"
+    ],
+    "ans": 2,
+    "exp": "This is a special type of tag question used for suggestions. When we want to suggest doing something together, we use 'shall we' at the end."
+  },
+  {
+    "type": "std",
+    "q": "He succeeded <u>______</u> passing the exam despite the difficulties.",
+    "opts": [
+      "at",
+      "on",
+      "for",
+      "in"
+    ],
+    "ans": 3,
+    "exp": "To succeed 'in' doing something means to achieve it or accomplish it successfully. So, 'succeeded in passing' is the correct and natural phrasing to express accomplishment."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct spelling:",
+    "opts": [
+      "Maintenance",
+      "Maintainance",
+      "Maintenence",
+      "Maintainence"
+    ],
+    "ans": 0,
+    "exp": "Well done, my dear! 'Maintenance' is the correct spelling. It follows the normal rule of 'a' before 'i' when there's no 'c' before it, unlike other options."
+  },
+  {
+    "type": "std",
+    "q": "Many a student <u>______</u> failed the test due to lack of study.",
+    "opts": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "ans": 1,
+    "exp": "Lovely! When we have 'many a + singular noun', the verb should be singular too. So, 'many a student has failed' is correct."
+  },
+  {
+    "type": "std",
+    "q": "Either the teacher or the students <u>______</u> to blame.",
+    "opts": [
+      "is",
+      "was",
+      "are",
+      "has been"
+    ],
+    "ans": 2,
+    "exp": "You got it! With 'either/or', the verb agrees with the noun closest to it. Since 'students' is plural, we use 'are'."
+  },
+  {
+    "type": "std",
+    "q": "He said, 'I am tired.' In indirect speech, this becomes: He said that <u>______</u>.",
+    "opts": [
+      "he is tired",
+      "I was tired",
+      "he has been tired",
+      "he was tired"
+    ],
+    "ans": 3,
+    "exp": "Excellent! When reporting speech, the past continuous 'was tired' is the correct tense change from the present continuous 'am tired'."
+  },
+  {
+    "type": "std",
+    "q": "As a noun, the word 'import' has its stress on the <u>______</u> syllable.",
+    "opts": [
+      "first",
+      "second",
+      "third",
+      "fourth"
+    ],
+    "ans": 0,
+    "exp": "Correct! For the noun 'import' (meaning goods brought in), the stress falls on the first syllable, as in IM-port."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>PLACID</u>",
+    "opts": [
+      "Excited",
+      "Calm",
+      "Noisy",
+      "Wild"
+    ],
+    "ans": 1,
+    "exp": "Precisely! 'Placid' means calm and peaceful. So, 'calm' is the nearest meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>FRUGAL</u>",
+    "opts": [
+      "Stingy",
+      "Thrifty",
+      "Extravagant",
+      "Generous"
+    ],
+    "ans": 2,
+    "exp": "Exactly! 'Frugal' means careful with money. The opposite is 'extravagant', which means spending a lot of money wastefully."
+  },
+  {
+    "type": "std",
+    "q": "To 'cry over spilt milk' means to:",
+    "opts": [
+      "Cry easily over minor issues",
+      "Complain about food quality",
+      "Clean up a mess reluctantly",
+      "Worry about past mistakes that cannot be undone"
+    ],
+    "ans": 3,
+    "exp": "Well explained! This idiom means it's pointless to worry about something that has already happened and cannot be changed."
+  },
+  {
+    "type": "std",
+    "q": "A number of students <u>______</u> absent today.",
+    "opts": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "ans": 0,
+    "exp": "Good job! 'A number of' indicates plurality, so we use the plural verb 'are'. It's like saying 'several students are absent'."
+  },
+  {
+    "type": "std",
+    "q": "The sun <u>______</u> in the east.",
+    "opts": [
+      "raises",
+      "rises",
+      "arises",
+      "rose"
+    ],
+    "ans": 1,
+    "exp": "Correct! The sun performs this action daily, so we use the simple present tense. The sun 'rises' in the east."
+  },
+  {
+    "type": "std",
+    "q": "They congratulated her <u>______</u> her promotion.",
+    "opts": [
+      "for",
+      "at",
+      "on",
+      "about"
+    ],
+    "ans": 2,
+    "exp": "Yes! We congratulate someone 'on' an achievement. 'On' is the correct preposition to use here."
+  },
+  {
+    "type": "std",
+    "q": "A harsh, discordant mixture of sounds is known as <u>______</u>.",
+    "opts": [
+      "euphony",
+      "harmony",
+      "symphony",
+      "cacophony"
+    ],
+    "ans": 3,
+    "exp": "You've got it! 'Cacophony' describes a harsh, unpleasant mix of sounds, quite the opposite of pleasant sounds."
+  },
+  {
+    "type": "std",
+    "q": "She decided to <u>______</u> a story to avoid punishment.",
+    "opts": [
+      "make up",
+      "make out",
+      "make over",
+      "make for"
+    ],
+    "ans": 0,
+    "exp": "Nice one! 'Make up' is the phrasal verb that means to invent or fabricate something, like a story."
+  },
+  {
+    "type": "std",
+    "q": "What is the plural of 'criterion'?",
+    "opts": [
+      "criterions",
+      "criteria",
+      "criterias",
+      "criterium"
+    ],
+    "ans": 1,
+    "exp": "Correct! 'Criteria' is the irregular plural form of 'criterion'. Remember this one!"
+  },
+  {
+    "type": "std",
+    "q": "Identify the figure of speech: 'I have told you a million times.'",
+    "opts": [
+      "Simile",
+      "Metaphor",
+      "Hyperbole",
+      "Personification"
+    ],
+    "ans": 2,
+    "exp": "Spot on! Saying you've told someone something 'a million times' is an exaggeration for emphasis, which is hyperbole."
+  },
+  {
+    "type": "std",
+    "q": "The lady <u>______</u> you met yesterday is my aunt.",
+    "opts": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "ans": 3,
+    "exp": "Whom is used as the object of a verb or preposition, my dear. In this sentence, 'you met' is the verb, and the lady is receiving the action, so 'whom' is correct."
+  },
+  {
+    "type": "std",
+    "q": "It is essential that she <u>______</u> the meeting on time.",
+    "opts": [
+      "attend",
+      "attends",
+      "should attend",
+      "must attend"
+    ],
+    "ans": 0,
+    "exp": "When something is essential or required, we use the base form of the verb after 'that'. It's a rule for the subjunctive mood, you see."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct spelling:",
+    "opts": [
+      "recieve",
+      "receive",
+      "receve",
+      "recive"
+    ],
+    "ans": 1,
+    "exp": "The correct spelling for this word is 'receive,' with the 'e' coming before the 'i' after 'c.' Remember 'i before e, except after c' in most cases."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>TRANSIENT</u>",
+    "opts": [
+      "Permanent",
+      "Important",
+      "Fleeting",
+      "Beautiful"
+    ],
+    "ans": 2,
+    "exp": "Transient means something that lasts for a very short time, so 'fleeting' is the closest meaning. It's about things that don't stay long."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>ARROGANT</u>",
+    "opts": [
+      "Proud",
+      "Boastful",
+      "Stingy",
+      "Humble"
+    ],
+    "ans": 3,
+    "exp": "Someone who is arrogant thinks they are superior to others. 'Humble' means having a low estimate of one's own importance, which is the opposite."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'once in a blue moon' means:",
+    "opts": [
+      "Very rarely",
+      "Frequently",
+      "Every month",
+      "At night"
+    ],
+    "ans": 0,
+    "exp": "The expression 'once in a blue moon' is used to describe something that happens very infrequently. It's not common at all."
+  },
+  {
+    "type": "std",
+    "q": "He was asked to write a <u>______</u> for the newspaper.",
+    "opts": [
+      "colum",
+      "column",
+      "collum",
+      "columnist"
+    ],
+    "ans": 1,
+    "exp": "A 'column' is a piece of writing that appears regularly in a newspaper or magazine. The spelling is c-o-l-u-m-n, my dear."
+  },
+  {
+    "type": "std",
+    "q": "He is addicted to <u>______</u> computer games.",
+    "opts": [
+      "play",
+      "played",
+      "playing",
+      "be playing"
+    ],
+    "ans": 2,
+    "exp": "After a preposition like 'to' or verbs like 'addicted to,' we use the gerund form of the verb, which is the '-ing' form. So, 'playing' is correct here."
+  },
+  {
+    "type": "std",
+    "q": "They were deprived <u>______</u> their basic human rights.",
+    "opts": [
+      "from",
+      "with",
+      "for",
+      "of"
+    ],
+    "ans": 3,
+    "exp": "We usually say something is deprived 'of' something else. They were deprived 'of' their rights, meaning the rights were taken away from them."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words rhymes with: <u>FEATHER</u>",
+    "opts": [
+      "Leather",
+      "Father",
+      "Rather",
+      "Latter"
+    ],
+    "ans": 0,
+    "exp": "The word 'feather' and 'leather' rhyme because they share the same ending sound, '-eather'. Listen to how they sound together."
+  },
+  {
+    "type": "std",
+    "q": "The engine runs <u>______</u> after the maintenance.",
+    "opts": [
+      "smooth",
+      "smoothly",
+      "more smooth",
+      "smoother"
+    ],
+    "ans": 1,
+    "exp": "When describing how an action is performed, we use an adverb. 'Smoothly' tells us how the engine runs, modifying the verb 'runs'."
+  },
+  {
+    "type": "std",
+    "q": "Physics <u>______</u> a difficult subject for many students.",
+    "opts": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "ans": 2,
+    "exp": "Subjects like 'Physics,' 'Mathematics,' or 'news' often look plural but take a singular verb. So, 'is' is the correct verb here."
+  },
+  {
+    "type": "std",
+    "q": "The new manager hopes to <u>______</u> positive changes in the department.",
+    "opts": [
+      "bring up",
+      "bring in",
+      "bring down",
+      "bring about"
+    ],
+    "ans": 3,
+    "exp": "The phrasal verb 'bring about' means to cause something to happen. The manager wants to cause positive changes."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following sentences is grammatically correct?",
+    "opts": [
+      "I know nothing about it.",
+      "I don't know nothing about it.",
+      "I don't know no one there.",
+      "I didn't see nobody."
+    ],
+    "ans": 0,
+    "exp": "This sentence avoids a double negative, which is grammatically incorrect in standard English. 'I know nothing' is correct; 'I don't know nothing' is not."
+  },
+  {
+    "type": "std",
+    "q": "I am next in line, <u>______</u>?",
+    "opts": [
+      "am not I",
+      "aren't I",
+      "isn't I",
+      "don't I"
+    ],
+    "ans": 1,
+    "exp": "The tag question for 'I am' is 'aren't I?' It's a standard pattern for positive statements with 'I am'."
+  },
+  {
+    "type": "std",
+    "q": "An <u>altruistic</u> person is someone who is:",
+    "opts": [
+      "Selfish",
+      "Highly educated",
+      "Unselfish and caring for others",
+      "Always angry"
+    ],
+    "ans": 2,
+    "exp": "My dear, altruistic means you are concerned about others and unselfish. Option C captures this perfectly, showing kindness."
+  },
+  {
+    "type": "std",
+    "q": "The crowd <u>______</u> dispersing slowly.",
+    "opts": [
+      "are",
+      "were",
+      "have been",
+      "is"
+    ],
+    "ans": 3,
+    "exp": "When the crowd is acting as one unit, we use a singular verb. So, 'The crowd is dispersing' is correct because the crowd is seen as a single entity here."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct spelling:",
+    "opts": [
+      "Occurred",
+      "Occured",
+      "Ocurred",
+      "Ocurred"
+    ],
+    "ans": 0,
+    "exp": "Simply put, 'occurred' with double 'r' and double 'c' is the correct spelling. Always double-check your spelling for words ending in -ur."
+  },
+  {
+    "type": "std",
+    "q": "Please <u>______</u> down on the couch if you feel unwell.",
+    "opts": [
+      "lay",
+      "lie",
+      "laid",
+      "lain"
+    ],
+    "ans": 1,
+    "exp": "When you want to rest or recline, the correct verb is 'lie'. 'Please lie down' is what you say, not 'lay down'."
+  },
+  {
+    "type": "std",
+    "q": "The city <u>______</u> I was born has changed a lot.",
+    "opts": [
+      "which",
+      "that",
+      "where",
+      "in where"
+    ],
+    "ans": 2,
+    "exp": "We use 'where' to refer to a place, like a city or a town. Since the sentence is about the city you were born in, 'where' is the right choice."
+  },
+  {
+    "type": "std",
+    "q": "She accused her colleague <u>______</u> stealing her ideas.",
+    "opts": [
+      "for",
+      "with",
+      "about",
+      "of"
+    ],
+    "ans": 3,
+    "exp": "The verb 'accused' is followed by the preposition 'of' when stating what someone is accused of doing. She accused him *of* stealing."
+  },
+  {
+    "type": "std",
+    "q": "Had I known you were coming, I <u>______</u> a cake.",
+    "opts": [
+      "would have baked",
+      "will bake",
+      "would bake",
+      "had baked"
+    ],
+    "ans": 0,
+    "exp": "This is a third conditional sentence, talking about an unreal past situation. 'Had I known' requires 'would have baked' to complete the thought correctly."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>LETHARGIC</u>",
+    "opts": [
+      "Energetic",
+      "Lazy and sluggish",
+      "Intelligent",
+      "Quick-tempered"
+    ],
+    "ans": 1,
+    "exp": "Lethargic describes someone who is lacking energy and moving slowly. Option B, 'Lazy and sluggish', is exactly what lethargic means."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>OBSCURE</u>",
+    "opts": [
+      "Hidden",
+      "Confusing",
+      "Clear",
+      "Vague"
+    ],
+    "ans": 2,
+    "exp": "Obscure means not known or discovered, or difficult to understand. The opposite would be something that is easily seen and understood, like 'Clear'."
+  },
+  {
+    "type": "std",
+    "q": "To be 'on the fence' means to be:",
+    "opts": [
+      "Safe",
+      "In danger",
+      "Angry",
+      "Undecided"
+    ],
+    "ans": 3,
+    "exp": "When you're 'on the fence', it means you haven't made up your mind yet. You are undecided about something."
+  },
+  {
+    "type": "std",
+    "q": "A collection of rare coins <u>______</u> sold at the auction yesterday.",
+    "opts": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "A collection is a singular noun, even though it contains multiple coins. Therefore, the singular verb 'was' is correct here."
+  },
+  {
+    "type": "std",
+    "q": "Identify the figure of speech: 'Peter Piper picked a peck of pickled peppers.'",
+    "opts": [
+      "Assonance",
+      "Alliteration",
+      "Onomatopoeia",
+      "Metaphor"
+    ],
+    "ans": 1,
+    "exp": "This is a classic example of alliteration, where words starting with the same consonant sound are repeated close together. Notice the 'p' sound."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct spelling:",
+    "opts": [
+      "Necassary",
+      "Neccessary",
+      "Necessary",
+      "Necessery"
+    ],
+    "ans": 2,
+    "exp": "The correct spelling is 'necessary' with one 'c' and double 's'. It's a common word to get mixed up, but 'necessary' is the way to go."
+  },
+  {
+    "type": "std",
+    "q": "The heavy rain prevented us <u>______</u> going out.",
+    "opts": [
+      "to",
+      "for",
+      "against",
+      "from"
+    ],
+    "ans": 3,
+    "exp": "The phrasal verb is 'prevent from'. We use it to say that something stops us from doing something else. So, 'prevented us *from* going'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>INUNDATE</u>",
+    "opts": [
+      "Flood",
+      "Dry",
+      "Starve",
+      "Exhaust"
+    ],
+    "ans": 0,
+    "exp": "To inundate literally means to flood an area with water. Figuratively, it means to overwhelm someone with a large amount of something, just like a flood."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>METICULOUS</u>",
+    "opts": [
+      "Thorough",
+      "Sloppy",
+      "Careful",
+      "Messy"
+    ],
+    "ans": 1,
+    "exp": "Well done! 'Sloppy' is the opposite of 'meticulous', which means showing great attention to detail. Sloppy means careless or untidy, you see."
+  },
+  {
+    "type": "std",
+    "q": "The car <u>______</u> on our way to the beach.",
+    "opts": [
+      "broke up",
+      "broke out",
+      "broke down",
+      "broke off"
+    ],
+    "ans": 2,
+    "exp": "Exactly! 'Broke down' is the correct phrasal verb to describe a vehicle malfunctioning and stopping, my dear."
+  },
+  {
+    "type": "std",
+    "q": "An 'epiphany' is a sudden <u>______</u>.",
+    "opts": [
+      "disaster",
+      "argument",
+      "disappearance",
+      "realization"
+    ],
+    "ans": 3,
+    "exp": "'Realization' is the best fit here. An epiphany is a sudden moment of understanding or insight, a moment of clear realization."
+  },
+  {
+    "type": "std",
+    "q": "You <u>______</u> smoke in the library; it is strictly forbidden.",
+    "opts": [
+      "must not",
+      "need not",
+      "cannot",
+      "may not"
+    ],
+    "ans": 0,
+    "exp": "Yes, 'must not' expresses a strong prohibition. You are forbidden from smoking in the library, it's very important."
+  },
+  {
+    "type": "std",
+    "q": "Let's have dinner now, <u>______</u>?",
+    "opts": [
+      "will we",
+      "shall we",
+      "won't we",
+      "don't we"
+    ],
+    "ans": 1,
+    "exp": "That's right! 'Shall we?' is used to make a suggestion or offer, like inviting someone to do something with you."
+  },
+  {
+    "type": "std",
+    "q": "<u>______</u> the book, she turned off the lights and went to sleep.",
+    "opts": [
+      "Reading",
+      "Read",
+      "Having read",
+      "To read"
+    ],
+    "ans": 2,
+    "exp": "'Having read' is the perfect choice here. It shows that the action of reading was completed before the next action of turning off the lights."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to bite the bullet' means to:",
+    "opts": [
+      "Fight fiercely",
+      "Make a bad mistake",
+      "Stay silent",
+      "Face a difficult situation with courage"
+    ],
+    "ans": 3,
+    "exp": "Correct! 'Face a difficult situation with courage' is the true meaning of 'bite the bullet'. It means enduring hardship bravely."
+  },
+  {
+    "type": "std",
+    "q": "None of the money <u>______</u> recovered.",
+    "opts": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "You've got it! When the subject is 'None of the money', the verb should be singular, hence 'was'. This is a common point of confusion, but you handled it well."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct spelling:",
+    "opts": [
+      "Harrass",
+      "Harass",
+      "Haras",
+      "Harras"
+    ],
+    "ans": 1,
+    "exp": "Excellent! The correct spelling is 'Harass'. Always remember it has only one 'r' after the 'ha' and one 's' at the end."
+  },
+  {
+    "type": "std",
+    "q": "As a verb, the word 'present' is stressed on the <u>______</u> syllable.",
+    "opts": [
+      "first",
+      "third",
+      "second",
+      "fourth"
+    ],
+    "ans": 2,
+    "exp": "Spot on! When 'present' is used as a verb, meaning to give or show something, the stress falls on the second syllable: pre-SENT."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with: <u>GREAT</u>",
+    "opts": [
+      "Greet",
+      "Grit",
+      "Threat",
+      "Plate"
+    ],
+    "ans": 3,
+    "exp": "Yes! 'Plate' and 'great' rhyme because they share the same vowel sound and ending consonant sound. Well done!"
+  },
+  {
+    "type": "std",
+    "q": "He couldn't attend because he was feeling 'under the weather'. This means he was:",
+    "opts": [
+      "Unwell",
+      "Angry",
+      "Busy",
+      "Happy"
+    ],
+    "ans": 0,
+    "exp": "Correct again! 'Under the weather' is a common idiom that simply means feeling unwell or sick."
+  },
+  {
+    "type": "std",
+    "q": "It was <u>______</u> who called you yesterday.",
+    "opts": [
+      "him",
+      "he",
+      "his",
+      "himself"
+    ],
+    "ans": 1,
+    "exp": "That's the one! After a linking verb like 'was', we use the subject pronoun 'he' when it refers back to the subject of the sentence. Good job!"
+  },
+  {
+    "type": "std",
+    "q": "This is the <u>______</u> of the two options.",
+    "opts": [
+      "best",
+      "most good",
+      "better",
+      "more better"
+    ],
+    "ans": 2,
+    "exp": "Precisely! When comparing only two things, we use the comparative adjective 'better', not 'best'. You remembered that rule!"
+  },
+  {
+    "type": "std",
+    "q": "I cannot <u>______</u> his rude behavior any longer.",
+    "opts": [
+      "put out with",
+      "put off with",
+      "put down with",
+      "put up with"
+    ],
+    "ans": 3,
+    "exp": "Exactly! 'Put up with' is the correct phrasal verb meaning to tolerate something unpleasant. You've mastered it!"
+  },
+  {
+    "type": "std",
+    "q": "Three miles <u>______</u> too far to walk.",
+    "opts": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "My dear, 'Three miles' is treated as a single unit here, representing a distance. Because it's a singular concept, we use the singular verb 'is'."
+  },
+  {
+    "type": "std",
+    "q": "A polite expression used in place of a harsh or offensive one is called a <u>______</u>.",
+    "opts": [
+      "hyperbole",
+      "euphemism",
+      "dysphemism",
+      "oxymoron"
+    ],
+    "ans": 1,
+    "exp": "Ah, a euphemism is simply a polite word or phrase used to avoid saying something that might be unpleasant or offensive. It's like softening the blow."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>RESOLUTE</u>",
+    "opts": [
+      "Weak",
+      "Hesitant",
+      "Determined",
+      "Undecided"
+    ],
+    "ans": 2,
+    "exp": "Resolute means being firm and determined in your purpose, you see. So, 'determined' is the closest meaning here."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>SPARSELY</u>",
+    "opts": [
+      "Thinly",
+      "Rarely",
+      "Poorly",
+      "Densely"
+    ],
+    "ans": 3,
+    "exp": "Sparsely means thinly or scattered, my dear. The opposite of that would be 'densely', meaning packed or crowded together."
+  },
+  {
+    "type": "std",
+    "q": "She asked, 'Where is the station?' In indirect speech: She asked <u>______</u>.",
+    "opts": [
+      "where the station was",
+      "where was the station",
+      "where is the station",
+      "where the station is"
+    ],
+    "ans": 0,
+    "exp": "When we change direct speech to indirect speech, the tense usually shifts back. 'Is' becomes 'was', and we don't use question word order after 'where'."
+  },
+  {
+    "type": "std",
+    "q": "The doctor advised that he <u>______</u> rest for a week.",
+    "opts": [
+      "must",
+      "should",
+      "will",
+      "would"
+    ],
+    "ans": 1,
+    "exp": "When giving advice, especially in the past or reported speech, we use 'should' to indicate what is recommended or advisable."
+  },
+  {
+    "type": "std",
+    "q": "He is very fond <u>______</u> classical music.",
+    "opts": [
+      "for",
+      "with",
+      "of",
+      "at"
+    ],
+    "ans": 2,
+    "exp": "The correct preposition to use with 'fond' when talking about liking something is always 'of'. He is fond of something."
+  },
+  {
+    "type": "std",
+    "q": "One of my friends <u>______</u> coming to visit me tomorrow.",
+    "opts": [
+      "are",
+      "were",
+      "have been",
+      "is"
+    ],
+    "ans": 3,
+    "exp": "Remember, with phrases like 'One of my friends', the verb agrees with 'one', which is singular. So, 'is' is the correct choice."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct spelling:",
+    "opts": [
+      "Colleague",
+      "Coleague",
+      "Colleage",
+      "Colegue"
+    ],
+    "ans": 0,
+    "exp": "You see, 'colleague' is the standard and correct way to spell that word. The other options are simply incorrect."
+  },
+  {
+    "type": "std",
+    "q": "Identify the figure of speech: 'The buzzing bee flew past.'",
+    "opts": [
+      "Metaphor",
+      "Onomatopoeia",
+      "Personification",
+      "Simile"
+    ],
+    "ans": 1,
+    "exp": "'Buzzing' imitates the sound a bee makes. This use of a word to suggest a sound is called onomatopoeia."
+  }
+]

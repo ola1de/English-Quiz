@@ -1,0 +1,1202 @@
+[
+  {
+    "type": "std",
+    "q": "Which punctuation mark is used to indicate a sudden break in a sentence or to set off parenthetical information with emphasis?",
+    "opts": [
+      "Comma",
+      "Semicolon",
+      "Colon",
+      "Em dash"
+    ],
+    "ans": 3,
+    "exp": "My dear, the em dash is perfect for showing a sudden change in thought or for adding extra information with a bit more emphasis than a comma."
+  },
+  {
+    "type": "std",
+    "q": "The term 'sandwich' originated from the title of an English nobleman, the Earl of Sandwich. What linguistic process is this?",
+    "opts": [
+      "Portmanteau",
+      "Eponym",
+      "Acronym",
+      "Neologism"
+    ],
+    "ans": 1,
+    "exp": "You see, an eponym is a name given to something after a person or place, just like the Earl of Sandwich gave his name to the food."
+  },
+  {
+    "type": "std",
+    "q": "Which of these English words was borrowed directly from Japanese?",
+    "opts": [
+      "Tsunami",
+      "Bazaar",
+      "Avatar",
+      "Safari"
+    ],
+    "ans": 0,
+    "exp": "Simply put, \"Tsunami\" is a Japanese word that entered the English language, referring to those powerful ocean waves caused by underwater disturbances."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for a word that is spelled identically to another word but has a different pronunciation and meaning (e.g., 'wind' as air vs. 'wind' a clock)?",
+    "opts": [
+      "Homophone",
+      "Anagram",
+      "Heteronym",
+      "Synonym"
+    ],
+    "ans": 2,
+    "exp": "A heteronym, my dear, is a word spelled identically but with different pronunciation and meaning, like how we 'wind' a clock, different from the 'wind' that blows."
+  },
+  {
+    "type": "std",
+    "q": "What does the Latin phrase 'magnum opus' mean?",
+    "opts": [
+      "Greatest work",
+      "In good faith",
+      "By itself",
+      "From the beginning"
+    ],
+    "ans": 0,
+    "exp": "My dear, 'magnum opus' literally means 'greatest work' in Latin, referring to an artist's most significant achievement."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a portmanteau word?",
+    "opts": [
+      "Postman",
+      "Blackboard",
+      "Newspaper",
+      "Motel"
+    ],
+    "ans": 3,
+    "exp": "My dear, a portmanteau word like 'motel' is formed by blending parts of existing words, in this case, 'motor' and 'hotel.'"
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark '^'?",
+    "opts": [
+      "Tilde",
+      "Caret",
+      "Asterisk",
+      "Ampersand"
+    ],
+    "ans": 1,
+    "exp": "That little symbol '^' you see, is called a caret. It's often used to indicate something that needs to be inserted into a text."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is the British spelling of the word meaning 'protection against attack'?",
+    "opts": [
+      "Defense",
+      "Defenese",
+      "Defence",
+      "Defensse"
+    ],
+    "ans": 2,
+    "exp": "For British spelling, my dear, 'defence' is the correct form. Americans usually write it as 'defense,' but we are talking about British English here."
+  },
+  {
+    "type": "std",
+    "q": "The English word 'chocolate' originated from which indigenous language?",
+    "opts": [
+      "Sanskrit",
+      "Swahili",
+      "Arabic",
+      "Nahuatl (Aztec)"
+    ],
+    "ans": 3,
+    "exp": "The word 'chocolate' actually comes from the Nahuatl language, spoken by the Aztec people. Isn't that interesting, my dear?"
+  },
+  {
+    "type": "std",
+    "q": "What does the expression 'pro bono' mean?",
+    "opts": [
+      "For the public good (free of charge)",
+      "In good faith",
+      "By itself",
+      "After the fact"
+    ],
+    "ans": 0,
+    "exp": "My dear, 'pro bono' is a Latin phrase meaning 'for the public good,' and it often refers to professional work done voluntarily and without payment."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words is a palindrome?",
+    "opts": [
+      "Silent",
+      "Listen",
+      "Kayak",
+      "Acronym"
+    ],
+    "ans": 2,
+    "exp": "A palindrome, my dear, is a word that reads the same forwards and backwards, just like 'kayak.' Try it!"
+  },
+  {
+    "type": "std",
+    "q": "The term 'awfully good' is an example of a/an:",
+    "opts": [
+      "Simile",
+      "Oxymoron",
+      "Hyperbole",
+      "Metaphor"
+    ],
+    "ans": 1,
+    "exp": "An oxymoron, my dear, is when contradictory terms appear in conjunction, like 'awfully good' or 'jumbo shrimp.' It's clever, isn't it?"
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark that combines a question mark and an exclamation point (‽)?",
+    "opts": [
+      "Ampersand",
+      "Semicolon",
+      "Asterisk",
+      "Interrobang"
+    ],
+    "ans": 3,
+    "exp": "The interrobang, my dear, is that unique punctuation mark that combines a question mark and an exclamation point to express both query and excitement."
+  },
+  {
+    "type": "std",
+    "q": "What is the earliest historical form of the English language, spoken from the 5th to 11th centuries?",
+    "opts": [
+      "Middle English",
+      "Old English",
+      "Modern English",
+      "Early Modern English"
+    ],
+    "ans": 1,
+    "exp": "Old English is the earliest form of English, my dear, spoken way back from the 5th to the 11th centuries. It's quite different from the English we speak today!"
+  },
+  {
+    "type": "std",
+    "q": "What is the plural form of the word 'goose'?",
+    "opts": [
+      "Gooses",
+      "Goosess",
+      "Geese",
+      "Geeses"
+    ],
+    "ans": 2,
+    "exp": "My dear, 'geese' is the correct and irregular plural form of 'goose.' English has so many interesting plurals, doesn't it?"
+  },
+  {
+    "type": "std",
+    "q": "The word 'portmanteau' was coined in its literary sense by which author?",
+    "opts": [
+      "Lewis Carroll",
+      "William Shakespeare",
+      "Charles Dickens",
+      "George Orwell"
+    ],
+    "ans": 0,
+    "exp": "Lewis Carroll, the author of \"Alice's Adventures in Wonderland,\" actually coined 'portmanteau' in its literary sense, my dear. He was very creative with words!"
+  },
+  {
+    "type": "std",
+    "q": "The word 'SCUBA' is an example of a/an:",
+    "opts": [
+      "Abbreviation",
+      "Acronym",
+      "Portmanteau",
+      "Eponym"
+    ],
+    "ans": 1,
+    "exp": "My dear, an acronym is an abbreviation formed from the initial letters of other words and pronounced as a word, like SCUBA: Self-Contained Underwater Breathing Apparatus."
+  },
+  {
+    "type": "std",
+    "q": "What does the Latin phrase 'bona fide' mean?",
+    "opts": [
+      "After the event",
+      "By itself",
+      "Without date",
+      "In good faith"
+    ],
+    "ans": 3,
+    "exp": "My dear, 'bona fide' is a lovely Latin phrase that means 'in good faith.' It implies sincerity and honesty in an action."
+  },
+  {
+    "type": "std",
+    "q": "Which vowel is the most commonly used in written English?",
+    "opts": [
+      "E",
+      "A",
+      "I",
+      "O"
+    ],
+    "ans": 0,
+    "exp": "The letter 'E' is the most commonly used vowel in written English, my dear. If you look at most texts, you'll find it everywhere!"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is the American English spelling?",
+    "opts": [
+      "Amortise",
+      "Organise",
+      "Amortize",
+      "Realise"
+    ],
+    "ans": 2,
+    "exp": "My dear, in American English, 'amortize' usually ends with a 'z' while British English often uses an 's.' So, 'amortize' is the American spelling."
+  },
+  {
+    "type": "std",
+    "q": "The term 'status quo' refers to:",
+    "opts": [
+      "A state of emergency",
+      "The final outcome",
+      "A legal contract",
+      "The existing state of affairs"
+    ],
+    "ans": 3,
+    "exp": "My dear, 'status quo' simply means things as they are right now, the current situation. It's about maintaining the existing state of affairs."
+  },
+  {
+    "type": "std",
+    "q": "What is a word that sounds like another word but has a different spelling and meaning?",
+    "opts": [
+      "Homophone",
+      "Homograph",
+      "Synonym",
+      "Antonym"
+    ],
+    "ans": 0,
+    "exp": "A homophone is a word that sounds the same as another but has a different spelling and meaning. For example, 'to', 'two', and 'too' are homophones."
+  },
+  {
+    "type": "std",
+    "q": "In which document from 1215 did written Latin and Norman French significantly influence the legal English language?",
+    "opts": [
+      "Declaration of Independence",
+      "Magna Carta",
+      "The Constitution",
+      "The Bill of Rights"
+    ],
+    "ans": 1,
+    "exp": "The Magna Carta, signed in 1215, was very important because it greatly influenced the development of Legal English, integrating Latin and Norman French terms."
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the symbol '~'?",
+    "opts": [
+      "Slash",
+      "Caret",
+      "Tilde",
+      "Asterisk"
+    ],
+    "ans": 2,
+    "exp": "That curvy symbol '~' is called a tilde, my dear. It's used in some languages above letters, or in English, it can mean 'approximately'."
+  },
+  {
+    "type": "std",
+    "q": "The English word 'zero' was borrowed from which language?",
+    "opts": [
+      "Arabic",
+      "Hindi",
+      "French",
+      "Latin"
+    ],
+    "ans": 0,
+    "exp": "You see, many English words have interesting origins. 'Zero' found its way into English from Arabic, reflecting the rich history of language borrowing."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for reading a text quickly to get the general idea?",
+    "opts": [
+      "Scanning",
+      "Proofreading",
+      "Editing",
+      "Skimming (or Gist reading)"
+    ],
+    "ans": 3,
+    "exp": "When you quickly read a text just to get the main idea without focusing on details, you are skimming, or reading for gist. It's a very useful skill!"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is the British English spelling for a current of air in a room?",
+    "opts": [
+      "Draft",
+      "Draugt",
+      "Draught",
+      "Drafte"
+    ],
+    "ans": 2,
+    "exp": "Ah, the British spelling! 'Draught' refers to a current of air, while 'draft' is more commonly used in American English for similar meanings or for a preliminary version."
+  },
+  {
+    "type": "std",
+    "q": "What does the Latin phrase 'non sequitur' mean?",
+    "opts": [
+      "From the beginning",
+      "It does not follow",
+      "Under consideration",
+      "With the order reversed"
+    ],
+    "ans": 1,
+    "exp": "'Non sequitur' is a Latin phrase that means something 'does not follow'. It's used when a conclusion doesn't logically connect to the previous statement."
+  },
+  {
+    "type": "std",
+    "q": "The sentence 'The quick brown fox jumps over the lazy dog' is a/an:",
+    "opts": [
+      "Anagram",
+      "Palindrome",
+      "Pangram",
+      "Tautogram"
+    ],
+    "ans": 2,
+    "exp": "A pangram is a sentence that uses every letter of the alphabet at least once. 'The quick brown fox jumps over the lazy dog' is a perfect example, my dear."
+  },
+  {
+    "type": "std",
+    "q": "What is the study of correct spelling and writing systems called?",
+    "opts": [
+      "Orthography",
+      "Syntax",
+      "Semantics",
+      "Phonology"
+    ],
+    "ans": 0,
+    "exp": "Orthography is simply the study of correct spelling and writing systems. It's all about how words are formally written according to established rules."
+  },
+  {
+    "type": "std",
+    "q": "What is the official name of the '&' symbol?",
+    "opts": [
+      "Asterisk",
+      "Apostrophe",
+      "Slash",
+      "Ampersand"
+    ],
+    "ans": 3,
+    "exp": "That 'and' symbol, '&', actually has a special name, my dear. It's officially called an ampersand, and it's a very old character."
+  },
+  {
+    "type": "std",
+    "q": "The English word 'cliché' was borrowed from which language?",
+    "opts": [
+      "Spanish",
+      "French",
+      "German",
+      "Latin"
+    ],
+    "ans": 1,
+    "exp": "'Cliché' is a very common word in English, but did you know it was borrowed from French? It refers to an overused phrase or idea."
+  },
+  {
+    "type": "std",
+    "q": "What does the Latin phrase 'ad hoc' mean?",
+    "opts": [
+      "From the beginning",
+      "To infinity",
+      "In the same place",
+      "For this specific purpose"
+    ],
+    "ans": 3,
+    "exp": "'Ad hoc' is a useful Latin phrase, my dear. It means something is created or done for a specific, immediate purpose, rather than for general use."
+  },
+  {
+    "type": "std",
+    "q": "What is the most common vowel sound in spoken English, represented by the symbol 'ə'?",
+    "opts": [
+      "Diphthong",
+      "Glottal stop",
+      "Schwa",
+      "Monophthong"
+    ],
+    "ans": 2,
+    "exp": "The schwa is the most common vowel sound in spoken English, found in unstressed syllables. It sounds like a soft 'uh' and is represented by 'ə'."
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark '...' used to indicate an omission of words?",
+    "opts": [
+      "Ellipsis",
+      "Hyphen",
+      "Colon",
+      "Semicolon"
+    ],
+    "ans": 0,
+    "exp": "When you see '...' in writing, it's called an ellipsis. It shows that some words have been left out from a quotation or a thought is trailing off."
+  },
+  {
+    "type": "std",
+    "q": "What are words that are spelled the same but have different meanings and origins?",
+    "opts": [
+      "Homophones",
+      "Homographs",
+      "Synonyms",
+      "Antonyms"
+    ],
+    "ans": 1,
+    "exp": "Homographs are words spelled the same but have different meanings and origins. For example, 'bow' (to bend) and 'bow' (for arrows) are homographs."
+  },
+  {
+    "type": "std",
+    "q": "Which dictionary is widely regarded as the historical authority on the English language?",
+    "opts": [
+      "Merriam-Webster",
+      "Oxford English Dictionary",
+      "Collins Dictionary",
+      "Cambridge Dictionary"
+    ],
+    "ans": 1,
+    "exp": "The Oxford English Dictionary is truly remarkable! It's known for its comprehensive coverage of the English language, tracing words' histories and meanings."
+  },
+  {
+    "type": "std",
+    "q": "What is a word that is formed by rearranging the letters of another word?",
+    "opts": [
+      "Palindrome",
+      "Homonym",
+      "Acronym",
+      "Anagram"
+    ],
+    "ans": 3,
+    "exp": "An anagram is a word or phrase formed by rearranging the letters of another word or phrase, my dear. For example, 'listen' can be rearranged to form 'silent'."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is the American spelling of the word meaning 'favorable'?",
+    "opts": [
+      "Favorable",
+      "Favourable",
+      "Favoring",
+      "Favouring"
+    ],
+    "ans": 0,
+    "exp": "In American English, 'favorable' is the preferred spelling, while 'favourable' is used in British English. It's good to know the difference!"
+  },
+  {
+    "type": "std",
+    "q": "The dot above the lowercase letters 'i' and 'j' is officially called a:",
+    "opts": [
+      "Speck",
+      "Scribble",
+      "Tittle",
+      "Point"
+    ],
+    "ans": 2,
+    "exp": "That small dot over the 'i' and 'j' might seem insignificant, but it has a proper name! It's called a tittle, my dear."
+  },
+  {
+    "type": "std",
+    "q": "The abbreviations 'e.g.' and 'i.e.' originate from which language?",
+    "opts": [
+      "French",
+      "Greek",
+      "Latin",
+      "German"
+    ],
+    "ans": 2,
+    "exp": "My dear, both 'e.g.' (exempli gratia) and 'i.e.' (id est) are Latin abbreviations. They help us specify examples or clarify statements in writing, you see."
+  },
+  {
+    "type": "std",
+    "q": "What is the antonym of 'dearth'?",
+    "opts": [
+      "Abundance",
+      "Scarcity",
+      "Lack",
+      "Shortage"
+    ],
+    "ans": 0,
+    "exp": "Simply put, 'abundance' means a very large quantity of something, which is the direct opposite of 'dearth', meaning a scarcity or lack."
+  },
+  {
+    "type": "std",
+    "q": "The word 'RADAR' stands for Radio Detection And Ranging. This is a/an:",
+    "opts": [
+      "Abbreviation",
+      "Acronym",
+      "Portmanteau",
+      "Eponym"
+    ],
+    "ans": 1,
+    "exp": "An acronym is an abbreviation formed from the initial letters of other words and pronounced as a word, just like 'RADAR' is pronounced as one word."
+  },
+  {
+    "type": "std",
+    "q": "What does the Latin phrase 'per capita' mean?",
+    "opts": [
+      "By state law",
+      "By total weight",
+      "Without limit",
+      "For each person"
+    ],
+    "ans": 3,
+    "exp": "The Latin phrase 'per capita' literally translates to 'by heads', meaning 'for each person'. It's commonly used to express amounts or statistics per individual."
+  },
+  {
+    "type": "std",
+    "q": "What is a noun formed from a verb by adding '-ing' (e.g., 'running') called?",
+    "opts": [
+      "Gerund",
+      "Infinitive",
+      "Participle",
+      "Auxiliary"
+    ],
+    "ans": 0,
+    "exp": "When you add '-ing' to a verb and it functions as a noun, like in 'running is good for you', it's called a gerund. It's a special kind of verb-turned-noun."
+  },
+  {
+    "type": "std",
+    "q": "The expression 'modus operandi' refers to a person's:",
+    "opts": [
+      "Place of birth",
+      "Financial status",
+      "Method of working",
+      "Level of education"
+    ],
+    "ans": 2,
+    "exp": "My dear, 'modus operandi' is a Latin phrase that means a person's particular way or method of doing something. It's often used in detective work, you know."
+  },
+  {
+    "type": "std",
+    "q": "What is the least commonly used letter in general written English?",
+    "opts": [
+      "Q",
+      "J",
+      "X",
+      "Z"
+    ],
+    "ans": 3,
+    "exp": "Out of all the letters in the English alphabet, 'Z' is indeed used the least frequently in general written English text. It's quite uncommon, isn't it?"
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark '-' used to join words or syllables?",
+    "opts": [
+      "Dash",
+      "Hyphen",
+      "Slash",
+      "Colon"
+    ],
+    "ans": 1,
+    "exp": "That little line used to join words or syllables, like in 'well-being' or 'twenty-one', is correctly called a hyphen. It connects things neatly for us."
+  },
+  {
+    "type": "std",
+    "q": "The word 'robot' was borrowed into English from which language?",
+    "opts": [
+      "German",
+      "Czech",
+      "Russian",
+      "Japanese"
+    ],
+    "ans": 1,
+    "exp": "The word 'robot' was introduced to the world by Czech writer Karel Čapek in his 1920 play, R.U.R. (Rossum's Universal Robots). So, it's from Czech!"
+  },
+  {
+    "type": "std",
+    "q": "What is the Latin phrase used in English to mean 'from the beginning'?",
+    "opts": [
+      "Ad interim",
+      "Ad nauseam",
+      "Bona fide",
+      "Ab initio"
+    ],
+    "ans": 3,
+    "exp": "The Latin phrase 'ab initio' means 'from the beginning'. It's often used in legal or formal contexts to indicate the start of something, my dear."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for a word that is spelled and pronounced like another word but has a different meaning?",
+    "opts": [
+      "Synonym",
+      "Antonym",
+      "Homonym",
+      "Acronym"
+    ],
+    "ans": 2,
+    "exp": "A homonym is a word that shares the same spelling and pronunciation with another word but has a completely different meaning. Think of 'bat' (animal) and 'bat' (sporting equipment)."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for the rules governing sentence structure and word order in a language?",
+    "opts": [
+      "Syntax",
+      "Morphology",
+      "Semantics",
+      "Phonology"
+    ],
+    "ans": 0,
+    "exp": "Syntax refers to the fundamental rules that govern how words are arranged and combined to form grammatically correct phrases, clauses, and sentences in a language. It's all about structure!"
+  },
+  {
+    "type": "std",
+    "q": "What is a phrase with two possible interpretations, one of which is usually risqué?",
+    "opts": [
+      "Double entendre",
+      "Oxymoron",
+      "Euphemism",
+      "Sarcasm"
+    ],
+    "ans": 0,
+    "exp": "A 'double entendre' is a phrase with two meanings, where one is usually innocent and the other is often suggestive or risqué. It adds a bit of playful ambiguity, you see."
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark ';'?",
+    "opts": [
+      "Colon",
+      "Comma",
+      "Semicolon",
+      "Period"
+    ],
+    "ans": 2,
+    "exp": "My dear, that punctuation mark ';' is called a semicolon. It's useful for connecting two related independent clauses or separating items in a complex list."
+  },
+  {
+    "type": "std",
+    "q": "Which of these words is of Spanish origin?",
+    "opts": [
+      "Bazaar",
+      "Patio",
+      "Safari",
+      "Sputnik"
+    ],
+    "ans": 1,
+    "exp": "The word 'patio' comes from Spanish, meaning an inner courtyard or open space, typically in Spanish architecture. Many words in English have Spanish roots, you know."
+  },
+  {
+    "type": "std",
+    "q": "Which of these terms refers to the study of speech sounds?",
+    "opts": [
+      "Syntax",
+      "Semantics",
+      "Pragmatics",
+      "Phonetics"
+    ],
+    "ans": 3,
+    "exp": "Phonetics is the branch of linguistics that focuses on the study of speech sounds – how they are produced, transmitted, and perceived. It's about the sounds of language, my dear."
+  },
+  {
+    "type": "std",
+    "q": "What is the Latin phrase used in English to describe a situation that is 'by itself'?",
+    "opts": [
+      "Ad hoc",
+      "In vitro",
+      "De facto",
+      "Per se"
+    ],
+    "ans": 3,
+    "exp": "The Latin phrase 'per se' translates to 'by itself' or 'intrinsically'. It means something considered alone, without referring to other things."
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark ':'?",
+    "opts": [
+      "Semicolon",
+      "Colon",
+      "Dash",
+      "Hyphen"
+    ],
+    "ans": 1,
+    "exp": "That punctuation mark ':' is called a colon. We use it to introduce a list, an explanation, an example, or a quotation, my dear. It signals more to come!"
+  },
+  {
+    "type": "std",
+    "q": "What is the term for words that are borrowed directly from another language without translation?",
+    "opts": [
+      "Loanwords",
+      "Cognates",
+      "Calques",
+      "Neologisms"
+    ],
+    "ans": 0,
+    "exp": "Loanwords are words adopted from one language and incorporated into another without translation. English is full of them, borrowing from many languages, my dear."
+  },
+  {
+    "type": "std",
+    "q": "The word 'kindergarten' was borrowed into English from which language?",
+    "opts": [
+      "French",
+      "Dutch",
+      "German",
+      "Danish"
+    ],
+    "ans": 2,
+    "exp": "The word 'kindergarten' was borrowed directly from German. It literally means 'children's garden' and refers to a preschool educational approach, you see."
+  },
+  {
+    "type": "std",
+    "q": "What does the Latin phrase 'carpe diem' mean?",
+    "opts": [
+      "Time flies",
+      "In good faith",
+      "Seize the day",
+      "To infinity"
+    ],
+    "ans": 2,
+    "exp": "My dear, 'carpe diem' is a popular Latin phrase that encourages us to make the most of the present moment. So, 'seize the day' is the perfect match!"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is the most common three-letter word in the English language?",
+    "opts": [
+      "The",
+      "And",
+      "But",
+      "For"
+    ],
+    "ans": 0,
+    "exp": "You see, the word \"The\" appears so frequently in English writing as a definite article; it's simply ubiquitous."
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark '?'?",
+    "opts": [
+      "Exclamation point",
+      "Apostrophe",
+      "Period",
+      "Question mark"
+    ],
+    "ans": 3,
+    "exp": "That's a straightforward one, my dear! The '?' symbol is indeed known as the question mark, used to indicate a question."
+  },
+  {
+    "type": "std",
+    "q": "What is the study of meaning in language called?",
+    "opts": [
+      "Syntax",
+      "Semantics",
+      "Morphology",
+      "Orthography"
+    ],
+    "ans": 1,
+    "exp": "Semantics is the branch of linguistics concerned with meaning, so it's the correct answer. It helps us understand how words and sentences convey meaning."
+  },
+  {
+    "type": "std",
+    "q": "Which of these is the correct British spelling of the word meaning 'traveling'?",
+    "opts": [
+      "Traveling",
+      "Travelling",
+      "Traveled",
+      "Travelled"
+    ],
+    "ans": 1,
+    "exp": "Ah, British English often doubles the 'l' in words like 'travel' when adding a vowel suffix. So, 'travelling' is the correct spelling there."
+  },
+  {
+    "type": "std",
+    "q": "The Latin phrase 'et cetera' (etc.) translates to:",
+    "opts": [
+      "For example",
+      "That is",
+      "And people",
+      "And other things"
+    ],
+    "ans": 3,
+    "exp": "Simply put, 'et cetera' is used to indicate that there are other similar items in a list that are not explicitly mentioned. Hence, \"and other things.\""
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark '!'?",
+    "opts": [
+      "Exclamation point",
+      "Question mark",
+      "Colon",
+      "Semicolon"
+    ],
+    "ans": 0,
+    "exp": "This is another easy one, my dear! The '!' symbol is always used to show strong feelings or emphasis, hence an exclamation point."
+  },
+  {
+    "type": "std",
+    "q": "Which vowel letter is used least frequently in written English?",
+    "opts": [
+      "O",
+      "U",
+      "Y",
+      "A"
+    ],
+    "ans": 2,
+    "exp": "It's fascinating, but 'Y' functions both as a consonant and a vowel, and it truly is the vowel used least often in written English. Many don't even count it as one!"
+  },
+  {
+    "type": "std",
+    "q": "What is a sound formed by the combination of two vowels in a single syllable (e.g., 'coin')?",
+    "opts": [
+      "Diphthong",
+      "Monophthong",
+      "Schwa",
+      "Glottal stop"
+    ],
+    "ans": 0,
+    "exp": "A diphthong is a wonderful sound where two vowel sounds are combined within the same syllable. 'Coin' is a perfect example of this."
+  },
+  {
+    "type": "std",
+    "q": "The word 'algebra' was borrowed into English from which language?",
+    "opts": [
+      "Greek",
+      "Latin",
+      "Arabic",
+      "Sanskrit"
+    ],
+    "ans": 2,
+    "exp": "It's marvelous how languages borrow from each other! 'Algebra' comes to us from Arabic, showing the rich history of mathematical and linguistic exchange."
+  },
+  {
+    "type": "std",
+    "q": "What is the Latin phrase used in English to describe a 'necessary condition'?",
+    "opts": [
+      "De jure",
+      "Sine qua non",
+      "Modus vivendi",
+      "Vice versa"
+    ],
+    "ans": 1,
+    "exp": "My dear student, 'sine qua non' is a classic Latin phrase meaning an essential condition or something that is absolutely indispensable. Very important!"
+  },
+  {
+    "type": "std",
+    "q": "What is the term for a word or phrase that is invented or coined newly?",
+    "opts": [
+      "Archaism",
+      "Idiom",
+      "Anachronism",
+      "Neologism"
+    ],
+    "ans": 3,
+    "exp": "A neologism, my dear, is simply a newly coined word or expression. It's how language keeps growing and evolving!"
+  },
+  {
+    "type": "std",
+    "q": "Which of these is the correct British spelling?",
+    "opts": [
+      "Analyze",
+      "Analizing",
+      "Analise",
+      "Analyse"
+    ],
+    "ans": 3,
+    "exp": "British English often uses '-ise' endings where American English uses '-yze'. So, 'Analyse' is the correct British spelling without a doubt."
+  },
+  {
+    "type": "std",
+    "q": "The Latin phrase 'ad nauseam' means to go on:",
+    "opts": [
+      "Briefly",
+      "To the point of disgust",
+      "In a pleasant way",
+      "With careful detail"
+    ],
+    "ans": 1,
+    "exp": "When something goes on 'ad nauseam,' it means it continues to the point of causing annoyance or disgust. It's when you've had quite enough!"
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation symbol '(' and ')'?",
+    "opts": [
+      "Brackets",
+      "Braces",
+      "Parentheses",
+      "Dashes"
+    ],
+    "ans": 2,
+    "exp": "Those curvy little symbols used to enclose text within a sentence are typically called parentheses. Easy peasy!"
+  },
+  {
+    "type": "std",
+    "q": "What is an expression whose meaning cannot be understood from the literal definitions of its individual words?",
+    "opts": [
+      "Idiom",
+      "Metaphor",
+      "Alliteration",
+      "Simile"
+    ],
+    "ans": 0,
+    "exp": "An idiom, my dear, is a phrase where the meaning isn't obvious from the individual words. You need to know their cultural context to understand them."
+  },
+  {
+    "type": "std",
+    "q": "The phrase 'carte blanche' means having:",
+    "opts": [
+      "No authority",
+      "A white card",
+      "Complete freedom to act",
+      "A legal restriction"
+    ],
+    "ans": 2,
+    "exp": "To have 'carte blanche' means you have full authority or freedom to do as you please, without restrictions. It's like a blank cheque!"
+  },
+  {
+    "type": "std",
+    "q": "Which pronoun is the most frequently used in the English language?",
+    "opts": [
+      "I",
+      "You",
+      "He",
+      "They"
+    ],
+    "ans": 0,
+    "exp": "It's true, \"I\" is very widely used, as people often speak from their own perspective. It reflects self-reference in communication."
+  },
+  {
+    "type": "std",
+    "q": "The word 'cookie' is typical of American English, while the British equivalent is:",
+    "opts": [
+      "Scone",
+      "Cake",
+      "Crumpet",
+      "Biscuit"
+    ],
+    "ans": 3,
+    "exp": "Oh, this is a fun difference between British and American English! What Americans call a 'cookie,' the British typically refer to as a 'biscuit.'"
+  },
+  {
+    "type": "std",
+    "q": "The term 'lingua franca' refers to a language that is:",
+    "opts": [
+      "Spoken only in France",
+      "Used as a common medium of communication",
+      "Extremely difficult to learn",
+      "No longer spoken"
+    ],
+    "ans": 1,
+    "exp": "A 'lingua franca' is a language that helps people from different backgrounds communicate, especially in trade or diplomacy. It bridges language barriers."
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark used at the end of a declarative sentence?",
+    "opts": [
+      "Comma",
+      "Period / Full Stop",
+      "Semicolon",
+      "Colon"
+    ],
+    "ans": 1,
+    "exp": "My dear, a period or full stop is the correct mark to end a sentence that makes a statement. It simply signals the completion of a declarative thought."
+  },
+  {
+    "type": "std",
+    "q": "What is the name of the punctuation mark '\\'?",
+    "opts": [
+      "Slash",
+      "Hyphen",
+      "Backslash",
+      "Caret"
+    ],
+    "ans": 2,
+    "exp": "You see, the backslash is that specific punctuation mark, often used in computer file paths to separate directories. Make sure not to confuse it with the standard slash!"
+  },
+  {
+    "type": "std",
+    "q": "Which major linguistic event between 1400 and 1700 fundamentally changed the pronunciation of English vowels?",
+    "opts": [
+      "Great Vowel Shift",
+      "Norman Conquest",
+      "Renaissance spelling reform",
+      "Printing Press standardization"
+    ],
+    "ans": 0,
+    "exp": "Ah, the Great Vowel Shift, my dear, was a monumental change that deeply affected how English vowels sound today. It fundamentally reshaped the language's pronunciation over centuries."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for an accidental transposition of initial sounds of two or more words (e.g., 'you have hissed my mystery lectures' instead of 'missed my history lectures')?",
+    "opts": [
+      "Malapropism",
+      "Euphemism",
+      "Portmanteau",
+      "Spoonerism"
+    ],
+    "ans": 3,
+    "exp": "A Spoonerism is when you accidentally swap the initial sounds of words, often creating a funny or nonsensical phrase. It's a playful error, you know."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for the mistaken use of an incorrect word in place of a similar-sounding one, often with a humorous effect (e.g., 'electrical' instead of 'electoral')?",
+    "opts": [
+      "Malapropism",
+      "Spoonerism",
+      "Oxymoron",
+      "Tautology"
+    ],
+    "ans": 0,
+    "exp": "Malapropism, my student, is when you mistakenly use a word that sounds similar to the correct one, leading to an amusing or nonsensical utterance. It's a common source of humour in language."
+  },
+  {
+    "type": "std",
+    "q": "What is a grammatical mistake or intentional deviation from standard rules of syntax called?",
+    "opts": [
+      "Pleonasm",
+      "Tautology",
+      "Neologism",
+      "Solecism"
+    ],
+    "ans": 3,
+    "exp": "A solecism, my dear, is a grammatical mistake or an intentional deviation from standard language rules. It can make a sentence sound awkward or incorrect."
+  },
+  {
+    "type": "std",
+    "q": "What is the term for using more words than necessary to express an idea (e.g., 'burning hot fire')?",
+    "opts": [
+      "Tautology",
+      "Pleonasm",
+      "Solecism",
+      "Spoonerism"
+    ],
+    "ans": 1,
+    "exp": "Pleonasm involves using more words than necessary to express an idea, often for emphasis, like saying 'burning hot fire.' The extra word ('hot') is redundant but adds intensity."
+  },
+  {
+    "type": "std",
+    "q": "What part of speech is used to express sudden or strong emotion (e.g., 'Oh!')?",
+    "opts": [
+      "Conjunction",
+      "Preposition",
+      "Interjection",
+      "Adverb"
+    ],
+    "ans": 2,
+    "exp": "An interjection is a word or phrase that expresses sudden emotion, like 'Oh!' or 'Wow!' without being grammatically connected to the rest of the sentence. It simply serves to convey feeling."
+  },
+  {
+    "type": "std",
+    "q": "What type of conjunction is 'although'?",
+    "opts": [
+      "Coordinating",
+      "Correlative",
+      "Adversative",
+      "Subordinating"
+    ],
+    "ans": 3,
+    "exp": "Although is a subordinating conjunction, linking a dependent clause to an independent clause. It introduces a concession, showing a contrast between two ideas, my dear."
+  },
+  {
+    "type": "std",
+    "q": "What type of conjunctions are 'either... or'?",
+    "opts": [
+      "Coordinating",
+      "Correlative",
+      "Subordinating",
+      "Relative"
+    ],
+    "ans": 1,
+    "exp": "Correlative conjunctions, my dear, always come in pairs like 'either...or' or 'neither...nor.' They work together to join grammatically equal elements in a sentence."
+  },
+  {
+    "type": "std",
+    "q": "What is a verb that requires a direct object to complete its meaning?",
+    "opts": [
+      "Intransitive",
+      "Linking",
+      "Transitive",
+      "Auxiliary"
+    ],
+    "ans": 2,
+    "exp": "My dear, a transitive verb requires a direct object to receive the action; it needs something to 'do' the action to. Without it, the sentence feels incomplete."
+  },
+  {
+    "type": "std",
+    "q": "In the sentence 'She is a doctor,' what type of verb is 'is'?",
+    "opts": [
+      "Linking",
+      "Transitive",
+      "Auxiliary",
+      "Modal"
+    ],
+    "ans": 0,
+    "exp": "In this sentence, 'is' is a linking verb, my dear. It connects the subject, 'She,' with information about her, 'a doctor,' without showing any action."
+  },
+  {
+    "type": "std",
+    "q": "What grammatical voice emphasizes the doer of the action?",
+    "opts": [
+      "Passive",
+      "Active",
+      "Subjunctive",
+      "Indicative"
+    ],
+    "ans": 1,
+    "exp": "The active voice, my dear, plainly highlights who or what is performing the action in a sentence. The subject is the one doing the work, simple as that."
+  },
+  {
+    "type": "std",
+    "q": "Which grammatical mood is used to express wishes, hypothetical situations, or demands?",
+    "opts": [
+      "Subjunctive",
+      "Indicative",
+      "Imperative",
+      "Interrogative"
+    ],
+    "ans": 0,
+    "exp": "The subjunctive mood, my dear, is used for expressing wishes, hypothetical situations, or proposals rather than statements of fact. It suggests unreality or necessity."
+  },
+  {
+    "type": "std",
+    "q": "What type of verb is 'does' in the sentence 'He does not know'?",
+    "opts": [
+      "Modal",
+      "Linking",
+      "Transitive",
+      "Auxiliary"
+    ],
+    "ans": 3,
+    "exp": "'Does' here is an auxiliary verb, my dear, helping the main verb 'know' to form the negative or interrogative structure of the sentence. It assists the main verb."
+  },
+  {
+    "type": "std",
+    "q": "In 'Running is fun,' what is the grammatical role of 'Running'?",
+    "opts": [
+      "Participle",
+      "Infinitive",
+      "Gerund",
+      "Adjective"
+    ],
+    "ans": 2,
+    "exp": "In 'Running is fun,' 'Running' acts as a gerund, my dear. It’s a verb form that functions as a noun, serving as the subject of the sentence here."
+  },
+  {
+    "type": "std",
+    "q": "What type of pronoun is 'who' in 'The man who left'?",
+    "opts": [
+      "Personal pronoun",
+      "Demonstrative pronoun",
+      "Relative pronoun",
+      "Reflexive pronoun"
+    ],
+    "ans": 2,
+    "exp": "My dear, 'who' in this context is a relative pronoun. It introduces a relative clause that gives more information about the noun 'man.'"
+  },
+  {
+    "type": "std",
+    "q": "What type of pronoun is 'this' in the sentence 'This is my favorite'?",
+    "opts": [
+      "Personal pronoun",
+      "Possessive pronoun",
+      "Relative pronoun",
+      "Demonstrative pronoun"
+    ],
+    "ans": 3,
+    "exp": "'This' in 'This is my favorite' is a demonstrative pronoun, my dear. It points to a specific item or idea, showing which one you are referring to."
+  },
+  {
+    "type": "std",
+    "q": "What is the grammatical degree of the adjective 'better'?",
+    "opts": [
+      "Comparative",
+      "Positive",
+      "Superlative",
+      "Absolute"
+    ],
+    "ans": 0,
+    "exp": "My dear, 'better' is the comparative degree of 'good.' It's used when comparing two things, showing one has a higher quality than the other."
+  },
+  {
+    "type": "std",
+    "q": "What is the grammatical degree of the adjective 'best'?",
+    "opts": [
+      "Positive",
+      "Comparative",
+      "Absolute",
+      "Superlative"
+    ],
+    "ans": 3,
+    "exp": "My dear, 'best' is the superlative degree of 'good.' It is used when comparing three or more things, indicating the highest quality among them."
+  }
+]

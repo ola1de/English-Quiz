@@ -1,0 +1,1202 @@
+[
+  {
+    "type": "std",
+    "q": "The team <u>______</u> disagreed on where to hold the victory party.",
+    "opts": [
+      "is",
+      "was",
+      "were",
+      "has been"
+    ],
+    "ans": 2,
+    "exp": "My dear, the verb \"were\" is correct here because \"team\" is acting as individuals who disagreed, emphasizing their separate opinions. When the members of a collective noun act individually, we use a plural verb."
+  },
+  {
+    "type": "std",
+    "q": "Each of the new recruits <u>______</u> required to take a fitness test.",
+    "opts": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "The subject here is \"each,\" which is a singular indefinite pronoun. So, simply put, it requires a singular verb, \"is.\""
+  },
+  {
+    "type": "std",
+    "q": "If she had studied more, she <u>______</u> the exam last week.",
+    "opts": [
+      "will pass",
+      "would pass",
+      "had passed",
+      "would have passed"
+    ],
+    "ans": 3,
+    "exp": "This sentence uses the third conditional structure, which talks about hypothetical past situations. The structure is \"If + past perfect, would have + past participle.\" So, \"would have passed\" fits perfectly."
+  },
+  {
+    "type": "std",
+    "q": "Neither the parents nor the child <u>______</u> aware of the danger.",
+    "opts": [
+      "were",
+      "was",
+      "are",
+      "have been"
+    ],
+    "ans": 1,
+    "exp": "When using \"neither... nor,\" the verb agrees with the noun or pronoun closest to it. Here, \"child\" is singular, so we use the singular verb \"was.\""
+  },
+  {
+    "type": "std",
+    "q": "Seldom <u>______</u> such a spectacular performance.",
+    "opts": [
+      "we have seen",
+      "we saw",
+      "have we saw",
+      "have we seen"
+    ],
+    "ans": 3,
+    "exp": "This structure uses inversion because \"seldom\" is a negative adverb placed at the beginning of the sentence. The correct inverted structure for the present perfect with \"we\" is \"have we seen.\""
+  },
+  {
+    "type": "std",
+    "q": "She is one of those people who <u>______</u> always on time.",
+    "opts": [
+      "is",
+      "was",
+      "are",
+      "has been"
+    ],
+    "ans": 2,
+    "exp": "The pronoun \"who\" refers to \"people,\" which is plural. Therefore, the verb that follows must also be plural, which is \"are.\""
+  },
+  {
+    "type": "std",
+    "q": "I look forward to <u>______</u> you at the conference.",
+    "opts": [
+      "meeting",
+      "meet",
+      "have met",
+      "be meeting"
+    ],
+    "ans": 0,
+    "exp": "The phrase \"look forward to\" is a phrasal verb, and the 'to' here is a preposition. After a preposition, we use a gerund (the -ing form of the verb). So, \"meeting\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "He behaves as though he <u>______</u> the boss of the entire department.",
+    "opts": [
+      "is",
+      "were",
+      "was",
+      "has been"
+    ],
+    "ans": 1,
+    "exp": "My dear, this sentence expresses a hypothetical or unreal situation. In such cases, especially after \"as though\" or \"as if,\" we use the subjunctive \"were\" for all subjects, even singular ones."
+  },
+  {
+    "type": "std",
+    "q": "They discussed <u>______</u> the contract terms yesterday.",
+    "opts": [
+      "modifying",
+      "about modifying",
+      "on modifying",
+      "to modify"
+    ],
+    "ans": 0,
+    "exp": "The verb \"discuss\" is typically followed directly by a noun or a gerund, not by a preposition like \"about\" or \"on.\" So, \"modifying\" is the most natural and correct option."
+  },
+  {
+    "type": "std",
+    "q": "The house <u>______</u> roof was damaged in the storm has been repaired.",
+    "opts": [
+      "which",
+      "that",
+      "of which",
+      "whose"
+    ],
+    "ans": 3,
+    "exp": "\"Whose\" is the correct possessive pronoun here, linking the house to its roof. It shows that the roof belongs to the house."
+  },
+  {
+    "type": "std",
+    "q": "By the time the guest speaker arrived, the audience <u>______</u> for an hour.",
+    "opts": [
+      "has been waiting",
+      "waited",
+      "had been waiting",
+      "is waiting"
+    ],
+    "ans": 2,
+    "exp": "The action of waiting started in the past and continued up to another point in the past when the speaker arrived. This requires the past perfect continuous tense, which is \"had been waiting.\""
+  },
+  {
+    "type": "std",
+    "q": "No sooner had he entered the room <u>______</u> the lights went out.",
+    "opts": [
+      "when",
+      "than",
+      "then",
+      "before"
+    ],
+    "ans": 1,
+    "exp": "The idiom \"no sooner... than\" is used to indicate that one event happened immediately after another. So, \"than\" is the correct conjunction to complete the phrase."
+  },
+  {
+    "type": "std",
+    "q": "It is crucial that she <u>______</u> present at the hearing.",
+    "opts": [
+      "is",
+      "was",
+      "be",
+      "must be"
+    ],
+    "ans": 2,
+    "exp": "The phrase \"it is crucial that\" requires the subjunctive mood for the verb that follows, indicating a necessity or importance. \"Be\" is the correct form for the subjunctive here."
+  },
+  {
+    "type": "std",
+    "q": "The acoustics in this old theater <u>______</u> excellent.",
+    "opts": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "ans": 0,
+    "exp": "My dear, the word \"acoustics\" functions as a plural noun in this context, referring to the sound properties of the theater. Therefore, it takes the plural verb \"are.\""
+  },
+  {
+    "type": "std",
+    "q": "He preferred playing tennis <u>______</u> swimming in the pool.",
+    "opts": [
+      "than",
+      "over",
+      "more than",
+      "to"
+    ],
+    "ans": 3,
+    "exp": "When expressing preference using \"prefer,\" the preposition \"to\" is used to connect the two things being compared, especially with 'verb-ing' forms. So, \"to swimming\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "The list of ingredients <u>______</u> on the back of the package.",
+    "opts": [
+      "are found",
+      "is found",
+      "were found",
+      "have been found"
+    ],
+    "ans": 1,
+    "exp": "The subject of the sentence is \"list,\" which is singular, not \"ingredients.\" Therefore, it requires a singular verb, \"is found,\" to agree with \"list.\""
+  },
+  {
+    "type": "std",
+    "q": "You had better <u>______</u> your medicine on time.",
+    "opts": [
+      "to take",
+      "take",
+      "taking",
+      "took"
+    ],
+    "ans": 1,
+    "exp": "The phrase \"had better\" is followed by the base form of the verb without \"to.\" So, my dear, \"take\" is the correct option here."
+  },
+  {
+    "type": "std",
+    "q": "It's high time we <u>______</u> the truth about what happened.",
+    "opts": [
+      "discover",
+      "discovering",
+      "have discovered",
+      "discovered"
+    ],
+    "ans": 3,
+    "exp": "The phrase \"it's high time\" is always followed by the past simple tense, even though it refers to a present or future action. So, \"discovered\" is the correct choice."
+  },
+  {
+    "type": "std",
+    "q": "Not only <u>______</u> the game, but he also broke the record.",
+    "opts": [
+      "did he win",
+      "he won",
+      "won he",
+      "had he won"
+    ],
+    "ans": 0,
+    "exp": "When a sentence begins with a negative expression like \"not only,\" we use inversion. This means the auxiliary verb comes before the subject. So, \"did he win\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "There <u>______</u> a severe shortage of supplies since last winter.",
+    "opts": [
+      "is",
+      "was",
+      "has been",
+      "were"
+    ],
+    "ans": 2,
+    "exp": "The phrase \"since last winter\" indicates an action or state that started in the past and continues to the present. This requires the present perfect tense, so \"has been\" is correct for a singular shortage."
+  },
+  {
+    "type": "std",
+    "q": "My sister, along with her coworkers, <u>______</u> organizing the fundraiser.",
+    "opts": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "When you see \"along with,\" the verb agrees with the first subject, which is \"My sister.\" So, \"is\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "I would rather you <u>______</u> any more secrets.",
+    "opts": [
+      "don't tell",
+      "won't tell",
+      "didn't tell",
+      "haven't told"
+    ],
+    "ans": 2,
+    "exp": "Ah, the subjunctive mood! \"I would rather\" always takes the past tense, even if it's about the present or future. Smart, right?"
+  },
+  {
+    "type": "std",
+    "q": "The news about the layoffs <u>______</u> quite unexpected.",
+    "opts": [
+      "were",
+      "was",
+      "are",
+      "have been"
+    ],
+    "ans": 1,
+    "exp": "\"News\" is an uncountable noun, my dear. Uncountable nouns always take a singular verb, so \"was\" is the correct choice here."
+  },
+  {
+    "type": "std",
+    "q": "This is the man <u>______</u> the police believe committed the theft.",
+    "opts": [
+      "which",
+      "whom",
+      "whose",
+      "who"
+    ],
+    "ans": 3,
+    "exp": "You need a pronoun that acts as the object of a verb or preposition. \"Whom\" is the objective case for people, but in less formal contexts, \"who\" is often accepted. However, since the verb \"believe\" has its own object (\"committed the theft\"), \"who\" is suitable as the subject of \"committed.\""
+  },
+  {
+    "type": "std",
+    "q": "Under no circumstances <u>______</u> leave the building without permission.",
+    "opts": [
+      "you should",
+      "you must",
+      "should you to",
+      "should you"
+    ],
+    "ans": 3,
+    "exp": "When you start a sentence with a negative adverbial phrase like \"Under no circumstances,\" you must invert the subject and auxiliary verb. This means the auxiliary verb comes before the subject."
+  },
+  {
+    "type": "std",
+    "q": "She works <u>______</u> than anyone else in the department.",
+    "opts": [
+      "hard",
+      "harder",
+      "more harder",
+      "more hard"
+    ],
+    "ans": 1,
+    "exp": "You are comparing her work ethic with that of others, so you need the comparative form of the adjective, which is \"harder.\""
+  },
+  {
+    "type": "std",
+    "q": "The scissors she used to cut the fabric <u>______</u> blunt.",
+    "opts": [
+      "is",
+      "was",
+      "are",
+      "has been"
+    ],
+    "ans": 2,
+    "exp": "The subject of the sentence here is \"scissors,\" my dear, and scissors is a plural noun. So, naturally, we use \"are.\""
+  },
+  {
+    "type": "std",
+    "q": "If I <u>______</u> in your shoes, I would apologize immediately.",
+    "opts": [
+      "were",
+      "was",
+      "am",
+      "be"
+    ],
+    "ans": 0,
+    "exp": "This is an example of the subjunctive mood, used for hypothetical or unreal situations. In such cases, \"were\" is used for all persons."
+  },
+  {
+    "type": "std",
+    "q": "Neither of the proposed solutions <u>______</u> viable.",
+    "opts": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "ans": 2,
+    "exp": "When \"neither of\" is used with a noun, the verb should always be singular. So, \"is\" is the right fit, my dear."
+  },
+  {
+    "type": "std",
+    "q": "You cannot expect him to agree <u>______</u> your proposal blindly.",
+    "opts": [
+      "to",
+      "with",
+      "on",
+      "at"
+    ],
+    "ans": 0,
+    "exp": "When you agree to something specific, like a proposal, the correct preposition to use is \"to.\" Keep learning, my dear!"
+  },
+  {
+    "type": "std",
+    "q": "The suspect denied <u>______</u> near the crime scene that night.",
+    "opts": [
+      "to have been",
+      "to be",
+      "had been",
+      "having been"
+    ],
+    "ans": 3,
+    "exp": "After the verb \"deny,\" we typically use a gerund (the -ing form of the verb). So, \"having been\" is the correct form here."
+  },
+  {
+    "type": "std",
+    "q": "He has been living in Lagos <u>______</u> five years.",
+    "opts": [
+      "since",
+      "for",
+      "during",
+      "from"
+    ],
+    "ans": 1,
+    "exp": "We use \"for\" when we are talking about a duration of time, like five years. \"Since\" is for a starting point."
+  },
+  {
+    "type": "std",
+    "q": "The committee <u>______</u> divided on the issue of salary increments.",
+    "opts": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "ans": 1,
+    "exp": "When a collective noun like \"committee\" emphasizes the individual members acting separately, we use a plural verb. They were divided, my dear."
+  },
+  {
+    "type": "std",
+    "q": "She has three <u>______</u>.",
+    "opts": [
+      "sons-in-laws",
+      "son-in-laws",
+      "sons-in-law",
+      "son-in-law"
+    ],
+    "ans": 2,
+    "exp": "To make compounds with \"-in-law\" plural, you pluralize the main word. So, \"sons-in-law\" is the correct form."
+  },
+  {
+    "type": "std",
+    "q": "None of the information <u>______</u> verified yet.",
+    "opts": [
+      "has been",
+      "have been",
+      "were",
+      "are"
+    ],
+    "ans": 0,
+    "exp": "\"Information\" is an uncountable noun, my dear, and uncountable nouns always take a singular verb. So, \"has been\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "You didn't see him at the park, <u>______</u>?",
+    "opts": [
+      "didn't you",
+      "don't you",
+      "do you",
+      "did you"
+    ],
+    "ans": 3,
+    "exp": "My dear, the main verb \"didn't see\" is negative. For a tag question, the auxiliary verb needs to be positive. \"Did you\" is the perfect fit!"
+  },
+  {
+    "type": "std",
+    "q": "The number of accidents on this highway <u>______</u> increasing.",
+    "opts": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "The subject here is \"The number,\" not \"accidents.\" \"The number\" is singular, so it takes a singular verb. Keep it in mind!"
+  },
+  {
+    "type": "std",
+    "q": "He was accused <u>______</u> accepting a bribe.",
+    "opts": [
+      "for",
+      "with",
+      "about",
+      "of"
+    ],
+    "ans": 3,
+    "exp": "The correct preposition to use after \"accused\" is \"of.\" You are accused *of* something, not for it."
+  },
+  {
+    "type": "std",
+    "q": "Hardly <u>______</u> when the alarm went off.",
+    "opts": [
+      "we had arrived",
+      "had we arrived",
+      "did we arrive",
+      "have we arrived"
+    ],
+    "ans": 1,
+    "exp": "This is a case of inversion with a negative adverbial like \"Hardly.\" The auxiliary verb comes before the subject when you start a sentence this way."
+  },
+  {
+    "type": "std",
+    "q": "I prefer coffee <u>______</u> tea.",
+    "opts": [
+      "than",
+      "over",
+      "to",
+      "more than"
+    ],
+    "ans": 2,
+    "exp": "When expressing preference between two things using \"prefer,\" the correct preposition to use is \"to.\" Always remember that, my dear."
+  },
+  {
+    "type": "std",
+    "q": "The boy <u>______</u> dog was lost was crying.",
+    "opts": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "ans": 3,
+    "exp": "\"Whose\" shows possession, my dear. The dog belongs to the boy, so it's a possessive pronoun we need here. Simple!."
+  },
+  {
+    "type": "std",
+    "q": "The jury <u>______</u> agreed on a verdict of guilty.",
+    "opts": [
+      "were",
+      "has",
+      "have",
+      "are"
+    ],
+    "ans": 1,
+    "exp": "The word \"jury\" acts as a single unit when they agree, so we use the singular verb \"has.\" It's like one body with one mind, you see."
+  },
+  {
+    "type": "std",
+    "q": "The police <u>______</u> investigating the murder case.",
+    "opts": [
+      "is",
+      "was",
+      "are",
+      "has been"
+    ],
+    "ans": 2,
+    "exp": "The word \"police\" is a collective noun that always takes a plural verb in English, even when referring to the force generally. So, \"are\" is the correct choice here."
+  },
+  {
+    "type": "std",
+    "q": "One of the pupils <u>______</u> lost his textbook.",
+    "opts": [
+      "has",
+      "have",
+      "were",
+      "are"
+    ],
+    "ans": 0,
+    "exp": "When you see \"one of the,\" the verb agrees with \"one,\" which is singular, not the plural noun \"pupils.\" Therefore, \"has\" is the one we need."
+  },
+  {
+    "type": "std",
+    "q": "The criteria for admission <u>______</u> very strict.",
+    "opts": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "ans": 1,
+    "exp": "The noun \"criteria\" is the plural form of \"criterion,\" so it always takes a plural verb. That's why \"are\" is the right answer here, my dear."
+  },
+  {
+    "type": "std",
+    "q": "She is accustomed <u>______</u> early in the morning.",
+    "opts": [
+      "to waking",
+      "to wake",
+      "with waking",
+      "for waking"
+    ],
+    "ans": 0,
+    "exp": "When you use \"accustomed to,\" you need the gerund form of the verb after it. So, \"waking\" is the correct form after \"to.\""
+  },
+  {
+    "type": "std",
+    "q": "If he <u>______</u> hard, he would have passed.",
+    "opts": [
+      "studied",
+      "studies",
+      "has studied",
+      "had studied"
+    ],
+    "ans": 3,
+    "exp": "This is a past perfect conditional sentence, my dear. For the third conditional, we use \"had + past participle\" in the 'if' clause."
+  },
+  {
+    "type": "std",
+    "q": "The book <u>______</u> you lent me was fascinating.",
+    "opts": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "ans": 2,
+    "exp": "We use \"which\" to refer to things, not people. The book is a thing, so \"which\" is the appropriate relative pronoun here, you see."
+  },
+  {
+    "type": "std",
+    "q": "Let's go for a swim, <u>______</u>?",
+    "opts": [
+      "will we",
+      "don't we",
+      "shall we",
+      "can we"
+    ],
+    "ans": 2,
+    "exp": "For a suggestions or proposals in a question tag, especially with \"let's,\" \"shall we\" is the standard and most polite option. It's a gentle way of asking if someone agrees."
+  },
+  {
+    "type": "std",
+    "q": "The baggage <u>______</u> already been checked in.",
+    "opts": [
+      "have",
+      "are",
+      "were",
+      "has"
+    ],
+    "ans": 3,
+    "exp": "The word \"baggage\" is an uncountable noun, so it is treated as singular. Therefore, it takes the singular verb \"has.\" No confusion there, my dear."
+  },
+  {
+    "type": "std",
+    "q": "He narrowly escaped <u>______</u> by the falling branch.",
+    "opts": [
+      "being hit",
+      "to be hit",
+      "hitting",
+      "been hit"
+    ],
+    "ans": 0,
+    "exp": "After prepositions like \"escaped\" when followed by a verb, we often use the gerund form, especially for the passive voice. \"Being hit\" fits perfectly here."
+  },
+  {
+    "type": "std",
+    "q": "It is high time we <u>______</u> something about this issue.",
+    "opts": [
+      "do",
+      "did",
+      "have done",
+      "are doing"
+    ],
+    "ans": 1,
+    "exp": "When we say \"it is high time,\" we use the simple past tense after it to express that an action should have been done already. So, \"did\" is the correct form."
+  },
+  {
+    "type": "std",
+    "q": "The audience <u>______</u> requested to remain in their seats.",
+    "opts": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "The word \"audience\" acts as a collective noun here, referring to the group as a single unit. Therefore, it takes a singular verb, \"is.\""
+  },
+  {
+    "type": "std",
+    "q": "Neither the supervisor nor the employees <u>______</u> happy with the changes.",
+    "opts": [
+      "was",
+      "is",
+      "were",
+      "has been"
+    ],
+    "ans": 2,
+    "exp": "With \"neither...nor,\" the verb agrees with the noun closest to it. In this case, \"employees\" is plural, so \"were\" is the correct verb."
+  },
+  {
+    "type": "std",
+    "q": "The rich <u>______</u> expected to help the less privileged.",
+    "opts": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "ans": 1,
+    "exp": "The word \"rich\" when used with \"the\" refers to rich people in general, which is a plural concept. Therefore, it requires the plural verb \"are.\""
+  },
+  {
+    "type": "std",
+    "q": "The principal, as well as the teachers, <u>______</u> attending the workshop.",
+    "opts": [
+      "were",
+      "are",
+      "have been",
+      "is"
+    ],
+    "ans": 3,
+    "exp": "When you have \"as well as,\" the verb agrees with the first subject, which is \"The principal\" (singular). Hence, \"is\" is the correct verb."
+  },
+  {
+    "type": "std",
+    "q": "She <u>______</u> the keys on the counter yesterday morning.",
+    "opts": [
+      "lay",
+      "lie",
+      "lain",
+      "laid"
+    ],
+    "ans": 3,
+    "exp": "My dear, \"laid\" is the past tense of \"lay\" (to place something down). She placed the keys, so \"laid\" is what we need."
+  },
+  {
+    "type": "std",
+    "q": "The price of groceries has <u>______</u> considerably this year.",
+    "opts": [
+      "raised",
+      "risen",
+      "rose",
+      "arisen"
+    ],
+    "ans": 1,
+    "exp": "\"Risen\" is the past participle of \"rise,\" which means to go up on its own. Prices rise, they don't \"raise\" themselves. That's the difference!"
+  },
+  {
+    "type": "std",
+    "q": "He was charged <u>______</u> armed robbery.",
+    "opts": [
+      "with",
+      "of",
+      "for",
+      "on"
+    ],
+    "ans": 0,
+    "exp": "The correct preposition to use with \"charged\" in this context (accused of a crime) is \"with.\" So, \"charged with armed robbery\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "Unless you practice regularly, you <u>______</u> become fluent.",
+    "opts": [
+      "will",
+      "would",
+      "will not",
+      "would not"
+    ],
+    "ans": 2,
+    "exp": "The sentence implies a negative consequence if the condition isn't met. \"Unless\" means \"if not,\" so \"will not\" logically completes the sentence, my dear."
+  },
+  {
+    "type": "std",
+    "q": "One of the girls <u>______</u> representing the school tomorrow.",
+    "opts": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "ans": 2,
+    "exp": "My dear, 'one of the girls' refers to a single individual, so we use the singular verb 'is'. Remember subject-verb agreement is key!"
+  },
+  {
+    "type": "std",
+    "q": "We had no sooner started our picnic <u>______</u> it began to rain.",
+    "opts": [
+      "than",
+      "when",
+      "then",
+      "before"
+    ],
+    "ans": 0,
+    "exp": "This structure, 'no sooner...than', is correct for showing that one event immediately followed another. It's a common correlative conjunction."
+  },
+  {
+    "type": "std",
+    "q": "They congratulated him <u>______</u> his academic success.",
+    "opts": [
+      "for",
+      "at",
+      "about",
+      "on"
+    ],
+    "ans": 3,
+    "exp": "We use the preposition 'on' with 'congratulate' when referring to the reason for the congratulations. Simply put, you congratulate someone *on* something."
+  },
+  {
+    "type": "std",
+    "q": "The meeting has been <u>______</u> until next Monday.",
+    "opts": [
+      "put out",
+      "put off",
+      "put down",
+      "put up"
+    ],
+    "ans": 1,
+    "exp": "To 'put off' means to postpone something. So, for the meeting being moved to a later date, this is the perfect phrasal verb to use."
+  },
+  {
+    "type": "std",
+    "q": "The General ordered that the troops <u>______</u> advance.",
+    "opts": [
+      "would",
+      "should",
+      "could",
+      "might"
+    ],
+    "ans": 1,
+    "exp": "The verb 'ordered' often signals the use of the subjunctive mood with 'should' in a formal command. It's about what *ought* to happen."
+  },
+  {
+    "type": "std",
+    "q": "He has been in this office <u>______</u> nine o'clock.",
+    "opts": [
+      "for",
+      "from",
+      "in",
+      "since"
+    ],
+    "ans": 3,
+    "exp": "'Since' is used to indicate a starting point in time for an action that continues until the present. 'For' would be used for a duration, my dear."
+  },
+  {
+    "type": "std",
+    "q": "The committee <u>______</u> in full agreement on the proposal.",
+    "opts": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "When a collective noun like 'committee' acts as a single unit or entity, it takes a singular verb. Here, the committee as a whole is in agreement."
+  },
+  {
+    "type": "std",
+    "q": "She is the <u>______</u> of the two sisters.",
+    "opts": [
+      "tallest",
+      "most tall",
+      "taller",
+      "more tall"
+    ],
+    "ans": 2,
+    "exp": "When comparing two things, my dear, we use the comparative form of the adjective, which is 'taller' for two sisters. It's as simple as that!"
+  },
+  {
+    "type": "std",
+    "q": "The lawyer argued his case <u>______</u>.",
+    "opts": [
+      "brilliantly",
+      "brilliant",
+      "brilliance",
+      "more brilliant"
+    ],
+    "ans": 0,
+    "exp": "To describe *how* he argued, we need an adverb, not an adjective. 'Brilliantly' modifies the verb 'argued' wonderfully, you see."
+  },
+  {
+    "type": "std",
+    "q": "The new policy will <u>______</u> next month.",
+    "opts": [
+      "come into forced",
+      "come in force",
+      "come into force",
+      "come to force"
+    ],
+    "ans": 2,
+    "exp": "'Come into force' is the correct idiom to say that a law or policy will become active or operational. It's a standard legal and administrative phrase."
+  },
+  {
+    "type": "std",
+    "q": "The burden was too heavy for him to <u>______</u> alone.",
+    "opts": [
+      "bare",
+      "bear",
+      "beer",
+      "bar"
+    ],
+    "ans": 1,
+    "exp": "The word 'bear' means to carry or support a load. 'Bare' means uncovered, so it wouldn't fit here, my dear."
+  },
+  {
+    "type": "std",
+    "q": "He ran as if he <u>______</u> a ghost.",
+    "opts": [
+      "sees",
+      "saw",
+      "has seen",
+      "had seen"
+    ],
+    "ans": 3,
+    "exp": "This is a past perfect subjunctive structure, used for hypothetical situations in the past. 'Had seen' correctly expresses a past unreal condition."
+  },
+  {
+    "type": "std",
+    "q": "We need to <u>______</u> a viable solution to the crisis.",
+    "opts": [
+      "prefer",
+      "profer",
+      "profile",
+      "proffer"
+    ],
+    "ans": 3,
+    "exp": "'Proffer' means to offer something for acceptance, especially advice or a solution. The other options are either incorrect spellings or have different meanings."
+  },
+  {
+    "type": "std",
+    "q": "He is a man of <u>______</u> words.",
+    "opts": [
+      "fiew",
+      "few",
+      "a few",
+      "little"
+    ],
+    "ans": 1,
+    "exp": "For countable nouns like 'words', we use 'few' (meaning not many but enough to be noted), not 'little' which is for uncountable nouns."
+  },
+  {
+    "type": "std",
+    "q": "She does not agree <u>______</u> my plans.",
+    "opts": [
+      "to",
+      "on",
+      "with",
+      "at"
+    ],
+    "ans": 2,
+    "exp": "The correct preposition to use with 'agree' when referring to a person's plans or ideas is 'with'. You agree *with* someone or their plans."
+  },
+  {
+    "type": "std",
+    "q": "The rules demand that every member <u>______</u> a tie.",
+    "opts": [
+      "wear",
+      "wears",
+      "should wear",
+      "must wear"
+    ],
+    "ans": 0,
+    "exp": "This sentence uses the subjunctive mood, which requires the base form of the verb ('wear') after phrases like 'The rules demand that'."
+  },
+  {
+    "type": "std",
+    "q": "He was indicted <u>______</u> tax evasion.",
+    "opts": [
+      "of",
+      "on",
+      "for",
+      "with"
+    ],
+    "ans": 2,
+    "exp": "We say someone is 'indicted for' a specific crime or offense. It's the standard preposition that goes with the verb 'indict'."
+  },
+  {
+    "type": "std",
+    "q": "They are committed to <u>______</u> the environment.",
+    "opts": [
+      "protecting",
+      "protect",
+      "be protecting",
+      "protected"
+    ],
+    "ans": 0,
+    "exp": "After the preposition 'to' when it's part of a phrasal verb like 'committed to', we use the gerund form of the verb. So, 'to protecting' is correct here."
+  },
+  {
+    "type": "std",
+    "q": "If I had known about the storm, I <u>______</u> at home.",
+    "opts": [
+      "would stay",
+      "will stay",
+      "had stayed",
+      "would have stayed"
+    ],
+    "ans": 3,
+    "exp": "This is a classic third conditional sentence which expresses a hypothetical situation in the past and its hypothetical result. 'Would have stayed' is perfect."
+  },
+  {
+    "type": "std",
+    "q": "She is highly proficient <u>______</u> writing essays.",
+    "opts": [
+      "at",
+      "in",
+      "with",
+      "on"
+    ],
+    "ans": 1,
+    "exp": "When you are highly skilled or expert in something, my dear, you are 'proficient in' that particular skill or field. It's the correct usage of the preposition."
+  },
+  {
+    "type": "std",
+    "q": "The news of the merger <u>______</u> received with excitement.",
+    "opts": [
+      "were",
+      "was",
+      "are",
+      "have been"
+    ],
+    "ans": 1,
+    "exp": "The subject \"news\" is an uncountable noun here, even though it ends with 's', so it takes a singular verb. That's why \"was\" is correct, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Every student and teacher <u>______</u> expected to attend.",
+    "opts": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "ans": 2,
+    "exp": "When you have \"every\" followed by two singular nouns joined by \"and,\" the verb should always be singular. So, \"is\" is the right choice here."
+  },
+  {
+    "type": "std",
+    "q": "I don't mind <u>______</u> the extra work if it helps the team.",
+    "opts": [
+      "doing",
+      "to do",
+      "do",
+      "done"
+    ],
+    "ans": 0,
+    "exp": "After the verb \"mind,\" we always use the gerund form of the verb, which is the -ing form. So, \"doing\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "He behaves as though he <u>______</u> everything.",
+    "opts": [
+      "knows",
+      "know",
+      "has known",
+      "knew"
+    ],
+    "ans": 3,
+    "exp": "When you express a hypothetical or contrary-to-fact situation with \"as though\" or \"as if,\" you usually use the past subjunctive, which looks like the simple past. So, \"knew\" is correct here, my dear."
+  },
+  {
+    "type": "std",
+    "q": "The package <u>______</u> yesterday morning.",
+    "opts": [
+      "was delivered",
+      "delivered",
+      "has delivered",
+      "is delivered"
+    ],
+    "ans": 0,
+    "exp": "The action happened in the past and is a passive voice construction, meaning the package received the action. \"Was delivered\" correctly shows this past passive action, my dear."
+  },
+  {
+    "type": "std",
+    "q": "By the time we get there, the movie <u>______</u>.",
+    "opts": [
+      "starts",
+      "will start",
+      "has started",
+      "will have started"
+    ],
+    "ans": 3,
+    "exp": "This sentence uses the future perfect tense to show an action that will be completed before another future action. So, \"will have started\" is the perfect fit."
+  },
+  {
+    "type": "std",
+    "q": "He was prevented <u>______</u> entering the hall.",
+    "opts": [
+      "to",
+      "from",
+      "for",
+      "against"
+    ],
+    "ans": 1,
+    "exp": "The verb \"prevented\" is always followed by the preposition \"from\" when indicating what someone was stopped from doing. Simply put, prevented from is the correct idiom."
+  },
+  {
+    "type": "std",
+    "q": "She is the <u>______</u> intelligent of the three pupils.",
+    "opts": [
+      "more",
+      "taller",
+      "most",
+      "greater"
+    ],
+    "ans": 2,
+    "exp": "When comparing three or more things, we use the superlative degree, which for \"intelligent\" is \"most intelligent.\" So, dear, \"most\" is the correct choice."
+  },
+  {
+    "type": "std",
+    "q": "Neither of the candidates <u>______</u> signed the contract yet.",
+    "opts": [
+      "have",
+      "were",
+      "are",
+      "has"
+    ],
+    "ans": 3,
+    "exp": "When you have \"neither of\" followed by a plural noun, the verb should always be singular. Thus, \"has\" is the correct auxiliary verb here."
+  },
+  {
+    "type": "std",
+    "q": "The jury <u>______</u> still divided on the final decision.",
+    "opts": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "ans": 1,
+    "exp": "While \"jury\" can be singular or plural, when the members are acting individually or are divided, as indicated by \"divided,\" you use a plural verb. So, \"are\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "No sooner had she finished her speech <u>______</u> the crowd erupted.",
+    "opts": [
+      "when",
+      "then",
+      "than",
+      "before"
+    ],
+    "ans": 2,
+    "exp": "The correlative conjunction for \"no sooner\" is always \"than.\" This structure means one thing happened immediately after another. \"Than\" is the correct word here, my dear."
+  },
+  {
+    "type": "std",
+    "q": "It is essential that he <u>______</u> this form before leaving.",
+    "opts": [
+      "sign",
+      "signs",
+      "signed",
+      "should sign"
+    ],
+    "ans": 0,
+    "exp": "This is an example of the subjunctive mood, which expresses necessity or importance. We use the base form of the verb after \"it is essential that.\" So, \"sign\" is proper."
+  },
+  {
+    "type": "std",
+    "q": "She has been studying <u>______</u> three hours.",
+    "opts": [
+      "since",
+      "for",
+      "during",
+      "from"
+    ],
+    "ans": 1,
+    "exp": "We use \"for\" to indicate a duration of time. Since her studying has lasted for three hours, \"for\" is the right choice."
+  },
+  {
+    "type": "std",
+    "q": "The information <u>______</u> to be confidential.",
+    "opts": [
+      "is said",
+      "are said",
+      "were said",
+      "have been said"
+    ],
+    "ans": 0,
+    "exp": "The subject \"information\" is an uncountable noun and always takes a singular verb. The sentence is also in the passive voice, so \"is said\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "If she <u>______</u> more time, she would join us.",
+    "opts": [
+      "has",
+      "had had",
+      "will have",
+      "had"
+    ],
+    "ans": 3,
+    "exp": "This is a third conditional sentence, expressing a hypothetical situation in the past that didn't happen. The 'if' clause needs the past perfect. So, \"had\" completes this condition."
+  },
+  {
+    "type": "std",
+    "q": "I prefer singing <u>______</u> dancing.",
+    "opts": [
+      "than",
+      "over",
+      "to",
+      "more than"
+    ],
+    "ans": 2,
+    "exp": "When you express a preference using \"prefer,\" you use \"to\" to connect the two things being compared. So, \"I prefer singing to dancing\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "The children, along with their teacher, <u>______</u> visiting the museum.",
+    "opts": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "ans": 2,
+    "exp": "When a singular subject is followed by \"along with\" and another noun, the verb agrees with the main singular subject, which is \"the children\" here, but the primary subject is singular when considering 'along with their teacher'. So, \"is\" is correct for the main action."
+  },
+  {
+    "type": "std",
+    "q": "You ought to apologize to him, <u>______</u>?",
+    "opts": [
+      "ought you",
+      "don't you",
+      "should you",
+      "oughtn't you"
+    ],
+    "ans": 3,
+    "exp": "This is a question tag. The main clause \"You ought to apologize\" uses \"ought,\" so the tag should be \"oughtn't you\" to match. It's simply the negation of \"ought.\""
+  },
+  {
+    "type": "std",
+    "q": "The committee <u>______</u> preparing its final report.",
+    "opts": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "ans": 0,
+    "exp": "Like \"jury,\" \"committee\" is a collective noun. When the committee is acting as a single unit, as implied by \"preparing its final report,\" it takes a singular verb. So, \"is\" is correct."
+  },
+  {
+    "type": "std",
+    "q": "He is accustomed <u>______</u> tea with milk.",
+    "opts": [
+      "to drink",
+      "to drinking",
+      "with drinking",
+      "in drinking"
+    ],
+    "ans": 1,
+    "exp": "The phrase \"accustomed to\" is always followed by a gerund (verb-ing) or a noun. So, \"to drinking\" is the correct form here, my dear."
+  }
+]

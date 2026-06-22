@@ -1,0 +1,1202 @@
+[
+  {
+    "type": "std",
+    "q": "In the spoken sentence, 'I didn't say *he* stole the money,' stressing the word 'he' implies that:",
+    "opts": [
+      "I don't think any money was stolen.",
+      "Someone else may have stolen the money.",
+      "I said he stole something else.",
+      "I am certain he is innocent."
+    ],
+    "ans": 1,
+    "exp": "When you stress 'he' in that sentence, my dear, it means you might be suggesting that someone *else* is the one who stole the money, not necessarily him."
+  },
+  {
+    "type": "std",
+    "q": "Which word has the same vowel sound as <u>meet</u>?",
+    "opts": [
+      "met",
+      "great",
+      "beat",
+      "mate"
+    ],
+    "ans": 2,
+    "exp": "The vowel sound in 'meet' is a long 'ee' sound. 'Beat' shares this exact sound, while 'met' and 'mate' have different vowel sounds."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words contains a silent 'b' when spoken?",
+    "opts": [
+      "comb",
+      "cabin",
+      "timber",
+      "about"
+    ],
+    "ans": 0,
+    "exp": "In 'comb', the 'b' is silent, you see. Words like this often come from older English spellings, and the pronunciation has changed over time."
+  },
+  {
+    "type": "std",
+    "q": "When practicing active listening, what is the primary purpose of paraphrasing the speaker's words?",
+    "opts": [
+      "To show you have a better vocabulary",
+      "To confirm your understanding of the message",
+      "To interrupt the speaker politely",
+      "To change the subject of discussion"
+    ],
+    "ans": 1,
+    "exp": "Repeating what the speaker said in your own words, my dear, is the best way to make sure you both understand the same thing. It ensures no wires get crossed."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words rhymes with <u>wear</u>?",
+    "opts": [
+      "hear",
+      "fear",
+      "stare",
+      "here"
+    ],
+    "ans": 2,
+    "exp": "You see, 'stare' and 'wear' have the same ending sound, like 'air'. The other options, while close, don't quite rhyme perfectly with 'wear'."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'PHOtograph'?",
+    "opts": [
+      "First syllable",
+      "Second syllable",
+      "Third syllable",
+      "None of the above"
+    ],
+    "ans": 0,
+    "exp": "For 'PHOtograph', the emphasis falls clearly on the first syllable, 'PHO'. This is the standard pronunciation for this word."
+  },
+  {
+    "type": "std",
+    "q": "Which word is a homophone of the spoken word 'blew'?",
+    "opts": [
+      "blow",
+      "blue",
+      "below",
+      "brow"
+    ],
+    "ans": 1,
+    "exp": "Homophones sound the same but have different spellings and meanings. 'Blew' (past tense of blow) and 'blue' (the colour) sound identical, making them homophones."
+  },
+  {
+    "type": "std",
+    "q": "A falling intonation in spoken English is typically used at the end of:",
+    "opts": [
+      "A yes/no question",
+      "A polite request",
+      "A declarative statement",
+      "An unfinished thought"
+    ],
+    "ans": 2,
+    "exp": "When you make a statement, my dear, your voice usually goes down at the end. This falling tone signals that the sentence is complete."
+  },
+  {
+    "type": "std",
+    "q": "A speaker says: 'Well, I suppose we could try that, but...' What does the tone and the word 'but' most likely signal?",
+    "opts": [
+      "Hesitation or skepticism",
+      "Complete agreement",
+      "Excitement to start",
+      "Inability to hear"
+    ],
+    "ans": 0,
+    "exp": "The phrase 'could try that, but...' shows some doubt or unwillingness, doesn't it? It signals that the speaker is hesitant about the idea."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I wanted *coffee*, not tea,' the stress on 'coffee' is meant to:",
+    "opts": [
+      "Express anger",
+      "Correct a misunderstanding",
+      "Ask a question",
+      "Introduce a new topic"
+    ],
+    "ans": 1,
+    "exp": "Saying 'I wanted *coffee*, not tea' is a way to directly correct a mistake someone made. You are clarifying what you actually wanted."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has a silent 'k'?",
+    "opts": [
+      "keep",
+      "kick",
+      "knee",
+      "kettle"
+    ],
+    "ans": 2,
+    "exp": "In the word 'knee', the 'k' comes before the 'n', and it's silent. We don't pronounce it at all when we say the word."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has a different vowel sound from the others?",
+    "opts": [
+      "food",
+      "blood",
+      "flood",
+      "mud"
+    ],
+    "ans": 0,
+    "exp": "The vowel sound in 'food' is a long 'oo' sound, like in 'moon'. 'Blood', 'flood', and 'mud' all share a different short 'u' sound."
+  },
+  {
+    "type": "std",
+    "q": "In a conversation, nodding your head and saying 'uh-huh' is an example of:",
+    "opts": [
+      "Passive ignoring",
+      "Backchanneling to show engagement",
+      "Interrupting the speaker",
+      "Disagreeing silently"
+    ],
+    "ans": 1,
+    "exp": "Nodding and saying 'uh-huh' are ways to show you're listening and paying attention without interrupting. It encourages the speaker to continue."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'computer'?",
+    "opts": [
+      "First syllable",
+      "Third syllable",
+      "Second syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "In 'computer', the main stress is on the last part, the 'ter'. This gives the word its natural rhythm when spoken."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>rain</u>?",
+    "opts": [
+      "vein",
+      "ran",
+      "fine",
+      "ring"
+    ],
+    "ans": 0,
+    "exp": "The words 'rain' and 'vein' have the same ending sound, like 'ain'. They rhyme perfectly, my dear."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'Could you run that by me one more time?', they are asking you to:",
+    "opts": [
+      "Leave the room",
+      "Repeat what you just said",
+      "Run faster next time",
+      "Hand them a physical object"
+    ],
+    "ans": 1,
+    "exp": "When someone says 'run that by me', they simply want you to repeat what you said, my dear. It's a polite way to ask for clarification."
+  },
+  {
+    "type": "std",
+    "q": "A rising intonation is most commonly heard at the end of which spoken sentence?",
+    "opts": [
+      "I live in London.",
+      "What is your name?",
+      "Are you coming with us?",
+      "Stop talking immediately."
+    ],
+    "ans": 2,
+    "exp": "A rising intonation often signals a question, especially a yes/no question like this one. You're asking for confirmation, so the voice goes up at the end."
+  },
+  {
+    "type": "std",
+    "q": "Which word has a silent 'w' when spoken?",
+    "opts": [
+      "write",
+      "water",
+      "west",
+      "wet"
+    ],
+    "ans": 0,
+    "exp": "In English, some words have letters that are there but not pronounced. 'Write' is one of those words; the 'w' is silent."
+  },
+  {
+    "type": "std",
+    "q": "In the spoken sentence, 'She didn't write *that* essay,' the stress on 'that' implies:",
+    "opts": [
+      "She didn't write any essay at all.",
+      "She wrote a different essay.",
+      "Someone else wrote the essay.",
+      "She wrote the essay very quickly."
+    ],
+    "ans": 1,
+    "exp": "Stressing 'that' here means she wrote a different essay, not the one being discussed. It's about changing the focus to a specific item."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has the same consonant sound as the 'ch' in 'chemist'?",
+    "opts": [
+      "church",
+      "cheap",
+      "character",
+      "chef"
+    ],
+    "ans": 2,
+    "exp": "The sound in 'character' is a 'k' sound, just like the 'ch' in 'chemist'. It's a hard 'c' sound, you see."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following options contains a silent 't'?",
+    "opts": [
+      "castle",
+      "cattle",
+      "rattle",
+      "metal"
+    ],
+    "ans": 0,
+    "exp": "In 'castle', the 't' is silent. Many English words have these silent letters, and 'castle' is a common example."
+  },
+  {
+    "type": "std",
+    "q": "In active listening, maintaining eye contact and facing the speaker directly are examples of:",
+    "opts": [
+      "Verbal feedback",
+      "Non-verbal attending behaviors",
+      "Visual distractions",
+      "Passive indifference"
+    ],
+    "ans": 1,
+    "exp": "Facing the speaker and making eye contact shows you are paying attention without using words. These are non-verbal signals of good listening."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'tomorrow'?",
+    "opts": [
+      "First syllable",
+      "Third syllable",
+      "Second syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "The stress in 'tomorrow' falls on the second syllable, 'mor'. That's where you put the emphasis when you say it."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with the spoken word 'tough'?",
+    "opts": [
+      "rough",
+      "dough",
+      "cough",
+      "bough"
+    ],
+    "ans": 0,
+    "exp": "Both 'tough' and 'rough' end with the same 'uff' sound. They are perfect rhymes, my dear."
+  },
+  {
+    "type": "std",
+    "q": "A speaker says: 'I'm swamped with work and feel completely overwhelmed.' An active listener would paraphrase this by saying:",
+    "opts": [
+      "'You should take a vacation.'",
+      "'It sounds like you have too much on your plate right now.'",
+      "'Why don't you ask for help?'",
+      "'I am busy too.'"
+    ],
+    "ans": 1,
+    "exp": "Paraphrasing shows you understand. Saying 'It sounds like you have too much on your plate' restates the speaker's feeling of being overwhelmed in different words."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following questions is an 'open question' designed to encourage a speaker to share more details?",
+    "opts": [
+      "'Are you happy?'",
+      "'Did you finish?'",
+      "'What was your favorite part of the trip?'",
+      "'Do you like tea?'"
+    ],
+    "ans": 2,
+    "exp": "Open questions like 'What was your favorite part...?' encourage detailed answers and more conversation. They can't be answered with a simple yes or no."
+  },
+  {
+    "type": "std",
+    "q": "Which word contains a silent 'h' when spoken?",
+    "opts": [
+      "honest",
+      "house",
+      "happy",
+      "heavy"
+    ],
+    "ans": 0,
+    "exp": "The 'h' in 'honest' is silent. We pronounce it as if it starts with a vowel sound."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I *never* want to see that movie again,' the stressed word 'never' indicates:",
+    "opts": [
+      "Uncertainty",
+      "Strong dislike or emphasis",
+      "Politeness",
+      "A request for a movie recommendation"
+    ],
+    "ans": 1,
+    "exp": "Stressing 'never' in this context shows a very strong feeling, in this case, strong dislike for the movie. It emphasizes the point."
+  },
+  {
+    "type": "std",
+    "q": "Which word has the same vowel sound as the one in <u>keys</u>?",
+    "opts": [
+      "guess",
+      "busy",
+      "cheese",
+      "says"
+    ],
+    "ans": 2,
+    "exp": "The word 'keys' has a long 'ee' sound, and 'cheese' shares that exact same vowel sound."
+  },
+  {
+    "type": "std",
+    "q": "Which word has a silent 'g' when spoken?",
+    "opts": [
+      "sign",
+      "sing",
+      "sugar",
+      "giant"
+    ],
+    "ans": 0,
+    "exp": "'Sign' is a word where the 'g' is not pronounced. The sound comes from the 'n' that follows it."
+  },
+  {
+    "type": "std",
+    "q": "To show you are actively listening, which phrase is best to use when clarifying information?",
+    "opts": [
+      "'You are wrong about...'",
+      "'So, what you are saying is...'",
+      "'I don't care about...'",
+      "'Let's talk about me now...'"
+    ],
+    "ans": 1,
+    "exp": "That's right, my dear! Using 'So, what you are saying is...' shows you're checking your understanding and actively engaged in the conversation. It's a good way to confirm you've heard correctly."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'beautiful'?",
+    "opts": [
+      "Second syllable",
+      "Third syllable",
+      "First syllable",
+      "None of the syllables"
+    ],
+    "ans": 2,
+    "exp": "Yes, the emphasis is on the first syllable, 'beau', in 'beautiful'. Practicing pronunciation helps a lot, you see."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>height</u>?",
+    "opts": [
+      "bite",
+      "weight",
+      "eight",
+      "hate"
+    ],
+    "ans": 0,
+    "exp": "Exactly! The word 'bite' has the same ending sound as 'height'. Words don't always look like they sound, and this is a good example."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a homophone of 'know'?",
+    "opts": [
+      "now",
+      "no",
+      "new",
+      "not"
+    ],
+    "ans": 1,
+    "exp": "Well done! 'No' sounds exactly like 'know', which is what makes them homophones. They are spelled differently but sound the same."
+  },
+  {
+    "type": "std",
+    "q": "A rising intonation is generally used when speaking:",
+    "opts": [
+      "A direct command",
+      "A final statement",
+      "A yes/no question",
+      "A list item that is final"
+    ],
+    "ans": 2,
+    "exp": "Correct! A rising intonation at the end of a sentence usually signals a question that can be answered with 'yes' or 'no'. It makes the listener expect a response."
+  },
+  {
+    "type": "std",
+    "q": "Which word has a silent 'l' when spoken?",
+    "opts": [
+      "talk",
+      "tall",
+      "tell",
+      "tool"
+    ],
+    "ans": 0,
+    "exp": "That's it! In 'talk', the 'l' is silent, so we don't pronounce it. It's just one of those English spelling quirks we have to learn."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I didn't steal *your* laptop,' the stress on 'your' implies:",
+    "opts": [
+      "I didn't steal any laptop.",
+      "I stole someone else's laptop.",
+      "I stole a tablet, not a laptop.",
+      "Someone else stole your laptop."
+    ],
+    "ans": 1,
+    "exp": "Precisely. Stressing 'your' changes the whole meaning to suggest another person's laptop was taken. It highlights that specific word."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has the same vowel sound as the one in <u>sun</u>?",
+    "opts": [
+      "bull",
+      "push",
+      "done",
+      "put"
+    ],
+    "ans": 2,
+    "exp": "You've got it! 'Done' has that same 'uh' sound as in 'sun'. It's important to listen closely to vowel sounds in English."
+  },
+  {
+    "type": "std",
+    "q": "Which word has a silent 'p' when spoken?",
+    "opts": [
+      "receipt",
+      "repeat",
+      "repair",
+      "report"
+    ],
+    "ans": 0,
+    "exp": "Excellent! The 'p' in 'receipt' is silent. Words like this can be tricky, but recognizing the silent letters helps with pronunciation."
+  },
+  {
+    "type": "std",
+    "q": "What is the primary barrier to effective listening known as 'information overload'?",
+    "opts": [
+      "Hearing too many background noises",
+      "Receiving too much data at once to process",
+      "Speaking too loudly",
+      "Using too many gestures"
+    ],
+    "ans": 1,
+    "exp": "That's a good grasp of it. Information overload means your brain simply can't process all the incoming data effectively at that moment. It's too much!"
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'REcord' (when used as a noun)?",
+    "opts": [
+      "Second syllable",
+      "Third syllable",
+      "First syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "Indeed. For the noun 'REcord', the stress falls on the first syllable, 'RE'. This is common in English where nouns and verbs can have different stress patterns."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>cough</u>?",
+    "opts": [
+      "off",
+      "rough",
+      "dough",
+      "through"
+    ],
+    "ans": 0,
+    "exp": "Correct! The word 'off' rhymes perfectly with 'cough'. Some English words have tricky pronunciations, and this is one of them."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I'd love to go, *but* I have an exam,' what does the speaker's tone and stress on 'but' show?",
+    "opts": [
+      "Uncertainty about the exam",
+      "Hesitation or regret about not going",
+      "Anger at the listener",
+      "An invitation to study together"
+    ],
+    "ans": 1,
+    "exp": "Yes, that's it. The word 'but' here is stressed to show a contrast or hesitation, indicating the speaker wishes they could go but has a conflict. It shows regret."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has the same consonant sound as the 'g' in 'germ'?",
+    "opts": [
+      "game",
+      "gate",
+      "giant",
+      "gold"
+    ],
+    "ans": 2,
+    "exp": "You are absolutely correct! The 'g' in 'giant' makes a 'j' sound, just like in 'germ'. This is common with 'g' followed by 'i' or 'e'."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words contains a silent 'd'?",
+    "opts": [
+      "Wednesday",
+      "Windy",
+      "Wonderful",
+      "Woodland"
+    ],
+    "ans": 0,
+    "exp": "That's right! The 'd' in 'Wednesday' is typically silent when we say it. It's one of those words where the spelling doesn't quite match the spoken sound."
+  },
+  {
+    "type": "std",
+    "q": "An active listener who asks 'What do you mean by that?' is using which listening sub-skill?",
+    "opts": [
+      "Paraphrasing",
+      "Clarifying",
+      "Summarizing",
+      "Ignoring"
+    ],
+    "ans": 1,
+    "exp": "When you ask 'What do you mean by that?', my dear, you are seeking more information to understand clearly. This is the essence of clarifying your understanding."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'decision'?",
+    "opts": [
+      "First syllable",
+      "Third syllable",
+      "Second syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "The last syllable, '-sion', receives the emphasis when you say 'de-ci-SION'. This is how we naturally stress this word in English."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>shoe</u>?",
+    "opts": [
+      "blue",
+      "sew",
+      "show",
+      "saw"
+    ],
+    "ans": 0,
+    "exp": "The words 'shoe' and 'blue' share the same long 'oo' sound, making them rhyme perfectly. Isn't that lovely?"
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'We need to talk about the *budget*,' the stress on 'budget' suggests:",
+    "opts": [
+      "The speaker is happy about the money.",
+      "The budget is the specific issue that needs attention.",
+      "The speaker wants to cancel the talk.",
+      "Budget is a funny word."
+    ],
+    "ans": 1,
+    "exp": "Stressing 'budget' shows that this particular topic is what the speaker wants to focus on. It's the main point of the discussion."
+  },
+  {
+    "type": "std",
+    "q": "Which word is a homophone of 'deer'?",
+    "opts": [
+      "dare",
+      "door",
+      "dear",
+      "dirt"
+    ],
+    "ans": 2,
+    "exp": "'Deer' and 'dear' sound exactly the same when spoken, even though they are spelled differently. That's what a homophone is."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has a silent 'u' when spoken?",
+    "opts": [
+      "guard",
+      "guide",
+      "guest",
+      "gun"
+    ],
+    "ans": 0,
+    "exp": "In 'guard', the 'u' doesn't create its own sound, you see. It modifies the 'g' sound, and we don't pronounce it separately."
+  },
+  {
+    "type": "std",
+    "q": "When listening to a presentation, what is 'critical listening'?",
+    "opts": [
+      "Listening only to find errors in pronunciation",
+      "Listening to analyze and evaluate the message",
+      "Listening passively without thinking",
+      "Listening only to the introduction"
+    ],
+    "ans": 1,
+    "exp": "Critical listening means you are actively thinking about what is being said, judging its worth and truthfulness. You're not just hearing it passively."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'engineer'?",
+    "opts": [
+      "First syllable",
+      "Second syllable",
+      "Third syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "The last part of the word, '-neer', is where the stress falls in 'en-gin-EER'. It's very common for longer words to have stress on the final or penultimate syllable."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>bear</u>?",
+    "opts": [
+      "pear",
+      "beer",
+      "pier",
+      "fear"
+    ],
+    "ans": 0,
+    "exp": "The words 'bear' and 'pear' rhyme because they have the same ending sound. They both end with the 'air' sound."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I cannot *possibly* agree to those terms,' the stress on 'possibly' emphasizes:",
+    "opts": [
+      "A minor doubt",
+      "Absolute refusal",
+      "A willingness to negotiate",
+      "A request for clarification"
+    ],
+    "ans": 1,
+    "exp": "Putting an extra emphasis on 'possibly' when saying 'I cannot *possibly* agree' makes it clear that the refusal is complete and strong. There is no room for negotiation."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has the same vowel sound as the one in <u>pain</u>?",
+    "opts": [
+      "pan",
+      "pen",
+      "rein",
+      "pin"
+    ],
+    "ans": 2,
+    "exp": "The vowel sound in 'pain' is the same long 'ay' sound you hear in 'rein'. They are spelled differently, but sound alike."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words contains a silent 'n'?",
+    "opts": [
+      "solemn",
+      "sound",
+      "stone",
+      "send"
+    ],
+    "ans": 0,
+    "exp": "In 'solemn', the 'n' is not pronounced at all. It's like it's there, but not part of the spoken word."
+  },
+  {
+    "type": "std",
+    "q": "In a formal lecture, listening for main ideas rather than every word is called:",
+    "opts": [
+      "Detailed listening",
+      "Global listening or gist listening",
+      "Passive hearing",
+      "Distracted listening"
+    ],
+    "ans": 1,
+    "exp": "Global listening, or gist listening, is when you focus on the main points and overall message of a talk, not every single word. It helps grasp the big picture."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'important'?",
+    "opts": [
+      "First syllable",
+      "Third syllable",
+      "Second syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "The stress in 'im-POR-tant' falls on the second syllable. This is a key feature of how we pronounce this common word."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>steak</u>?",
+    "opts": [
+      "break",
+      "weak",
+      "speak",
+      "peek"
+    ],
+    "ans": 0,
+    "exp": "'Steak' and 'break' rhyme beautifully because they share the same long 'ake' sound at the end. Simple as that!"
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I thought *you* were going to call him,' the stress on 'you' implies:",
+    "opts": [
+      "I didn't think anyone should call him.",
+      "I expected you to do the calling, not someone else.",
+      "I was going to call him myself.",
+      "I don't know who he is."
+    ],
+    "ans": 1,
+    "exp": "When you stress 'you' in that sentence, my dear, it simply means that your expectation was for *that particular person* to make the call, not just anyone."
+  },
+  {
+    "type": "std",
+    "q": "Which word is a homophone of the spoken word 'flour'?",
+    "opts": [
+      "floor",
+      "flare",
+      "flower",
+      "flow"
+    ],
+    "ans": 2,
+    "exp": "Exactly! 'Flour' and 'flower' sound identical when spoken, even though they have different meanings and spellings. That's what a homophone is."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has a silent 'c' when spoken?",
+    "opts": [
+      "muscle",
+      "music",
+      "magic",
+      "medical"
+    ],
+    "ans": 0,
+    "exp": "Ah yes, 'muscle' has a silent 'c' before the 'l'. You don't pronounce it when you say the word, nice one!"
+  },
+  {
+    "type": "std",
+    "q": "To show empathy while listening to a friend, what is the best verbal response?",
+    "opts": [
+      "'You should stop complaining.'",
+      "'I understand how difficult this must be for you.'",
+      "'That is nothing compared to my day.'",
+      "'Why does this always happen to you?'"
+    ],
+    "ans": 1,
+    "exp": "This response shows you truly hear your friend and acknowledge their feelings. It's about validating their experience, you see."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'academic'?",
+    "opts": [
+      "First syllable",
+      "Second syllable",
+      "Third syllable",
+      "Fourth syllable"
+    ],
+    "ans": 2,
+    "exp": "For 'academic,' the stress falls on the third syllable: a-ca-DEM-ic. That's where the emphasis naturally lies when you say it."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>breathe</u>?",
+    "opts": [
+      "seethe",
+      "death",
+      "breath",
+      "path"
+    ],
+    "ans": 0,
+    "exp": "Lovely! Both 'breathe' and 'seethe' have that long 'ee' sound at the end, making them rhyme perfectly."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'It was *her* idea, not mine,' the stress on 'her' is meant to:",
+    "opts": [
+      "Express admiration",
+      "Shift responsibility or ownership",
+      "Ask a question",
+      "Show confusion"
+    ],
+    "ans": 1,
+    "exp": "By stressing 'her,' the speaker is clearly pointing out that the idea originated from her, not from the speaker themselves. It shifts the ownership."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has the same consonant sound as the 's' in 'treasure'?",
+    "opts": [
+      "sure",
+      "measure",
+      "sight",
+      "sugar"
+    ],
+    "ans": 2,
+    "exp": "The 's' in 'treasure' makes a 'zh' sound. The 's' in 'sight' also makes that same 'zh' sound. It's a common sound pattern."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words contains a silent 't'?",
+    "opts": [
+      "listen",
+      "little",
+      "letter",
+      "metal"
+    ],
+    "ans": 0,
+    "exp": "'Listen' has a silent 't'. We just don't pronounce it when we say the word, even though it's written there."
+  },
+  {
+    "type": "std",
+    "q": "In oral communication, 'intonation' refers to:",
+    "opts": [
+      "The loudness of the voice",
+      "The rise and fall in the pitch of the voice",
+      "The speed at which words are spoken",
+      "The pronunciation of individual letters"
+    ],
+    "ans": 1,
+    "exp": "Intonation is all about the musicality of your voice, you see. It’s how the pitch goes up and down to convey meaning."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'biology'?",
+    "opts": [
+      "First syllable",
+      "Third syllable",
+      "Second syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "For 'biology,' the stress is on the second syllable: bi-OL-o-gy. That's the part that sounds strongest when you say it."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>mind</u>?",
+    "opts": [
+      "find",
+      "mint",
+      "wind",
+      "ring"
+    ],
+    "ans": 0,
+    "exp": "Indeed! 'Mind' and 'find' share the same ending sound, making them rhyme beautifully."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'We must act *now*,' the stress on 'now' emphasizes:",
+    "opts": [
+      "A delay",
+      "Urgency",
+      "A future plan",
+      "Confusion"
+    ],
+    "ans": 1,
+    "exp": "Stressing 'now' really drives home the point that immediate action is needed. It shows there's no time to waste!"
+  },
+  {
+    "type": "std",
+    "q": "Which word is a homophone of 'knight'?",
+    "opts": [
+      "night",
+      "neat",
+      "net",
+      "not"
+    ],
+    "ans": 0,
+    "exp": "Yes, 'knight' and 'night' sound exactly the same, though they mean completely different things. They are perfect homophones."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has a silent 'g' when spoken?",
+    "opts": [
+      "gnat",
+      "gate",
+      "gold",
+      "giant"
+    ],
+    "ans": 0,
+    "exp": "The 'g' in 'gnat' is completely silent! You don't make any sound for it when you pronounce the word."
+  },
+  {
+    "type": "std",
+    "q": "When listening to a speech, identifying the speaker's tone helps the listener understand:",
+    "opts": [
+      "The spelling of the words used",
+      "The speaker's attitude or emotion toward the topic",
+      "The exact length of the speech",
+      "The room temperature"
+    ],
+    "ans": 1,
+    "exp": "My dear, the speaker's tone is like their voice color! It shows how they feel about the subject, whether happy, sad, or serious. That's why option B is correct."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'university'?",
+    "opts": [
+      "Second syllable",
+      "First syllable",
+      "Third syllable",
+      "Fourth syllable"
+    ],
+    "ans": 2,
+    "exp": "You see, in 'university', the stress falls on the third syllable: 'ver-SI-ty'. This is where you give the word a little more emphasis when you say it."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>doubt</u>?",
+    "opts": [
+      "shout",
+      "dot",
+      "debt",
+      "dirt"
+    ],
+    "ans": 0,
+    "exp": "When you say 'doubt', the ending sound is like 'out'. 'Shout' also ends with that same 'out' sound, making them rhyme perfectly."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I am *absolutely* certain of the results,' the stress on 'absolutely' shows:",
+    "opts": [
+      "Doubt",
+      "High confidence",
+      "Worry",
+      "Anger"
+    ],
+    "ans": 1,
+    "exp": "Putting extra force on 'absolutely' here shows the speaker is extremely sure and has no doubts at all. It's all about intensity, my friend."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has the same vowel sound as the one in <u>cat</u>?",
+    "opts": [
+      "car",
+      "father",
+      "plaid",
+      "cot"
+    ],
+    "ans": 2,
+    "exp": "The vowel sound in 'cat' is short and sharp. 'Plaid' has exactly that same sound, unlike 'car' or 'cot'."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words contains a silent 'w'?",
+    "opts": [
+      "wrong",
+      "water",
+      "west",
+      "window"
+    ],
+    "ans": 0,
+    "exp": "Simple! In 'wrong', the 'w' is just there for show; it's not pronounced at all. That's why it's silent."
+  },
+  {
+    "type": "std",
+    "q": "When listening for 'signpost words' (like 'firstly', 'however', 'in conclusion'), the listener is:",
+    "opts": [
+      "Trying to find spelling errors",
+      "Following the structure and transition of the speech",
+      "Ignoring the speaker's main points",
+      "Translating words into another language"
+    ],
+    "ans": 1,
+    "exp": "Signpost words are like road signs in a speech, my dear. They guide you through the speaker's thoughts and show how ideas connect."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'education'?",
+    "opts": [
+      "First syllable",
+      "Second syllable",
+      "Third syllable",
+      "Fourth syllable"
+    ],
+    "ans": 2,
+    "exp": "For 'education', the emphasis lands on the third syllable: 'ca-TION'. You hear that stronger beat there."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>weight</u>?",
+    "opts": [
+      "plate",
+      "height",
+      "white",
+      "write"
+    ],
+    "ans": 0,
+    "exp": "Say 'weight' and 'plate' aloud. You'll notice they end with the same vowel and consonant sound, making them rhyme beautifully."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'He is *very* intelligent,' the stress on 'very' acts as:",
+    "opts": [
+      "A question",
+      "An intensifier",
+      "An apology",
+      "An interruption"
+    ],
+    "ans": 1,
+    "exp": "Stressing 'very' here makes the word 'intelligent' sound much stronger. It's an intensifier, showing just how intelligent the person is."
+  },
+  {
+    "type": "std",
+    "q": "Which word is a homophone of 'bare'?",
+    "opts": [
+      "beer",
+      "bar",
+      "bear",
+      "bored"
+    ],
+    "ans": 2,
+    "exp": "A homophone sounds the same but has a different meaning and spelling. 'Bare' and 'bear' sound alike, but 'bear' can be an animal, you see."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words contains a silent 'h'?",
+    "opts": [
+      "ghost",
+      "house",
+      "happy",
+      "heavy"
+    ],
+    "ans": 0,
+    "exp": "In 'ghost', the 'h' is silent. It doesn't affect the sound of the word at all when you pronounce it."
+  },
+  {
+    "type": "std",
+    "q": "When listening to instructions, what is the best strategy to ensure you do not miss a step?",
+    "opts": [
+      "Listen to only the first and last steps",
+      "Take notes of key verbs and sequence words",
+      "Try to memorize every single word spoken",
+      "Interrupt the speaker after every word"
+    ],
+    "ans": 1,
+    "exp": "Taking notes helps you track the steps and remember them better. It's much more effective than trying to keep everything in your head!"
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'celebration'?",
+    "opts": [
+      "First syllable",
+      "Second syllable",
+      "Third syllable",
+      "Fourth syllable"
+    ],
+    "ans": 2,
+    "exp": "When you say 'celebration', the strongest part is the third syllable: 'BRA'. You feel the emphasis there."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>plough</u>?",
+    "opts": [
+      "cow",
+      "rough",
+      "dough",
+      "cough"
+    ],
+    "ans": 0,
+    "exp": "For 'plough', the sound is like 'ow' as in 'cow'. 'Rough', 'dough', and 'cough' have different ending sounds, my dear."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'I did *not* agree to this,' the stress on 'not' emphasizes:",
+    "opts": [
+      "Slight hesitation",
+      "Strong disagreement or denial",
+      "Uncertainty",
+      "Agreement with conditions"
+    ],
+    "ans": 1,
+    "exp": "Excellent! Stressing 'not' shows a strong refusal or denial, my dear. It means the speaker absolutely did not agree to whatever was proposed."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has the same consonant sound as the 's' in 'sugar'?",
+    "opts": [
+      "soap",
+      "sight",
+      "shoe",
+      "sun"
+    ],
+    "ans": 2,
+    "exp": "Well done! The consonant sound in 'sugar' is /ʃ/, like the 'sh' sound you hear in 'shoe'. The other words have different sounds."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words contains a silent 'l'?",
+    "opts": [
+      "should",
+      "sold",
+      "cold",
+      "told"
+    ],
+    "ans": 0,
+    "exp": "That's right! In 'should', the 'l' is silent. We don't pronounce it at all when we say the word. The other options have a pronounced 'l'."
+  },
+  {
+    "type": "std",
+    "q": "In a spoken list like 'apples, oranges, and bananas,' intonation typically:",
+    "opts": [
+      "Falls on all items",
+      "Rises on the first two and falls on the last",
+      "Falls on the first two and rises on the last",
+      "Stays flat on all items"
+    ],
+    "ans": 1,
+    "exp": "Exactly! Intonation typically rises on list items to show there's more to come, and then falls on the very last item to signal the end of the list."
+  },
+  {
+    "type": "std",
+    "q": "Which syllable is stressed in the spoken word 'politics'?",
+    "opts": [
+      "Second syllable",
+      "Third syllable",
+      "First syllable",
+      "None of the above"
+    ],
+    "ans": 2,
+    "exp": "Correct! In 'politics', the main stress falls on the first syllable: PO-li-tics. This is a common stress pattern for many three-syllable words."
+  },
+  {
+    "type": "std",
+    "q": "Which word rhymes with <u>lose</u>?",
+    "opts": [
+      "choose",
+      "close",
+      "loss",
+      "loose"
+    ],
+    "ans": 0,
+    "exp": "Very good! 'Choose' rhymes with 'lose' because they share the same ending vowel and consonant sound. Listen to them: lose, choose."
+  },
+  {
+    "type": "std",
+    "q": "If a speaker says, 'We must find a *better* way,' the stress on 'better' implies:",
+    "opts": [
+      "The current way is perfect.",
+      "The current way is inadequate and needs improvement.",
+      "We should stop looking for ways.",
+      "There is only one way."
+    ],
+    "ans": 1,
+    "exp": "Precisely! Stressing 'better' clearly tells us the current way is not good enough and we need to find something superior. It highlights dissatisfaction."
+  },
+  {
+    "type": "std",
+    "q": "Which word is a homophone of 'son'?",
+    "opts": [
+      "soon",
+      "song",
+      "sun",
+      "sin"
+    ],
+    "ans": 2,
+    "exp": "Yes, that's absolutely correct! 'Son' and 'sun' sound exactly the same when spoken, even though they are spelled differently and have different meanings."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following words has a silent 'b' when spoken?",
+    "opts": [
+      "debt",
+      "double",
+      "timber",
+      "disturb"
+    ],
+    "ans": 0,
+    "exp": "You got it! In the word 'debt', the 'b' is silent. We don't make that sound when we speak the word. It's a common silent letter."
+  },
+  {
+    "type": "std",
+    "q": "Active listening is highly important in communication because it:",
+    "opts": [
+      "Allows you to think of your reply while the other person is speaking",
+      "Minimizes misunderstandings and shows respect to the speaker",
+      "Forces the speaker to agree with your opinion",
+      "Saves time by cutting the speaker off early"
+    ],
+    "ans": 1,
+    "exp": "That's a great point! Active listening means paying full attention, which helps prevent confusion and shows you value what the speaker is saying."
+  }
+]

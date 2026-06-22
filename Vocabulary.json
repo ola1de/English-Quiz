@@ -1,0 +1,1202 @@
+[
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>ABHOR</u>",
+    "opts": [
+      "Adore",
+      "Detest",
+      "Ignore",
+      "Forgive"
+    ],
+    "ans": 1,
+    "exp": "Abhor means to strongly detest or hate something. So, 'detest' is the closest meaning, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>EPHEMERAL</u>",
+    "opts": [
+      "Eternal",
+      "Fleeting",
+      "Weak",
+      "Sudden"
+    ],
+    "ans": 0,
+    "exp": "Ephemeral means lasting for a very short time, so its opposite is 'eternal', which means lasting forever."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>METICULOUS</u>",
+    "opts": [
+      "Careless",
+      "Hasty",
+      "Thorough",
+      "Sloppy"
+    ],
+    "ans": 2,
+    "exp": "Meticulous means showing great attention to detail. 'Thorough' captures this carefulness perfectly."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>ZENITH</u>",
+    "opts": [
+      "Nadir",
+      "Apex",
+      "Climax",
+      "Summit"
+    ],
+    "ans": 0,
+    "exp": "The zenith is the highest point, the peak. The opposite, or lowest point, is the nadir."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>CAPRICIOUS</u>",
+    "opts": [
+      "Stable",
+      "Unpredictable",
+      "Stingy",
+      "Generous"
+    ],
+    "ans": 1,
+    "exp": "Someone who is capricious is unpredictable and changes their mind often. That's what 'unpredictable' means here."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>FRUGAL</u>",
+    "opts": [
+      "Thrifty",
+      "Stingy",
+      "Extravagant",
+      "Cautious"
+    ],
+    "ans": 2,
+    "exp": "Frugal means careful with money, not wasteful. The opposite is 'extravagant', spending too much."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>LOQUACIOUS</u>",
+    "opts": [
+      "Silent",
+      "Taciturn",
+      "Talkative",
+      "Shy"
+    ],
+    "ans": 2,
+    "exp": "Loquacious simply means someone who talks a lot. So, 'talkative' is the best fit."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>CANDID</u>",
+    "opts": [
+      "Deceptive",
+      "Frank",
+      "Honest",
+      "Sincere"
+    ],
+    "ans": 0,
+    "exp": "Candid means honest and straightforward. The opposite, 'deceptive', means not honest."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>PLACID</u>",
+    "opts": [
+      "Agitated",
+      "Calm",
+      "Noisy",
+      "Wild"
+    ],
+    "ans": 1,
+    "exp": "Placid describes something that is calm and peaceful, like still water. 'Calm' is the closest meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>BENEVOLENT</u>",
+    "opts": [
+      "Malevolent",
+      "Generous",
+      "Kind",
+      "Compassionate"
+    ],
+    "ans": 0,
+    "exp": "Benevolent means well-meaning and kindly. The opposite is 'malevolent', which means having evil wishes."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>PRAGMATIC</u>",
+    "opts": [
+      "Idealistic",
+      "Unrealistic",
+      "Practical",
+      "Theoretical"
+    ],
+    "ans": 2,
+    "exp": "Pragmatic means dealing with things sensibly and realistically. 'Practical' is the best synonym here."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>OBSCURE</u>",
+    "opts": [
+      "Vague",
+      "Clear",
+      "Hidden",
+      "Confusing"
+    ],
+    "ans": 1,
+    "exp": "To obscure something is to make it unclear or hidden. The opposite is 'clear', meaning easy to see or understand."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>LETHARGIC</u>",
+    "opts": [
+      "Sluggish",
+      "Energetic",
+      "Active",
+      "Vibrant"
+    ],
+    "ans": 0,
+    "exp": "Lethargic describes a state of lacking energy or enthusiasm. 'Sluggish' captures that feeling well."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>RESOLUTE</u>",
+    "opts": [
+      "Determined",
+      "Firm",
+      "Irresolute",
+      "Stubborn"
+    ],
+    "ans": 2,
+    "exp": "Resolute means determined and firm in your purpose. Therefore, 'irresolute', meaning not firm, is the opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>INUNDATE</u>",
+    "opts": [
+      "Drain",
+      "Flood",
+      "Dehydrate",
+      "Starve"
+    ],
+    "ans": 1,
+    "exp": "To inundate something means to overwhelm it with a large amount of something, like a flood."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>SPARSELY</u>",
+    "opts": [
+      "Thinly",
+      "Densely",
+      "Rarely",
+      "Lightly"
+    ],
+    "ans": 1,
+    "exp": "Well done! 'Densely' means having parts crowded close together, which is the opposite of 'sparsely'. You see, 'sparsely' means thinly scattered."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>ALACRITY</u>",
+    "opts": [
+      "Eagerness",
+      "Apathy",
+      "Hesitation",
+      "Reluctance"
+    ],
+    "ans": 0,
+    "exp": "Excellent! 'Alacrity' means cheerful readiness, and 'eagerness' captures that spirit perfectly. It's when you want to do something with enthusiasm, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>IMPECCABLE</u>",
+    "opts": [
+      "Faultless",
+      "Perfect",
+      "Flawed",
+      "Beautiful"
+    ],
+    "ans": 2,
+    "exp": "Correct! 'Impeccable' means flawless, so its opposite is something with faults. 'Flawed' means imperfect, which is exactly what we are looking for."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>ADVERSITY</u>",
+    "opts": [
+      "Hardship",
+      "Prosperity",
+      "Success",
+      "Fortune"
+    ],
+    "ans": 0,
+    "exp": "That's right! 'Adversity' refers to difficult or unpleasant situations. 'Hardship' is a very close synonym, describing tough times."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>VAGUE</u>",
+    "opts": [
+      "Unclear",
+      "Precise",
+      "Indistinct",
+      "Fuzzy"
+    ],
+    "ans": 1,
+    "exp": "Good job! 'Vague' means unclear or imprecise. 'Precise' means exact and accurate, making it the perfect opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>CAUSTIC</u>",
+    "opts": [
+      "Mild",
+      "Sweet",
+      "Sarcastic",
+      "Kind"
+    ],
+    "ans": 2,
+    "exp": "Yes! 'Caustic' describes something sharply critical or sarcastic. 'Sarcastic' means using irony to mock or convey contempt, fitting the meaning so well."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>CONCORD</u>",
+    "opts": [
+      "Discord",
+      "Agreement",
+      "Harmony",
+      "Peace"
+    ],
+    "ans": 0,
+    "exp": "Exactly! 'Concord' means agreement or harmony. Its direct opposite is 'discord', which signifies a lack of agreement."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>DILIGENT</u>",
+    "opts": [
+      "Lazy",
+      "Industrious",
+      "Careless",
+      "Indifferent"
+    ],
+    "ans": 1,
+    "exp": "Wonderful! 'Diligent' means showing care and conscientiousness in one's work or duties. 'Industrious' means diligent and hard-working, so they are very close in meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>DESPAIR</u>",
+    "opts": [
+      "Sadness",
+      "Misery",
+      "Hope",
+      "Grief"
+    ],
+    "ans": 2,
+    "exp": "Correct! 'Despair' is the complete absence of hope. 'Hope' is the feeling that what is wanted can be had, making it its direct opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>EMULATE</u>",
+    "opts": [
+      "Imitate",
+      "Reject",
+      "Ignore",
+      "Despise"
+    ],
+    "ans": 0,
+    "exp": "Mmm-hmm! To 'emulate' someone is to try to equal or surpass them by imitating them. So, 'imitate' is the closest meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>TRANSIENT</u>",
+    "opts": [
+      "Temporary",
+      "Permanent",
+      "Brief",
+      "Fleeting"
+    ],
+    "ans": 1,
+    "exp": "Very good! 'Transient' means lasting only for a short time; impermanent. Therefore, 'permanent' is its opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>FUTILE</u>",
+    "opts": [
+      "Successful",
+      "Productive",
+      "Useless",
+      "Effective"
+    ],
+    "ans": 2,
+    "exp": "That's it! 'Futile' means incapable of producing any useful result; pointless. 'Useless' means not !"
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>GARRULOUS</u>",
+    "opts": [
+      "Talkative",
+      "Taciturn",
+      "Chatty",
+      "Loud"
+    ],
+    "ans": 1,
+    "exp": "Precisely! 'Garrulous' means excessively talkative, especially on trivial matters. 'Taciturn' means reserved or uncommunicative in speech; saying little, its opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>HAUGHTY</u>",
+    "opts": [
+      "Arrogant",
+      "Humble",
+      "Modest",
+      "Polite"
+    ],
+    "ans": 0,
+    "exp": "Yes! 'Haughty' describes someone who is arrogantly superior and disdainful. 'Arrogant' captures this meaning perfectly."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>INDOLENT</u>",
+    "opts": [
+      "Lazy",
+      "Sluggish",
+      "Active",
+      "Slow"
+    ],
+    "ans": 2,
+    "exp": "Correct! 'Indolent' means wanting to avoid activity or exertion; lazy. So, 'active' is the clear opposite here, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>MUNDANE</u>",
+    "opts": [
+      "Ordinary",
+      "Extraordinary",
+      "Exciting",
+      "Fantastic"
+    ],
+    "ans": 0,
+    "exp": "My dear, 'mundane' simply means ordinary or common. So, 'Ordinary' is the closest meaning here."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>NOXIOUS</u>",
+    "opts": [
+      "Harmful",
+      "Harmless",
+      "Toxic",
+      "Deadly"
+    ],
+    "ans": 1,
+    "exp": "Noxious things are harmful, so the opposite must be something that does not cause harm. 'Harmless' fits perfectly."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>OBSTINATE</u>",
+    "opts": [
+      "Compliant",
+      "Flexible",
+      "Stubborn",
+      "Yielding"
+    ],
+    "ans": 2,
+    "exp": "'Obstinate' means refusing to change one's mind or course of action, which is exactly what 'stubborn' means."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>PACIFY</u>",
+    "opts": [
+      "Agitate",
+      "Calm",
+      "Soothe",
+      "Appease"
+    ],
+    "ans": 0,
+    "exp": "To 'pacify' is to calm someone down. The opposite action is to make them agitated or angry, hence 'Agitate'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>QUERULOUS</u>",
+    "opts": [
+      "Cheerful",
+      "Complaining",
+      "Silent",
+      "Happy"
+    ],
+    "ans": 1,
+    "exp": "A 'querulous' person is someone who is complaining a lot. So, 'Complaining' is the nearest meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>REDUNDANT</u>",
+    "opts": [
+      "Excessive",
+      "Superfluous",
+      "Necessary",
+      "Unneeded"
+    ],
+    "ans": 2,
+    "exp": "If something is 'redundant', it's no longer needed and can be removed. The opposite is something that is essential, like 'Necessary'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>SANCTION</u>",
+    "opts": [
+      "Prohibit",
+      "Approve",
+      "Ban",
+      "Oppose"
+    ],
+    "ans": 1,
+    "exp": "When you 'sanction' something, you give official approval or permission. So, 'Approve' is the best match."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>TENTATIVE</u>",
+    "opts": [
+      "Definite",
+      "Uncertain",
+      "Conditional",
+      "Hesitant"
+    ],
+    "ans": 0,
+    "exp": "Something 'tentative' is not certain or fixed. The direct opposite is something that is fully decided, like 'Definite'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>USURP</u>",
+    "opts": [
+      "Surrender",
+      "Yield",
+      "Seize",
+      "Relinquish"
+    ],
+    "ans": 2,
+    "exp": "'Usurp' means to take someone's power or position by force. 'Seize' captures this forceful taking."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>VIGILANT</u>",
+    "opts": [
+      "Careless",
+      "Watchful",
+      "Alert",
+      "Cautious"
+    ],
+    "ans": 0,
+    "exp": "'Vigilant' means keeping careful watch for possible danger or difficulties. The opposite is to be unconcerned or 'Careless'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>WRATH</u>",
+    "opts": [
+      "Happiness",
+      "Anger",
+      "Calmness",
+      "Joy"
+    ],
+    "ans": 1,
+    "exp": "To feel 'wrath' is to experience intense anger. Therefore, 'Anger' is the closest synonym."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>ZEALOUS</u>",
+    "opts": [
+      "Enthusiastic",
+      "Passionate",
+      "Apathetic",
+      "Eager"
+    ],
+    "ans": 2,
+    "exp": "'Zealous' means having great energy or enthusiasm in pursuit of a cause or objective. The opposite is to be indifferent or uncaring, hence 'Apathetic'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>AMBIGUOUS</u>",
+    "opts": [
+      "Clear",
+      "Unclear",
+      "Obvious",
+      "Plain"
+    ],
+    "ans": 1,
+    "exp": "When something is 'ambiguous', it's not clear or has more than one possible meaning. 'Unclear' is the closest option."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>BELLIGERENT</u>",
+    "opts": [
+      "Peaceful",
+      "Aggressive",
+      "Hostile",
+      "Combative"
+    ],
+    "ans": 0,
+    "exp": "Someone who is 'belligerent' is hostile and aggressive. The opposite behaviour is to be inclined towards peace, like 'Peaceful'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>COGNIZANT</u>",
+    "opts": [
+      "Ignorant",
+      "Unaware",
+      "Aware",
+      "Indifferent"
+    ],
+    "ans": 2,
+    "exp": "'Cognizant' means having knowledge or awareness of something. Thus, to be 'Aware' is the closest meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>DEARTH</u>",
+    "opts": [
+      "Abundance",
+      "Scarcity",
+      "Lack",
+      "Shortage"
+    ],
+    "ans": 0,
+    "exp": "'Dearth' means a lack or shortage of something, my dear. So, 'abundance', which means a large quantity, is the opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>EGREGIOUS</u>",
+    "opts": [
+      "Outstanding",
+      "Terrible",
+      "Mild",
+      "Minor"
+    ],
+    "ans": 1,
+    "exp": "'Egregious' means outstandingly bad, so 'terrible' is the closest meaning here. It's when something is really, really bad."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>FASTIDIOUS</u>",
+    "opts": [
+      "Meticulous",
+      "Particular",
+      "Sloppy",
+      "Demanding"
+    ],
+    "ans": 2,
+    "exp": "'Fastidious' is about being very careful and paying attention to detail. 'Sloppy' is the opposite, meaning done carelessly."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>GREGARIOUS</u>",
+    "opts": [
+      "Sociable",
+      "Shy",
+      "Reserved",
+      "Solitary"
+    ],
+    "ans": 0,
+    "exp": "Oh, 'gregarious' simply means fond of company, liking to be with people. 'Sociable' captures that perfectly."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>HYPOCRISY</u>",
+    "opts": [
+      "Deceit",
+      "Sincerity",
+      "Pretence",
+      "Dishonesty"
+    ],
+    "ans": 1,
+    "exp": "'Hypocrisy' is pretending to have beliefs or feelings you don't actually have. 'Sincerity', meaning genuinely holding those beliefs, is its opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>IMMUTABLE</u>",
+    "opts": [
+      "Flexible",
+      "Variable",
+      "Unchangeable",
+      "Temporary"
+    ],
+    "ans": 2,
+    "exp": "'Immutable' means something that cannot be changed. So, 'unchangeable' is its direct synonym, you see."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>JOVIAL</u>",
+    "opts": [
+      "Cheerful",
+      "Gloomy",
+      "Happy",
+      "Friendly"
+    ],
+    "ans": 1,
+    "exp": "'Jovial' describes someone cheerful and friendly. The opposite state would be feeling 'gloomy' or sad."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>LAMENT</u>",
+    "opts": [
+      "Mourn",
+      "Rejoice",
+      "Celebrate",
+      "Laugh"
+    ],
+    "ans": 0,
+    "exp": "'Lament' means to express deep sorrow or regret. Therefore, 'mourn' is the closest meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>MALICIOUS</u>",
+    "opts": [
+      "Spiteful",
+      "Hostile",
+      "Benevolent",
+      "Hurtful"
+    ],
+    "ans": 2,
+    "exp": "'Malicious' describes intending or intending to do harm. 'Benevolent', meaning well-meaning and kindly, is the opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>NEBULOUS</u>",
+    "opts": [
+      "Vague",
+      "Clear",
+      "Distinct",
+      "Sharp"
+    ],
+    "ans": 0,
+    "exp": "'Nebulous' means hazy or unclear, like a fog. 'Vague' is the best fit because it also means not clearly expressed or defined."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>OMNIPOTENT</u>",
+    "opts": [
+      "All-powerful",
+      "Powerless",
+      "Strong",
+      "mighty"
+    ],
+    "ans": 1,
+    "exp": "An 'omnipotent' being is all-powerful. The direct opposite, therefore, is 'powerless'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>PENSIVE</u>",
+    "opts": [
+      "Cheerful",
+      "Careless",
+      "Thoughtful",
+      "Active"
+    ],
+    "ans": 2,
+    "exp": "'Pensive' means engaged in deep or serious thought. 'Thoughtful' is the closest word to describe this state."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>QUIXOTIC</u>",
+    "opts": [
+      "Practical",
+      "Idealistic",
+      "Unrealistic",
+      "Romantic"
+    ],
+    "ans": 0,
+    "exp": "'Quixotic' means exceedingly idealistic, unrealistic, and impractical. Thus, 'practical' is the opposite."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>RECALCITRANT</u>",
+    "opts": [
+      "Obedient",
+      "Disobedient",
+      "Submissive",
+      "Compliant"
+    ],
+    "ans": 1,
+    "exp": "'Recalcitrant' means stubbornly disobedient or resistant to authority. 'Disobedient' is the most fitting synonym."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>SCRUPULOUS</u>",
+    "opts": [
+      "Meticulous",
+      "Honest",
+      "Dishonest",
+      "Careful"
+    ],
+    "ans": 2,
+    "exp": "'Scrupulous' means diligent, thorough, and extremely attentive to details, often implying honesty. The opposite would be 'dishonest'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>TRIVIAL</u>",
+    "opts": [
+      "Important",
+      "Insignificant",
+      "Significant",
+      "Crucial"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'trivial' means something not important or valuable. So, 'insignificant' is the closest meaning here, you see. It means lacking importance or worth."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>UBIQUITOUS</u>",
+    "opts": [
+      "Rare",
+      "Omnipresent",
+      "Common",
+      "Widespread"
+    ],
+    "ans": 0,
+    "exp": "'Ubiquitous' means found everywhere, common. The opposite, of course, is something that's not common at all, hence 'rare'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>VOCIFEROUS</u>",
+    "opts": [
+      "Quiet",
+      "Silent",
+      "Loud",
+      "Soft"
+    ],
+    "ans": 2,
+    "exp": "When someone is 'vociferous', they are very loud and vocal in their opinions. So, 'loud' is indeed the nearest meaning. It means expressing something forcefully."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>WARY</u>",
+    "opts": [
+      "Trusting",
+      "Cautious",
+      "Suspicious",
+      "Careful"
+    ],
+    "ans": 0,
+    "exp": "To be 'wary' means to be cautious or suspicious of danger or problems. The opposite would be to be unconcerned and trusting. That's why 'trusting' is correct."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>XENOPHOBIA</u>",
+    "opts": [
+      "Generosity",
+      "Fear of foreigners",
+      "Love of travel",
+      "Tolerance"
+    ],
+    "ans": 1,
+    "exp": "'Xenophobia' is simply the dislike or prejudice against people from other countries. So, 'fear of foreigners' is the correct meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>YIELD</u>",
+    "opts": [
+      "Surrender",
+      "Submit",
+      "Resist",
+      "Give in"
+    ],
+    "ans": 2,
+    "exp": "'Yield' means to give way or surrender. The opposite, therefore, is to stand firm and not give in, which is 'resist'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>ACUMEN</u>",
+    "opts": [
+      "Shrewdness",
+      "Ignorance",
+      "Stupidity",
+      "Foolishness"
+    ],
+    "ans": 0,
+    "exp": "'Acumen' refers to the ability to make good judgments and quick decisions. 'Shrewdness' perfectly captures this skill in business or practical matters."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>BOLSTER</u>",
+    "opts": [
+      "Support",
+      "Weaken",
+      "Strengthen",
+      "Reinforce"
+    ],
+    "ans": 1,
+    "exp": "To 'bolster' something means to support or strengthen it. The exact opposite would be to make it weaker, hence 'weaken' is the correct answer."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>CONSPICUOUS</u>",
+    "opts": [
+      "Hidden",
+      "Unnoticeable",
+      "Noticeable",
+      "Vague"
+    ],
+    "ans": 2,
+    "exp": "'Conspicuous' means clearly visible, easily noticed. Therefore, 'noticeable' is the nearest in meaning. It stands out."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>DEFER</u>",
+    "opts": [
+      "Delay",
+      "Hasten",
+      "Postpone",
+      "Suspend"
+    ],
+    "ans": 1,
+    "exp": "When we 'defer' something, we postpone it or make it later. The opposite action is to make it happen sooner, so 'hasten' is correct."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>ELUCIDATE</u>",
+    "opts": [
+      "Explain",
+      "Confuse",
+      "Complicate",
+      "Obscure"
+    ],
+    "ans": 0,
+    "exp": "To 'elucidate' simply means to make something clear or explain it. 'Explain' is the direct synonym for this word."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>FORTUITOUS</u>",
+    "opts": [
+      "Accidental",
+      "Lucky",
+      "Planned",
+      "Unplanned"
+    ],
+    "ans": 2,
+    "exp": "Something 'fortuitous' happens by chance, often in a lucky way. The opposite is something that was deliberately planned, not left to chance."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>GULLIBLE</u>",
+    "opts": [
+      "Trusting",
+      "Suspicious",
+      "Skeptical",
+      "Shrewd"
+    ],
+    "ans": 0,
+    "exp": "'Gullible' means easily persuaded to believe something; credulous. So, a 'trusting' person is very close in meaning."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>IMPARTIAL</u>",
+    "opts": [
+      "Neutral",
+      "Biased",
+      "Fair",
+      "Objective"
+    ],
+    "ans": 1,
+    "exp": "'Impartial' means treating all rivals or disputants equally; fair and just. The opposite is showing favouritism, which is 'biased'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>JUDICIOUS</u>",
+    "opts": [
+      "Foolish",
+      "Rash",
+      "Wise",
+      "Careless"
+    ],
+    "ans": 2,
+    "exp": "'Judicious' means using or showing good judgment. Someone who is 'wise' makes sensible decisions and has good judgment."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>KINDLE</u>",
+    "opts": [
+      "Extinguish",
+      "Ignite",
+      "Excite",
+      "Rouse"
+    ],
+    "ans": 0,
+    "exp": "Well done! 'Kindle' means to ignite or start a fire. The opposite, 'extinguish', means to put it out. Simple as that, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>LUCID</u>",
+    "opts": [
+      "Confusing",
+      "Clear",
+      "Obscure",
+      "Vague"
+    ],
+    "ans": 1,
+    "exp": "Exactly! 'Lucid' describes something that is easy to understand, so 'clear' is the best synonym here. You see, it means transparent."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>MUTED</u>",
+    "opts": [
+      "Silent",
+      "Soft",
+      "Loud",
+      "Quiet"
+    ],
+    "ans": 2,
+    "exp": "Correct! 'Muted' means quiet or soft, so the opposite is 'loud'. Think of a sound that is turned up high."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>NEFARIOUS</u>",
+    "opts": [
+      "Noble",
+      "Wicked",
+      "Honorable",
+      "Good"
+    ],
+    "ans": 1,
+    "exp": "Yes, 'nefarious' means wicked or evil. So, 'wicked' is the closest option. It describes someone or something very bad."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>OPTIMISTIC</u>",
+    "opts": [
+      "Pessimistic",
+      "Hopeful",
+      "Cheerful",
+      "Positive"
+    ],
+    "ans": 0,
+    "exp": "That's right! 'Optimistic' means hopeful about the future. The direct opposite is 'pessimistic', which means expecting the worst."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>PARTISAN</u>",
+    "opts": [
+      "Neutral",
+      "Unbiased",
+      "Biased",
+      "Fair"
+    ],
+    "ans": 2,
+    "exp": "Well done! 'Partisan' means showing strong support for one side. Therefore, 'biased' is the closest in meaning. They aren't neutral."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>REVERE</u>",
+    "opts": [
+      "Despise",
+      "Respect",
+      "Honor",
+      "Admire"
+    ],
+    "ans": 0,
+    "exp": "Correct! 'Revere' means to deeply respect or admire someone. The opposite is 'despise', which means to hate them strongly. Good one!"
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>SURREPTITIOUS</u>",
+    "opts": [
+      "Open",
+      "Secretive",
+      "Public",
+      "Frank"
+    ],
+    "ans": 1,
+    "exp": "Yes, 'surreptitious' means done secretly. So, 'secretive' is the best synonym. It's about not wanting to be noticed."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>TACTFUL</u>",
+    "opts": [
+      "Polite",
+      "Discreet",
+      "Rude",
+      "Sensitive"
+    ],
+    "ans": 2,
+    "exp": "Exactly! 'Tactful' means handling a situation with sensitivity. The opposite of being sensitive and careful is to be 'rude'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>UNCOUTH</u>",
+    "opts": [
+      "Rude",
+      "Polite",
+      "Refined",
+      "Elegant"
+    ],
+    "ans": 0,
+    "exp": "Correct! 'Uncouth' means lacking good manners, refinement, or grace. That's why 'rude' is the closest meaning. Not very polite at all."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>VORACIOUS</u>",
+    "opts": [
+      "Greedy",
+      "Satisfied",
+      "Hungry",
+      "Eager"
+    ],
+    "ans": 1,
+    "exp": "Well done! 'Voracious' means having a very eager approach to an activity, like eating a lot. The opposite is being 'satisfied'."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>WISTFUL</u>",
+    "opts": [
+      "Happy",
+      "Vibrant",
+      "Yearning",
+      "Cheerful"
+    ],
+    "ans": 2,
+    "exp": "Yes, 'wistful' means having or showing a feeling of vague or regretful longing. So, 'yearning' captures that feeling best. You're getting it!"
+  },
+  {
+    "type": "std",
+    "q": "Choose the option opposite in meaning to: <u>XENIAL</u>",
+    "opts": [
+      "Hospitable",
+      "Hostile",
+      "Friendly",
+      "Kind"
+    ],
+    "ans": 1,
+    "exp": "Correct! 'Xenial' relates to hospitality between a host and a guest. The opposite is 'hostile', meaning unfriendly or dangerous."
+  },
+  {
+    "type": "std",
+    "q": "Choose the option nearest in meaning to: <u>ZEST</u>",
+    "opts": [
+      "Enthusiasm",
+      "Apathy",
+      "Boredom",
+      "Dullness"
+    ],
+    "ans": 0,
+    "exp": "Exactly! 'Zest' means great enthusiasm and energy. So, 'enthusiasm' is the closest synonym. It's a lively spirit!"
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to kick the bucket' means:",
+    "opts": [
+      "Start a project",
+      "Express anger",
+      "Pass away",
+      "Wash a car"
+    ],
+    "ans": 2,
+    "exp": "Correct! 'To kick the bucket' is an informal idiom that means to die. So 'pass away' is the best meaning here."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to spill the beans' means:",
+    "opts": [
+      "Reveal a secret",
+      "Waste food",
+      "Make a mistake",
+      "Clean the floor"
+    ],
+    "ans": 0,
+    "exp": "My dear, 'to spill the beans' simply means to reveal a secret, often unintentionally. It's like letting out information that was meant to be kept hidden."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'once in a blue moon' refers to an event that happens:",
+    "opts": [
+      "Frequently",
+      "Very rarely",
+      "Every month",
+      "At night"
+    ],
+    "ans": 1,
+    "exp": "This idiom means something happens very rarely, not regularly like every month or frequently. Think of how uncommon a 'blue moon' actually is!"
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to burn the midnight oil' means to:",
+    "opts": [
+      "Waste fuel",
+      "Cause an accident",
+      "Work late into the night",
+      "Light a fire"
+    ],
+    "ans": 2,
+    "exp": "Working late into the night, often to finish a task or study, is what 'burning the midnight oil' means. It's about putting in extra hours when it's dark, you see."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to bite the bullet' means to:",
+    "opts": [
+      "Face a difficult situation with courage",
+      "Make a bad mistake",
+      "Avoid responsibility",
+      "Argue loudly"
+    ],
+    "ans": 0,
+    "exp": "When you 'bite the bullet', you courageously face a tough or unpleasant situation without complaining. You accept the challenge head-on."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'under the weather' means to feel:",
+    "opts": [
+      "Angry",
+      "Unwell",
+      "Excited",
+      "Happy"
+    ],
+    "ans": 1,
+    "exp": "Feeling 'under the weather' is a common way to say you are feeling a bit unwell or sick. It's not about strong emotions, just a mild illness."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to let the cat out of the bag' means to:",
+    "opts": [
+      "Release a pet",
+      "Lose control",
+      "Reveal a secret accidentally",
+      "Buy a cat"
+    ],
+    "ans": 2,
+    "exp": "This means revealing a secret, but usually by accident. It's like the secret just slipped out when it wasn't planned, my dear."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to cry over spilt milk' means to:",
+    "opts": [
+      "Complain about food quality",
+      "Worry about past mistakes that cannot be undone",
+      "Cry easily",
+      "Clean up a mess"
+    ],
+    "ans": 1,
+    "exp": "There's no use worrying about things that have already happened and cannot be changed. 'Crying over spilt milk' means regretting past mistakes unnecessarily."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'on the fence' means to be:",
+    "opts": [
+      "Undecided",
+      "Safe",
+      "In danger",
+      "Angry"
+    ],
+    "ans": 0,
+    "exp": "When you are 'on the fence', you haven't made a decision yet. You are undecided between two or more options."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'a blessing in disguise' refers to:",
+    "opts": [
+      "A bad event with no solution",
+      "An obvious reward",
+      "A good thing that seemed bad at first",
+      "A secret gift"
+    ],
+    "ans": 2,
+    "exp": "Something that 'looks like a blessing in disguise' initially seems unfortunate, but turns out to be beneficial in the end. It's a hidden advantage."
+  },
+  {
+    "type": "std",
+    "q": "The idiom 'to beat around the bush' means to:",
+    "opts": [
+      "Talk directly",
+      "Avoid coming to the point",
+      "Clear a forest",
+      "Make a noisy speech"
+    ],
+    "ans": 1,
+    "exp": "Talking indirectly instead of getting straight to the main topic is what 'beating around the bush' means. It's about avoiding the main point, you see."
+  }
+]

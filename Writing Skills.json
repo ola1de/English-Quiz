@@ -1,0 +1,1202 @@
+[
+  {
+    "type": "std",
+    "q": "Identify the sentence that has parallel structure:",
+    "opts": [
+      "She likes swimming, to dance, and playing tennis.",
+      "She likes to swim, dance, and playing tennis.",
+      "She likes swimming, dancing, and playing tennis.",
+      "She likes to swim, dancing, and plays tennis."
+    ],
+    "ans": 2,
+    "exp": "Well done! Option C is correct because all the verbs use the -ing form, making the sentence flow smoothly. This consistency is what we call parallel structure, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is a comma splice?",
+    "opts": [
+      "The weather was beautiful, we decided to walk.",
+      "The weather was beautiful; we decided to walk.",
+      "Because the weather was beautiful, we decided to walk.",
+      "The weather was beautiful, so we decided to walk."
+    ],
+    "ans": 0,
+    "exp": "Remember, a comma splice happens when you join two complete sentences with only a comma. Option A does this, connecting 'The weather was beautiful' and 'we decided to walk' incorrectly."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence with a dangling modifier:",
+    "opts": [
+      "Walking down the street, I saw beautiful autumn trees.",
+      "Walking down the street, the trees looked beautiful in the autumn sun.",
+      "While I walked down the street, the trees looked beautiful.",
+      "I walked down the street and admired the beautiful trees."
+    ],
+    "ans": 1,
+    "exp": "This is a classic dangling modifier! In option B, 'Walking down the street' seems to describe the trees, not the person walking. The subject performing the action should be closer to the modifying phrase."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is the most concise way to express the idea?",
+    "opts": [
+      "In the event that it rains, we will cancel the picnic.",
+      "If it rains, we will cancel the picnic.",
+      "Due to the fact that it might rain, we will cancel the picnic.",
+      "Under rainy conditions, the cancellation of the picnic will occur."
+    ],
+    "ans": 1,
+    "exp": "You see, option B is the most direct and clear way to say this. It avoids unnecessary phrases like 'in the event that' and gets straight to the point."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is correctly punctuated?",
+    "opts": [
+      "We visited several cities, including Paris, Rome, and London.",
+      "We visited several cities including; Paris, Rome, and London.",
+      "We visited several cities: including Paris, Rome and London.",
+      "We visited several cities including, Paris, Rome, and London."
+    ],
+    "ans": 0,
+    "exp": "Option A is the winner! When you list items after a general statement like 'several cities,' you use commas to separate them, and 'including' doesn't need extra punctuation around it."
+  },
+  {
+    "type": "std",
+    "q": "Identify the transition word that best shows contrast:",
+    "opts": [
+      "Furthermore",
+      "Consequently",
+      "On the other hand",
+      "In addition"
+    ],
+    "ans": 2,
+    "exp": "That's right! 'On the other hand' is used to introduce an opposing idea or a contrast, making it perfect for showing a difference between two points."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is a fragment?",
+    "opts": [
+      "Although she studied hard for the test.",
+      "She studied hard for the test.",
+      "She passed the test because she studied hard.",
+      "Studying hard helped her pass the test."
+    ],
+    "ans": 0,
+    "exp": "This is a sentence fragment because it's an incomplete thought. The word 'Although' makes it dependent on another clause to make sense, similar to a dependent puzzle piece."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence with correct capitalization:",
+    "opts": [
+      "My Uncle went to Paris last Summer to study French.",
+      "My uncle went to Paris last summer to study French.",
+      "My Uncle went to Paris last summer to study french.",
+      "My uncle went to paris last Summer to study French."
+    ],
+    "ans": 1,
+    "exp": "Correct! Proper nouns like 'Paris' and 'Summer' need capitalization, but everyday words like 'uncle' and 'summer' should be lowercase unless they start a sentence."
+  },
+  {
+    "type": "std",
+    "q": "Which option avoids unnecessary wordiness (redundancy)?",
+    "opts": [
+      "He returned back to his home at 10 PM in the evening.",
+      "He returned to his home at 10 PM in the evening.",
+      "He returned home at 10 PM.",
+      "He went back returned to his home at 10 PM."
+    ],
+    "ans": 2,
+    "exp": "Fantastic! 'He returned home at 10 PM' is the most efficient. We don't need 'back' because 'returned' already means 'went back,' and 'home' can stand alone."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence that uses semicolons correctly:",
+    "opts": [
+      "I wanted to buy the book; however, the store was closed.",
+      "I wanted to buy the book, however; the store was closed.",
+      "I wanted to buy the book; however the store was closed.",
+      "I wanted to buy; the book, however, the store was closed."
+    ],
+    "ans": 0,
+    "exp": "Option A is correct because the semicolon effectively links two closely related independent clauses. 'However' is correctly placed after the semicolon and followed by a comma."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following sentences has a misplaced modifier?",
+    "opts": [
+      "The dog chased the cat that was wearing a red collar.",
+      "Wearing a red collar, the dog chased the cat.",
+      "The dog, which was wearing a red collar, chased the cat.",
+      "The dog chased the cat while wearing a red collar."
+    ],
+    "ans": 1,
+    "exp": "This is a misplaced modifier. In option B, 'Wearing a red collar' modifies 'the trees,' which isn't logical. The modifier should be closer to what it's describing – the dog."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is a run-on sentence?",
+    "opts": [
+      "He loved to read, so he bought many books.",
+      "He loved to read; he bought many books.",
+      "He loved to read he bought many books.",
+      "Because he loved to read, he bought many books."
+    ],
+    "ans": 2,
+    "exp": "Exactly! Option C is a run-on because it joins two complete sentences ('He loved to read' and 'he bought many books') without any punctuation or conjunction. It's like two trains on the same track without a signal!"
+  },
+  {
+    "type": "std",
+    "q": "Which transition word best indicates a cause-and-effect relationship?",
+    "opts": [
+      "Consequently",
+      "Similarly",
+      "In contrast",
+      "For example"
+    ],
+    "ans": 0,
+    "exp": "Yes, 'Consequently' fits perfectly here. It means 'as a result,' showing that the second part of the sentence happened because of the first part."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses quotation marks correctly?",
+    "opts": [
+      "'I love writing,' said Sarah, 'it is my favorite hobby.'",
+      "Sarah said that she 'loved writing.'",
+      "Sarah said, 'I love writing; it is my favorite hobby.'",
+      "Sarah said, 'I love writing', it is my favorite hobby."
+    ],
+    "ans": 2,
+    "exp": "This is the correct way to handle direct quotes. Option C uses the semicolon inside the quotation marks to join two related parts of the quoted sentence."
+  },
+  {
+    "type": "std",
+    "q": "Which option is written in the active voice?",
+    "opts": [
+      "The report was written by the manager.",
+      "The manager wrote the report.",
+      "The report has been written by the manager.",
+      "A report is being written by the manager."
+    ],
+    "ans": 1,
+    "exp": "Option B is the active voice hero! The subject, 'the manager,' is clearly performing the action 'wrote the report.' It's direct and to the point."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence with correct subject-verb agreement:",
+    "opts": [
+      "The criteria for the essay contest are very clear.",
+      "The criteria for the essay contest is very clear.",
+      "The criterion for the essay contest are very clear.",
+      "The criteria for the essay contest was very clear."
+    ],
+    "ans": 0,
+    "exp": "My dear, 'criteria' is a plural noun, so it needs a plural verb 'are' to agree with it. Remember, the singular form is 'criterion'."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence avoids the use of a double negative?",
+    "opts": [
+      "I don't have no money left.",
+      "I have no money left.",
+      "I don't got no money left.",
+      "I haven't got no money left."
+    ],
+    "ans": 1,
+    "exp": "This sentence uses 'no' correctly to indicate absence, avoiding the redundancy of a double negative. Simply put, it's clear and direct."
+  },
+  {
+    "type": "std",
+    "q": "Which is the most formal sentence suitable for an academic essay?",
+    "opts": [
+      "The results of the study were pretty cool.",
+      "The study results were totally unexpected.",
+      "The findings of the study were statistically significant.",
+      "The study found some really neat things."
+    ],
+    "ans": 2,
+    "exp": "This sentence is the most formal because it uses precise, academic language like 'findings' and 'statistically significant', which is common in scholarly writing."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence that uses apostrophes correctly:",
+    "opts": [
+      "The students' essays were all graded on Tuesday.",
+      "The student's essays' were all graded on Tuesday.",
+      "The students' essay's were all graded on Tuesday.",
+      "The students essays were all graded on Tuesday."
+    ],
+    "ans": 0,
+    "exp": "The apostrophe in 'students'' correctly shows possession for multiple students, and 'essays' is the plural noun of the thing possessed. So, it's the essays belonging to the students."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses the colon correctly?",
+    "opts": [
+      "You will need: a pencil, paper, and an eraser.",
+      "You will need a pencil: paper and an eraser.",
+      "You will need the following items: a pencil, paper, and an eraser.",
+      "You will need a pencil, paper: and an eraser."
+    ],
+    "ans": 2,
+    "exp": "A colon is used correctly here to introduce a list after a complete sentence. The phrase 'the following items' sets up the items that will follow."
+  },
+  {
+    "type": "std",
+    "q": "Which transition word is used to add information?",
+    "opts": [
+      "However",
+      "Furthermore",
+      "Conversely",
+      "Therefore"
+    ],
+    "ans": 1,
+    "exp": "My dear, 'furthermore' is used to add another point or piece of information, showing a continuation of the same idea. It helps build your argument."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence that has a parallel list of adjectives:",
+    "opts": [
+      "The task was difficult, exhausting, and demanded a lot of time.",
+      "The task was difficult, exhausting, and time-consuming.",
+      "The task was a difficulty, exhausting, and took time.",
+      "The task was difficult, exhausted, and time-consuming."
+    ],
+    "ans": 1,
+    "exp": "This option uses parallel structure by employing '-ing' forms for all adjectives describing the task: difficult, exhausting, and time-consuming. This makes the sentence flow nicely."
+  },
+  {
+    "type": "std",
+    "q": "Which option is free of dangling modifiers?",
+    "opts": [
+      "Having finished the assignment, the TV was turned on.",
+      "Having finished the assignment, she turned on the TV.",
+      "The TV was turned on, having finished the assignment.",
+      "After finishing the assignment, the TV was turned on by her."
+    ],
+    "ans": 1,
+    "exp": "This sentence is correct because the introductory phrase 'Having finished the assignment' clearly refers to the subject of the main clause, which is 'she'. No confusion there!"
+  },
+  {
+    "type": "std",
+    "q": "Identify the comma splice among the following options:",
+    "opts": [
+      "She wanted to go for a run, but it started to rain.",
+      "Because it started to rain, she did not go for a run.",
+      "She wanted to go for a run, it started to rain.",
+      "She wanted to go for a run; however, it started to rain."
+    ],
+    "ans": 2,
+    "exp": "This is a comma splice because two independent clauses ('She wanted to go for a run' and 'it started to rain') are joined only by a comma. They need stronger punctuation or a conjunction."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is written in a professional, concise tone?",
+    "opts": [
+      "Please find attached the report you requested.",
+      "Here is the report that you said you wanted me to send.",
+      "I am writing this email to send you the report you asked for.",
+      "The report you asked me to write is attached in this email."
+    ],
+    "ans": 0,
+    "exp": "Option A is the most concise and professional. It gets straight to the point without unnecessary words, which is ideal for formal communication."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses the hyphen correctly?",
+    "opts": [
+      "He is a well known writer.",
+      "He is a well-known writer.",
+      "He is a well-known-writer.",
+      "He is a well known-writer."
+    ],
+    "ans": 1,
+    "exp": "When a compound adjective like 'well known' comes before the noun it modifies ('writer'), you need a hyphen to connect the words. This shows they function as a single descriptive unit."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that uses commas correctly in a list with an Oxford comma:",
+    "opts": [
+      "I bought apples, bananas and oranges at the store.",
+      "I bought apples bananas, and oranges at the store.",
+      "I bought apples, bananas, and oranges at the store.",
+      "I bought, apples, bananas and oranges at the store."
+    ],
+    "ans": 2,
+    "exp": "The Oxford comma (the comma before 'and' in a list of three or more items) is used correctly here for clarity. It helps to separate the last two items distinctly."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is a fragment?",
+    "opts": [
+      "Walking down the path toward the old house.",
+      "She was walking down the path toward the old house.",
+      "As she walked down the path, she saw the old house.",
+      "She walked down the path toward the old house."
+    ],
+    "ans": 0,
+    "exp": "This is a sentence fragment because 'Walking down the path toward the old house' is a participial phrase and cannot stand alone as a complete thought. It lacks a subject and a main verb."
+  },
+  {
+    "type": "std",
+    "q": "Which option represents the most formal written style?",
+    "opts": [
+      "We can't accept this proposal under any circumstances.",
+      "We cannot accept this proposal under any circumstances.",
+      "Under no circumstances are we gonna accept this proposal.",
+      "We won't be accepting this proposal at all."
+    ],
+    "ans": 1,
+    "exp": "Using 'cannot' instead of 'can't' and avoiding slang like 'gonna' makes this sentence the most formal. It aligns with the conventions of academic and professional writing."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that correctly uses coordinates with a comma before 'and':",
+    "opts": [
+      "The sun rose, and the birds began to sing.",
+      "The sun rose and, the birds began to sing.",
+      "The sun rose, and the birds, began to sing.",
+      "The sun rose and the birds began to sing."
+    ],
+    "ans": 0,
+    "exp": "This sentence correctly joins two independent clauses with a comma and a coordinating conjunction ('and'). It's a standard way to connect related complete thoughts."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence avoids tautology (needless repetition of the same idea)?",
+    "opts": [
+      "She made a short summary of the book.",
+      "She summarized the book briefly.",
+      "She made a brief summary of the book.",
+      "She summarized the book."
+    ],
+    "ans": 2,
+    "exp": "This sentence is correct because 'brief' already describes the summary, so 'short' would be unnecessary repetition. Simply put, 'brief summary' is enough."
+  },
+  {
+    "type": "std",
+    "q": "Identify the transition word that best signals a concession:",
+    "opts": [
+      "Consequently",
+      "Admittedly",
+      "Therefore",
+      "Moreover"
+    ],
+    "ans": 1,
+    "exp": "Admittedly is the word we use when we agree with a point before making our own. It shows we understand the other side, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence shows correct parallel structure in verbs?",
+    "opts": [
+      "He opened the door, walked inside, and sat down.",
+      "He opened the door, walks inside, and sat down.",
+      "He opened the door, walked inside, and was sitting down.",
+      "He opened the door, walking inside, and sat down."
+    ],
+    "ans": 0,
+    "exp": "Great job! All the verbs here are in the past tense: opened, walked, sat. This makes the sentence flow smoothly and shows good parallel structure."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is punctuated correctly?",
+    "opts": [
+      "The manager who hired me, is no longer with the company.",
+      "The manager who hired me is no longer with the company.",
+      "The manager, who hired me is no longer with the company.",
+      "The manager who hired me is, no longer with the company."
+    ],
+    "ans": 1,
+    "exp": "This sentence correctly uses a restrictive clause (who hired me) without commas, as it's essential to identify which manager we're talking about. Essential information does not need extra punctuation."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence that uses commas correctly with introductory clauses:",
+    "opts": [
+      "Although he was tired he finished his homework.",
+      "Although, he was tired he finished his homework.",
+      "Although he was tired, he finished his homework.",
+      "Although he was tired he, finished his homework."
+    ],
+    "ans": 2,
+    "exp": "You got it! After an introductory clause like 'Although he was tired,' we need a comma to separate it from the main part of the sentence. It guides the reader."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is an editing error related to homophones?",
+    "opts": [
+      "Their are many reasons to learn a second language.",
+      "There are many reasons to learn a second language.",
+      "They're going to learn a second language.",
+      "There is a good reason to learn a second language."
+    ],
+    "ans": 0,
+    "exp": "Ah, 'their' means ownership, but here we need 'there' to talk about existence. It's a common mix-up, but 'There are many reasons...' is the correct way to start this sentence."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence that avoids passive voice:",
+    "opts": [
+      "A mistake was made by the team.",
+      "The team made a mistake.",
+      "A mistake has been made by the team.",
+      "The mistake is being made by the team."
+    ],
+    "ans": 1,
+    "exp": "Excellent! The active voice sentence 'The team made a mistake' is direct and clear. It tells us who did the action immediately."
+  },
+  {
+    "type": "std",
+    "q": "Which punctuation mark is used to connect independent clauses without a coordinating conjunction?",
+    "opts": [
+      "Comma",
+      "Semicolon",
+      "Colon",
+      "Dash"
+    ],
+    "ans": 1,
+    "exp": "A semicolon (;) is used to join two closely related independent clauses that could stand alone as sentences, but we want to keep them together without a conjunction."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that uses capitalization rules correctly:",
+    "opts": [
+      "We visited the Grand Canyon during our trip to the West.",
+      "We visited the grand canyon during our trip to the west.",
+      "We visited the Grand Canyon during our trip to the west.",
+      "We visited the grand Canyon during our trip to the West."
+    ],
+    "ans": 0,
+    "exp": "Exactly! Proper nouns like 'Grand Canyon' and directions used as part of a specific region like 'the West' need capitalization. It's about respect for specific names."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following sentences has a dangling modifier?",
+    "opts": [
+      "To win the race, practice is required daily.",
+      "To win the race, you must practice daily.",
+      "If you want to win the race, you must practice daily.",
+      "Winning the race requires daily practice."
+    ],
+    "ans": 0,
+    "exp": "This is a dangling modifier because 'To win the race' needs a subject to perform the action, but 'practice' is what follows. The sentence should clearly state who is trying to win."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence that uses quotation marks correctly inside a quote:",
+    "opts": [
+      "He said, 'She yelled, \"Stop!\" before she ran away.'",
+      "He said, 'She yelled, \"Stop!\" before she ran away'.",
+      "He said, 'She yelled, Stop! before she ran away.'",
+      "He said: 'She yelled, Stop! before she ran away.'"
+    ],
+    "ans": 0,
+    "exp": "This is correct because the inner quotation mark (\"Stop!\") needs to be a double quote inside the single quote that encloses the entire reported speech. It shows nested quotes properly."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following represents correct sentence structure?",
+    "opts": [
+      "He did not want to go to the party, nonetheless he went.",
+      "He did not want to go to the party; nonetheless, he went.",
+      "He did not want to go to the party, nonetheless, he went.",
+      "He did not want to go to the party nonetheless, he went."
+    ],
+    "ans": 1,
+    "exp": "This sentence correctly uses a semicolon to link two independent clauses that are closely related, followed by a conjunctive adverb 'nonetheless' and a comma. Very neat!"
+  },
+  {
+    "type": "std",
+    "q": "Which option uses a formal transition to introduce an example?",
+    "opts": [
+      "For instance",
+      "Like",
+      "Such as",
+      "Namely"
+    ],
+    "ans": 0,
+    "exp": "For instance is a formal way to begin introducing an example that illustrates a point. It signals a clear shift to illustrative content."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence with parallel structure in infinitive phrases:",
+    "opts": [
+      "To run, to jump, and playing are his favorite activities.",
+      "To run, to jump, and to play are his favorite activities.",
+      "To run, jumping, and playing are his favorite activities.",
+      "To run, to jump, and play are his favorite activities."
+    ],
+    "ans": 1,
+    "exp": "Here, all the infinitive phrases are parallel: 'to run,' 'to jump,' and 'to play.' This consistency makes the sentence grammatically sound and easy to understand."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a run-on sentence?",
+    "opts": [
+      "She wanted to buy a laptop, but she did not have enough money.",
+      "She wanted to buy a laptop she did not have enough money.",
+      "She wanted to buy a laptop; however, she did not have enough money.",
+      "Because she did not have enough money, she could not buy a laptop."
+    ],
+    "ans": 1,
+    "exp": "This is a run-on sentence because two complete thoughts ('She wanted to buy a laptop' and 'she did not have enough money') are joined only by a space, without any punctuation or conjunction. They need to be separated!"
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence that has a misplaced modifier:",
+    "opts": [
+      "We ate hot dogs sitting on the park bench.",
+      "Sitting on the park bench, we ate hot dogs.",
+      "We, sitting on the park bench, ate hot dogs.",
+      "While sitting on the park bench, we ate hot dogs."
+    ],
+    "ans": 0,
+    "exp": "My dear, this sentence places 'sitting on the park bench' awkwardly, making it sound like the hot dogs were on the bench. Option B clearly shows who was on the bench, you see."
+  },
+  {
+    "type": "std",
+    "q": "Choose the correct punctuation for parenthetical elements:",
+    "opts": [
+      "The main character, a brave knight, defeated the dragon.",
+      "The main character, a brave knight defeated the dragon.",
+      "The main character a brave knight, defeated the dragon.",
+      "The main character a brave knight defeated, the dragon."
+    ],
+    "ans": 0,
+    "exp": "Exactly! Commas are used to set off non-essential information, my dear. This helps to make the sentence flow smoothly and separates the descriptive phrase correctly."
+  },
+  {
+    "type": "std",
+    "q": "Which transition word indicates sequence or order?",
+    "opts": [
+      "In contrast",
+      "Subsequently",
+      "In addition",
+      "Therefore"
+    ],
+    "ans": 1,
+    "exp": "That's right! 'Subsequently' means 'after something else happened,' which clearly indicates order or sequence in a sentence."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence with correct capitalization of job titles:",
+    "opts": [
+      "President Biden delivered a speech yesterday.",
+      "The President Biden delivered a speech yesterday.",
+      "President biden delivered a speech yesterday.",
+      "The president Biden delivered a speech yesterday."
+    ],
+    "ans": 0,
+    "exp": "Yes, when a job title comes right before a person's name, like 'President Biden,' it's capitalized. It acts like a proper noun in that context."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence avoids unnecessary wordiness?",
+    "opts": [
+      "I will cooperate together with you on this project.",
+      "I will cooperate with you on this project.",
+      "I will cooperate in a collaborative manner with you on this project.",
+      "I will collaborate and cooperate together with you on this project."
+    ],
+    "ans": 1,
+    "exp": "This option is the most concise. 'Cooperate together' is redundant; 'cooperate' already implies working together. Simplicity is often best!"
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence that uses commas correctly in a compound sentence:",
+    "opts": [
+      "She was tired, yet she finished the project on time.",
+      "She was tired yet, she finished the project on time.",
+      "She was tired yet she finished the project, on time.",
+      "She was tired, yet, she finished the project on time."
+    ],
+    "ans": 0,
+    "exp": "Well done! When you have two independent clauses joined by a coordinating conjunction like 'yet,' you need a comma before the conjunction."
+  },
+  {
+    "type": "std",
+    "q": "Which punctuation mark is used to introduce a block quotation?",
+    "opts": [
+      "Semicolon",
+      "Colon",
+      "Comma",
+      "Dash"
+    ],
+    "ans": 1,
+    "exp": "Correct! A colon is the standard punctuation to introduce a block quotation, signalling that important quoted text is about to follow."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that has a parallel structure using gerunds:",
+    "opts": [
+      "He spent his weekend reading, writing, and to paint.",
+      "He spent his weekend reading, writing, and painting.",
+      "He spent his weekend to read, to write, and to paint.",
+      "He spent his weekend reading, writing, and he painted."
+    ],
+    "ans": 1,
+    "exp": "Lovely! Parallel structure means using the same grammatical form for items in a list. Here, all items are gerunds (-ing words), making it balanced."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following sentences has a dangling modifier?",
+    "opts": [
+      "To obtain a driver's license, a written test must be passed.",
+      "To obtain a driver's license, you must pass a written test.",
+      "If you want to obtain a driver's license, you must pass a written test.",
+      "Passing a written test is required to obtain a driver's license."
+    ],
+    "ans": 0,
+    "exp": "Ah, this one has a dangling modifier. The phrase 'To obtain a driver's license' should refer to the subject performing the action, which is 'you' in option B, not the test itself."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses the apostrophe correctly for plural possession?",
+    "opts": [
+      "The actors' dressing rooms were newly painted.",
+      "The actor's dressing rooms were newly painted.",
+      "The actors dressing' rooms were newly painted.",
+      "The actors dressing rooms' were newly painted."
+    ],
+    "ans": 0,
+    "exp": "You got it! For plural possession (more than one actor), you place the apostrophe after the 's'. This shows the dressing rooms belong to multiple actors."
+  },
+  {
+    "type": "std",
+    "q": "Which transition word signals a comparison?",
+    "opts": [
+      "On the other hand",
+      "Similarly",
+      "Consequently",
+      "For example"
+    ],
+    "ans": 1,
+    "exp": "Precisely! 'Similarly' is used to show how two things are alike, making it a good choice for signalling a comparison."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence with correct capitalization of geographical terms:",
+    "opts": [
+      "The Mississippi River is one of the longest rivers in North America.",
+      "The Mississippi river is one of the longest rivers in North America.",
+      "The mississippi river is one of the longest rivers in North America.",
+      "The Mississippi River is one of the longest Rivers in North America."
+    ],
+    "ans": 0,
+    "exp": "Excellent! Proper nouns like the names of rivers and continents are always capitalized. 'Mississippi River' and 'North America' are specific names."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that is free of redundancy:",
+    "opts": [
+      "The two twins decided to dress in identical outfits.",
+      "The twins decided to dress in identical outfits.",
+      "The twins decided to dress in identical, matching outfits.",
+      "The two twins decided to dress in matching outfits."
+    ],
+    "ans": 1,
+    "exp": "Yes, my dear! 'Twins' already means two people, so saying 'two twins' is redundant. Option B is direct and clear."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a sentence fragment?",
+    "opts": [
+      "Since they had already eaten dinner before we arrived.",
+      "They had already eaten dinner before we arrived.",
+      "Because we arrived late, they had already eaten dinner.",
+      "They ate dinner before we arrived."
+    ],
+    "ans": 0,
+    "exp": "This is a fragment because it starts with 'Since' and can't stand alone as a complete thought. It needs to be connected to an independent clause."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is correctly punctuated with non-restrictive clauses?",
+    "opts": [
+      "My childhood home, which was built in 1920, needs repair.",
+      "My childhood home which was built in 1920, needs repair.",
+      "My childhood home, which was built in 1920 needs repair.",
+      "My childhood home which was built in 1920 needs repair."
+    ],
+    "ans": 0,
+    "exp": "Spot on! Non-restrictive clauses add extra, non-essential information and should be set off by commas. This sentence correctly uses commas around the clause."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence with parallel structure in nouns:",
+    "opts": [
+      "The course offers training in leadership, communication, and how to manage.",
+      "The course offers training in leadership, communication, and management.",
+      "The course offers training in being a leader, communication, and management.",
+      "The course offers training in leadership, communicating, and how to manage."
+    ],
+    "ans": 1,
+    "exp": "Well done, my dear! Option B is correct because 'leadership', 'communication', and 'management' are all nouns, creating a smooth, parallel list. The other options mix noun forms with verb phrases."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a comma splice?",
+    "opts": [
+      "I checked the weather report, it is going to snow tomorrow.",
+      "I checked the weather report; it is going to snow tomorrow.",
+      "Because I checked the weather report, I know it is going to snow tomorrow.",
+      "I checked the weather report, and it is going to snow tomorrow."
+    ],
+    "ans": 0,
+    "exp": "You see, a comma splice happens when you join two independent sentences with only a comma. Option A does exactly this, trying to connect 'I checked the weather report' and 'it is going to snow' with just a comma. The other options use correct punctuation like a semicolon or conjunction."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is written in the active voice?",
+    "opts": [
+      "The championship was won by our team.",
+      "Our team won the championship.",
+      "The championship has been won by our team.",
+      "The championship is being won by our team."
+    ],
+    "ans": 1,
+    "exp": "Excellent! Option B is in the active voice because the subject, 'Our team', is performing the action, 'won'. The other sentences place the object ('the championship') as the subject or use passive verb constructions."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses quotation marks correctly in dialogue?",
+    "opts": [
+      "'Where are you going?' asked James.",
+      "James asked 'where are you going?'",
+      "'Where are you going'? asked James.",
+      "James asked, 'Where are you going'?"
+    ],
+    "ans": 0,
+    "exp": "That's right! Option A correctly uses quotation marks around the spoken words and places the question mark inside the closing quotation mark before the reporting verb 'asked'. This is the standard way to punctuate dialogue."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that uses semicolons correctly in a list with internal punctuation:",
+    "opts": [
+      "We visited Paris, France; Rome, Italy; and Madrid, Spain.",
+      "We visited Paris, France, Rome, Italy, and Madrid, Spain.",
+      "We visited Paris; France, Rome; Italy, and Madrid; Spain.",
+      "We visited Paris, France: Rome, Italy: and Madrid, Spain."
+    ],
+    "ans": 0,
+    "exp": "Correct! Option A uses semicolons to separate items in a list when those items themselves contain commas (like city, country). This helps to clear up any confusion about where each item begins and ends."
+  },
+  {
+    "type": "std",
+    "q": "Which transition word best indicates a summation or conclusion?",
+    "opts": [
+      "Furthermore",
+      "In summary",
+      "On the contrary",
+      "Similarly"
+    ],
+    "ans": 1,
+    "exp": "Exactly! 'In summary' clearly signals that you are about to wrap things up or conclude your thought. The other words indicate adding more information, contrast, or similarity, not ending a point."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that is free of misplaced modifiers:",
+    "opts": [
+      "I found a shiny gold man's watch on the sidewalk.",
+      "I found a man's shiny gold watch on the sidewalk.",
+      "I found a shiny man's gold watch on the sidewalk.",
+      "I found a gold shiny man's watch on the sidewalk."
+    ],
+    "ans": 1,
+    "exp": "Good job! Option B places 'man's' correctly next to 'watch', ensuring it's clear whose watch it is. The adjectives 'shiny' and 'gold' then clearly modify 'watch' without causing confusion."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence with correct capitalization of historical periods:",
+    "opts": [
+      "During the Middle Ages, castles were built across Europe.",
+      "During the middle ages, castles were built across Europe.",
+      "During the Middle ages, castles were built across Europe.",
+      "During the middle Ages, castles were built across Europe."
+    ],
+    "ans": 0,
+    "exp": "Yes, 'Middle Ages' is a specific historical period, so both words need to be capitalized. Option A does this correctly. The other options incorrectly capitalize only one word or neither word."
+  },
+  {
+    "type": "std",
+    "q": "Which option is the most concise?",
+    "opts": [
+      "At this point in time, we are ready to begin.",
+      "Currently, we are ready to begin.",
+      "At the present moment, we are ready to begin.",
+      "Now, at this point in time, we are ready to begin."
+    ],
+    "ans": 1,
+    "exp": "Very good! 'Currently' is a single adverb that means the same as the longer phrases like 'At this point in time' or 'At the present moment'. It's the most direct and concise choice here."
+  },
+  {
+    "type": "std",
+    "q": "Identify the run-on sentence:",
+    "opts": [
+      "I went to the store, and I bought some bread.",
+      "I went to the store I bought some bread.",
+      "I went to the store; I bought some bread.",
+      "After I went to the store, I bought some bread."
+    ],
+    "ans": 1,
+    "exp": "That's correct. Option B is a run-on sentence because it joins two complete thoughts ('I went to the store' and 'I bought some bread') without any punctuation or connecting word. It needs a conjunction, semicolon, or should be two separate sentences."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses the hyphen correctly in a compound adjective?",
+    "opts": [
+      "They lived in a two story building.",
+      "They lived in a two-story building.",
+      "They lived in a two story-building.",
+      "They lived in a-two-story building."
+    ],
+    "ans": 1,
+    "exp": "Super! When a word like 'two' and a word like 'story' work together to describe a noun (like 'building'), you need to join them with a hyphen. Option B does this correctly to show 'two-story' acts as a single descriptive unit."
+  },
+  {
+    "type": "std",
+    "q": "Which punctuation mark is used to set off abrupt interruptions within a sentence?",
+    "opts": [
+      "Semicolon",
+      "Colon",
+      "Dash",
+      "Comma"
+    ],
+    "ans": 2,
+    "exp": "Precisely! A dash is used to show a sudden break in thought or an abrupt interruption within a sentence, much like a pause or an aside. The other punctuation marks serve different functions."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that has a parallel structure using adverbs:",
+    "opts": [
+      "She sang beautifully, passionately, and with loudness.",
+      "She sang beautifully, passionately, and loudly.",
+      "She sang beautiful, passionate, and loudly.",
+      "She sang with beauty, passion, and loudly."
+    ],
+    "ans": 1,
+    "exp": "Fantastic! Option B lists three adverbs ('beautifully', 'passionately', 'loudly') that all modify the verb 'sang'. See how they all end in '-ly' and describe *how* she sang? That's perfect parallel structure."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a sentence fragment?",
+    "opts": [
+      "Having walked all day through the dense forest.",
+      "She walked all day through the dense forest.",
+      "After she walked all day, she rested in the forest.",
+      "While walking all day, she enjoyed the forest."
+    ],
+    "ans": 0,
+    "exp": "Correct! Option A is a fragment because it starts with a participial phrase ('Having walked all day...') and doesn't have a main subject and verb to form a complete thought. It leaves us waiting for the rest of the sentence."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence with correct capitalization of course titles:",
+    "opts": [
+      "She is taking Chemistry 101 and a history class.",
+      "She is taking chemistry 101 and a history class.",
+      "She is taking Chemistry 101 and a History class.",
+      "She is taking chemistry 101 and a History class."
+    ],
+    "ans": 0,
+    "exp": "You got it! When referring to a specific course number like 'Chemistry 101', you capitalize the subject name and the number. However, general subjects like 'a history class' are left lowercase, as shown correctly in Option A."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is free of redundancy?",
+    "opts": [
+      "The final conclusion of the report was unexpected.",
+      "The conclusion of the report was unexpected.",
+      "The final end conclusion of the report was unexpected.",
+      "The ultimate final conclusion of the report was unexpected."
+    ],
+    "ans": 1,
+    "exp": "My dear, 'final' already means the end, so saying 'final conclusion' is repeating yourself. Option B is the most straightforward and correct."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is correctly punctuated with coordinate adjectives?",
+    "opts": [
+      "He lived in a cold, dark, drafty house.",
+      "He lived in a cold dark drafty house.",
+      "He lived in a cold, dark drafty house.",
+      "He lived in a cold dark, drafty house."
+    ],
+    "ans": 0,
+    "exp": "Well done! When adjectives independently describe a noun, like 'cold', 'dark', and 'drafty' do here, you separate them with commas. It makes the sentence flow nicely."
+  },
+  {
+    "type": "std",
+    "q": "Which transition word is used to introduce an alternative?",
+    "opts": [
+      "Furthermore",
+      "Alternatively",
+      "Consequently",
+      "Specifically"
+    ],
+    "ans": 1,
+    "exp": "Simply put, 'alternatively' means there is another choice. It's the word used when you want to present a different option, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence with parallel structure in correlative conjunctions:",
+    "opts": [
+      "He wants both to visit the museum and see the monument.",
+      "He wants both to visit the museum and to see the monument.",
+      "He wants to both visit the museum and seeing the monument.",
+      "He wants both to visit the museum and seeing the monument."
+    ],
+    "ans": 1,
+    "exp": "Excellent! Parallel structure means using the same grammatical form. Here, both 'to visit' and 'to see' are infinitives, keeping the sentence balanced and clear."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a comma splice?",
+    "opts": [
+      "The fire was warm, the room was cozy.",
+      "The fire was warm; the room was cozy.",
+      "The fire was warm, and the room was cozy.",
+      "Because the fire was warm, the room was cozy."
+    ],
+    "ans": 0,
+    "exp": "You see, a comma splice happens when you join two complete sentences with only a comma. That's why option A is incorrect; it needs a stronger connection like a semicolon or conjunction."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is written in the active voice?",
+    "opts": [
+      "The glass was broken by the child.",
+      "The child broke the glass.",
+      "The glass has been broken by the child.",
+      "The glass was being broken by the child."
+    ],
+    "ans": 1,
+    "exp": "Fantastic! Active voice is when the subject performs the action. Here, 'the child' is doing the 'breaking', making it active and direct."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses the apostrophe correctly for singular possession?",
+    "opts": [
+      "The childs' toy was lost.",
+      "The child's toy was lost.",
+      "The childs toy' was lost.",
+      "The childs toy was lost."
+    ],
+    "ans": 1,
+    "exp": "That's right! For a singular noun like 'child', you add an apostrophe and an 's' to show possession. 'Child's' clearly indicates the toy belongs to the child."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that uses commas correctly with parenthetical expressions:",
+    "opts": [
+      "The decision, as you know, has already been made.",
+      "The decision as you know, has already been made.",
+      "The decision, as you know has already been made.",
+      "The decision as you know has already been made."
+    ],
+    "ans": 0,
+    "exp": "Exactly! Parenthetical expressions, like 'as you know', interrupt the main sentence but provide extra information. They need to be enclosed by commas on both sides. Nicely done!"
+  },
+  {
+    "type": "std",
+    "q": "Which transition word indicates emphasis?",
+    "opts": [
+      "On the contrary",
+      "Indeed",
+      "Previously",
+      "Meanwhile"
+    ],
+    "ans": 1,
+    "exp": "Indeed! 'Indeed' is a very strong word used to emphasize a point or confirm something. It adds weight to the statement, my dear."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that is free of misplaced modifiers:",
+    "opts": [
+      "She saw a puppy walking down the street looking out the window.",
+      "Looking out the window, she saw a puppy walking down the street.",
+      "She saw a puppy looking out the window walking down the street.",
+      "Walking down the street looking out the window, she saw a puppy."
+    ],
+    "ans": 1,
+    "exp": "Beautifully done! This sentence clearly states who was looking out the window *before* mentioning the puppy. It avoids confusion about who is doing what."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence with correct capitalization of seasons:",
+    "opts": [
+      "I love the colors of the leaves in Autumn.",
+      "I love the colors of the leaves in autumn.",
+      "I love the colors of the Leaves in autumn.",
+      "I love the colors of the Leaves in Autumn."
+    ],
+    "ans": 1,
+    "exp": "Good job! Unless a season is part of a proper noun (like a team name), it's usually written in lowercase. 'Autumn' is just a season here, so option B is correct."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is the most concise sentence?",
+    "opts": [
+      "I will send you a reply back as soon as possible.",
+      "I will reply as soon as possible.",
+      "I will reply back to you as soon as possible.",
+      "I will send a reply back to you as soon as possible."
+    ],
+    "ans": 1,
+    "exp": "Yes! Option B is the most concise. It removes unnecessary words like 'back' and 'send a reply', making the meaning clear with fewer words."
+  },
+  {
+    "type": "std",
+    "q": "Identify the run-on sentence:",
+    "opts": [
+      "The bells rang, the children cheered.",
+      "The bells rang; the children cheered.",
+      "The bells rang, and the children cheered.",
+      "After the bells rang, the children cheered."
+    ],
+    "ans": 0,
+    "exp": "Very good! Like option A in the previous redundant question, this joins two full sentences with just a comma, which is a run-on sentence. It needs better punctuation."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses the semicolon correctly to join clauses connected by a conjunctive adverb?",
+    "opts": [
+      "He wanted to study; instead, he watched television.",
+      "He wanted to study, instead; he watched television.",
+      "He wanted to study; instead he watched television.",
+      "He wanted to study instead; he watched television."
+    ],
+    "ans": 0,
+    "exp": "Exactly! When using a conjunctive adverb like 'instead' to join two independent clauses, you need a semicolon before it and a comma after it. This keeps the sentence structure clear."
+  },
+  {
+    "type": "std",
+    "q": "Which punctuation mark is used to enclose parenthetical information that is less important?",
+    "opts": [
+      "Brackets",
+      "Parentheses",
+      "Dashes",
+      "Semicolons"
+    ],
+    "ans": 1,
+    "exp": "That's correct. Parentheses are used to add extra information that is considered less essential to the main sentence. They help set off that softer, supplementary detail."
+  },
+  {
+    "type": "std",
+    "q": "Choose the sentence that has a parallel structure using noun phrases:",
+    "opts": [
+      "The workshop focused on time management, solving problems, and goal setting.",
+      "The workshop focused on time management, problem-solving, and goal setting.",
+      "The workshop focused on how to manage time, problem-solving, and goal setting.",
+      "The workshop focused on time management, problem-solving, and how to set goals."
+    ],
+    "ans": 1,
+    "exp": "My dear, option B is correct because 'time management,' 'problem-solving,' and 'goal setting' are all noun phrases, creating a smooth, parallel list. The other options mix different structures, which can sound a bit jumbled."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a sentence fragment?",
+    "opts": [
+      "Waiting eagerly for the doors of the theater to open.",
+      "We waited eagerly for the doors of the theater to open.",
+      "While we waited eagerly for the doors of the theater to open, it began to rain.",
+      "We were waiting eagerly for the doors of the theater to open."
+    ],
+    "ans": 0,
+    "exp": "This is a sentence fragment, you see, because it lacks a subject and a main verb to form a complete thought. It's just a descriptive phrase hanging there without a complete sentence to attach to."
+  },
+  {
+    "type": "std",
+    "q": "Identify the sentence with correct capitalization of brand names:",
+    "opts": [
+      "I bought a new Apple computer and a Sony television.",
+      "I bought a new apple computer and a sony television.",
+      "I bought a new Apple Computer and a Sony Television.",
+      "I bought a new apple Computer and a sony Television."
+    ],
+    "ans": 0,
+    "exp": "Brand names are proper nouns, so they must be capitalized. Option A correctly capitalizes 'Apple' and 'Sony' as specific brand names, unlike the other options."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is free of redundancy?",
+    "opts": [
+      "They gathered together in the hall.",
+      "They gathered in the hall.",
+      "They gathered together in a group in the hall.",
+      "They assembled and gathered together in the hall."
+    ],
+    "ans": 1,
+    "exp": "Simply put, 'gathered' already means to come together. Adding 'together' is redundant. Option B is concise and clear without unnecessary repetition."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is correctly punctuated with a non-restrictive relative clause?",
+    "opts": [
+      "The professor, who taught chemistry, retired last month.",
+      "The professor who taught chemistry, retired last month.",
+      "The professor, who taught chemistry retired last month.",
+      "The professor who taught chemistry retired last month."
+    ],
+    "ans": 0,
+    "exp": "When a clause provides extra, non-essential information about the noun, it's set off by commas. Option A correctly uses commas to show that 'who taught chemistry' is additional info about the professor."
+  },
+  {
+    "type": "std",
+    "q": "Which transition word is used to signal a restatement?",
+    "opts": [
+      "Furthermore",
+      "In other words",
+      "Consequently",
+      "On the contrary"
+    ],
+    "ans": 1,
+    "exp": "This transition word is used to say the same thing again in a simpler or clearer way, my dear. 'In other words' signals that a restatement is coming."
+  },
+  {
+    "type": "std",
+    "q": "Select the sentence with parallel structure in past participles:",
+    "opts": [
+      "The building was designed, constructed, and painted in three months.",
+      "The building was designed, constructing, and painted in three months.",
+      "The building was designed, constructed, and they painted it in three months.",
+      "The building was designed, constructed, and being painted in three months."
+    ],
+    "ans": 0,
+    "exp": "For parallel structure, all items in the list should have the same grammatical form. Option A uses past participles ('designed', 'constructed', 'painted') consistently."
+  },
+  {
+    "type": "std",
+    "q": "Which of the following is a comma splice?",
+    "opts": [
+      "The music was loud, the party was lively.",
+      "The music was loud; the party was lively.",
+      "The music was loud, so the party was lively.",
+      "Because the music was loud, the party was lively."
+    ],
+    "ans": 0,
+    "exp": "A comma splice happens when two independent clauses are joined only by a comma. Option A has this error; it should be separated by a period, semicolon, or conjunction."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence is written in the active voice?",
+    "opts": [
+      "The tree was climbed by the cat.",
+      "The cat climbed the tree.",
+      "The tree has been climbed by the cat.",
+      "The tree was being climbed by the cat."
+    ],
+    "ans": 1,
+    "exp": "The active voice is when the subject performs the action. Here, 'the cat' is the subject, and it performs the action of 'climbed' the tree. All other options place the tree as the subject doing the action."
+  },
+  {
+    "type": "std",
+    "q": "Which sentence uses the apostrophe correctly for a joint possession?",
+    "opts": [
+      "Jack's and Jill's room is upstairs.",
+      "Jack and Jill's room is upstairs.",
+      "Jacks and Jills' room is upstairs.",
+      "Jack and Jills room' is upstairs."
+    ],
+    "ans": 1,
+    "exp": "For joint possession, the apostrophe goes on the last noun to show they both share the item. So, 'Jack and Jill's room' means one room belonging to both of them."
+  }
+]
